@@ -2,11 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[member](./member.html).
 
-![Oceanix](https://github.githubassets.com/img/flyer_Oceanixv2.jpg)
+![Oceanix](/img/flyer_Oceanixv2.jpg)
 
 ## Summary
 
