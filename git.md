@@ -68,7 +68,7 @@ Il est intéressant de créer un projet test de cette manière afin de découvri
 ## Ressources
 
 
+[Quickstart github](https://help.github.com/en/github/getting-started-with-github/quickstart)
 
-https://help.github.com/en/github/getting-started-with-github/quickstart
+[Desktop github](https://desktop.github.com/)
 
-https://desktop.github.com/
