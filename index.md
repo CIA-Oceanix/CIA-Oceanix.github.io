@@ -23,3 +23,6 @@ Covering more than 70% of earth’s surface, the oceans, especially the upper oc
 
 
 [Members of the team](./member.html)
+
+[On the use of github](./git.html)
+
