@@ -1,5 +1,8 @@
 ## Github
 
+### Fonctionnement de Github
+
+
 ### Créer un projet sur github pas à pas (avec linux)
 - Créer un nouveau dépôt
   - créez un nouveau dossier **mkdir /path/to/directory**
