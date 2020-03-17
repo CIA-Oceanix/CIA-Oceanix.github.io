@@ -3,8 +3,6 @@ layout: default
 ---
 
 
-[member](./member.html).
-
 ![Oceanix](/img/flyer_Oceanixv2.jpg)
 
 ## Summary
@@ -23,3 +21,5 @@ Covering more than 70% of earth’s surface, the oceans, especially the upper oc
 
 **Operating budget:** 2M€ over 5 years (including 9 PhD scholarships)
 
+
+[Members of the team](./member.html)
