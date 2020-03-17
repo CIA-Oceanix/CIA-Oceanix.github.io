@@ -12,7 +12,7 @@
 - Ajouter et valider des fichiers
   - Vous pouvez proposer un changement (l'ajouter à l'Index) en exécutant les commandes :
    - **git add file** (pour ajouter un fichier spécifique)
-   - "git add *" (pour ajouter tout les fichiers présent dans le dépôt)
+   - "git add *" (pour ajouter tout les fichiers présent dans le dépôt) (A NE PAS FAIRE)
   - Il faut ensuite commit vos changements :
    - exécutez **git commit -m "Message de commit"**
   - Le fichier est alors ajouté au HEAD du dépôt local, mais pas encore dans le dépôt distant, pour les envoyer au dépôt distant
@@ -33,12 +33,16 @@
   - si le merge échoue 
    - vous devez régler les conflits manuellement en éditant les fichiers indiqués par github
    - puis marquer les fichiers comme étant fusionnés avec **git add file**
- 
- - Annuler des changements locaux
+- Annuler des changements locaux
   - exécutez **git checkout -- file** pour remplacer le contenu de HEAD avec la version précédente du fichier
   - pour annulez tout les changements locaux
-    - exécutez **git fetch origin**
-    - puis **git reset --hard origin/master**
+   - exécutez **git fetch origin**
+   - puis **git reset --hard origin/master**
+
+
+ 
+
+
     
   
 
@@ -52,6 +56,7 @@ Il est intéressant de créer un projet test de cette manière afin de découvri
 1.  Commiter dès les 1eres lignes de code
 1.  Commiter régulièrement
 1.  Commenter votre commit
+1.  Eviter d'utiliser git add * et sélectionnez les fichiers que vous ajoutez
 1.  Lors de projet de groupe il est intéressant de commencer par établir une norme des commits avec les autres membres
 1.  **TRAVAILLER SUR VOTRE PROPRE BRANCHE** lorsque vous travailler à plusieurs sur un projet ...
 1.  ... et également lorsque vous travailler seul. Afin de ne pas casser votre projet, créer une nouvelle branche quand vous commencez à travailler sur une nouvelle feature
