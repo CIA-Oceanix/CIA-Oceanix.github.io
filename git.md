@@ -12,24 +12,36 @@
 - Ajouter et valider des fichiers
   - Vous pouvez proposer un changement (l'ajouter à l'Index) en exécutant les commandes :
     - **git add file** (pour ajouter un fichier spécifique)
-    - **git add * **   (pour ajouter tout les fichiers présent dans le dépôt)
+    - "git add *" (pour ajouter tout les fichiers présent dans le dépôt)
   - Il faut ensuite commit vos changements :
     - exécutez **git commit -m "Message de commit"**
   - Le fichier est alors ajouté au HEAD du dépôt local, mais pas encore dans le dépôt distant, pour les envoyer au dépôt distant
     - exécutez **git push origin branche** (avec branche étant le nom de la branche sur laquelle vous pushez)
-- Mettre à jour le dépôt local depuis le dépôt distant
+    
+- Mettre à jour le dépôt local depuis le dépôt distant **(à faire avant d'envoyer n'importe quelle modification sur le dépôt distant)**
   - exécutez **git pull**
   - Vous aurez alors récupérez et fusionner les changements du dépôt distant avec votre dépôt local
-- Fusionner une branche avec la branche active
-  - exécutez ** git merge branche ** 
-  - si le merge échoue 
-    - vous devez régler les conflits manuellement en éditant les fichiers indiqués par github
-    - puis marquer les fichiers comme étant fusionnés avec ** git add file **
+
 - Pour créer une nouvelle branche
   - exéctuez **git checkout -b nouvelle_branche** (à noter que cette commande vous fera directement passer sur la nouvelle branche)
   - pour retourner sur la branche principale exécutez **git checkout master**
-  - pour que les autres membres du groupe puissent accéder à la branche, vous devez l'envoyer vers le dé^pot distant
+  - pour que les autres membres du groupe puissent accéder à la branche, vous devez l'envoyer vers le dépôt distant
     - exécutez **git push origin nouvelle_branche**
+
+- Fusionner une branche avec la branche active
+  - exécutez **git merge branche** 
+  - si le merge échoue 
+    - vous devez régler les conflits manuellement en éditant les fichiers indiqués par github
+    - puis marquer les fichiers comme étant fusionnés avec ** git add file **
+ 
+ - Annuler des changements locaux
+  - exécutez **git checkout -- file** pour remplacer le contenu de HEAD avec la version précédente du fichier
+  - pour annulez tout les changements locaux
+    - exécutez **git fetch origin**
+    - puis **git reset --hard origin/master**
+    
+  
+
 
 
 Il est intéressant de créer un projet test de cette manière afin de découvrir le fonctionnement de github avant de se tourner vers github desktop
