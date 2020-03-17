@@ -6,118 +6,21 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+![Oceanix](https://github.githubassets.com/img/flyer_Oceanixv2.jpg)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Summary
 
-# Header 1
+Covering more than 70% of earth’s surface, the oceans, especially the upper oceans (e.g., the first few hundred meters below the oceans’ surface), play key roles for the regulation of the earth climate (e.g., climate change) as well as for human societies (e.g., marine resources and maritime activities). Despite ever-increasing development of simulation and observation capabilities leading to ocean big data, our ability to understand, reconstruct and forecast upper ocean dynamics and police maritime activities remains limited for key societal challenges (e.g., catastrophe monitoring, global current changes, fishery, energy production, illegal activities). Building upon the cross-fertilization of the cutting-edge expertise of Ifremer and Univ. of Brest in marine science and technology and IMT Atlantique in engineering/data science, OceaniX aims to explore and develop **AI-driven strategies and frameworks for the next-generation of self-adaptive multi-platform ocean monitoring and surveillance systems and services with an emphasis on observability and sampling optimality issues for complex dynamics and processes, including extremes and long-term properties**. This general objective will rely on bridging model-driven paradigms underlying physical sciences and data-driven learning-based approaches at the core of AI to learn novel computationally-efficient and physically-sound representations of complex dynamical systems. Supported both by institutional and industrial partners, we aim to develop a cutting-edge dual expertise in AI and Ocean science with a particular emphasis on academy-industry synergies and international attractiveness.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Keywords:** _data-driven representations, complex dynamical systems, deep learning, inverse problems, upper ocean dynamics, maritime activities, spacebone and in situ sensors, multi-platform and multi-source data, geophysical extremes, observability, predictability._
 
-## Header 2
+**Institutional partnerships:** ANR, CNES, ENSTA Br., Ecole Navale, ESA, Ifremer, IMT Atlantique, IRD, ISblue, SHOM
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Industrial partnerships:** ACRI-ST/ARGANS, CLS, Eodyn, ITE-FEM, Mercator-Ocean, Microsoft, Naval Group, ODL, OceanNext, Scalian
 
-### Header 3
+**International collaborators:** Prof. S. Brunton (Univ. Washington, USA), Prof. S Matwin (Dalhousie Univ., Canada), Prof. A. Mahadevan (WHOI, USA), L. Bertino (NERSC, Norway), F. Doblas-Reyes (BSC, Spain)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Role in the project**: Principal Investigator (co-PIs: B. Chapron (Ifremer, LOPS), X. Carton (UBO, LOPS), L. Méméery (CNRS, LEMAR))
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Operating budget:** 2M€ over 5 years (including 9 PhD scholarships)
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
