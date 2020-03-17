@@ -57,8 +57,8 @@ Il est intéressant de créer un projet test de cette manière afin de découvri
 1.  ... et également lorsque vous travailler seul. Afin de ne pas casser votre projet, créer une nouvelle branche quand vous commencez à travailler sur une nouvelle feature
 1.  Ecrire un readme contenant les informations de votre projet, comment l'installer, les libs utilisés...etc de manière à ce qu'ils puissent être réutiliser de la façon la plus simple possible
 1.  Merger avec précaution, assurez vous de ne pas avoir de modification non commitée, assurez vous qu'il n'y ait pas de conflits localement avant d'appliquer les changements...
-1.  ... et en cas de conflit utiliser **git merge -abort.** affin de rollback votre merge
-1.  Commenter votre commit
+1.  ... et en cas de conflit utiliser **git merge -abort** afin de rollback votre merge
+
 
 ## Ressources
 
