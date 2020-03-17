@@ -67,6 +67,7 @@ Il est intéressant de créer un projet test de cette manière afin de découvri
 
 ## Ressources
 
+[Understand Github conceptually](https://www.sbf5.com/~cduan/technical/git/)
 
 [Quickstart github](https://help.github.com/en/github/getting-started-with-github/quickstart)
 
