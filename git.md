@@ -1,7 +1,7 @@
 ## Github
 
 ### Fonctionnement de Git
-Git est gestionnaire de version développer par Linus Torvalds (qui a également développé Linux).
+Git est un gestionnaire de version développé par Linus Torvalds (qui a également développé Linux).
 
 #### Pourquoi utiliser git?
 Supposons que vous travailler à plusieurs sur un projet, git vous permettra de créer une copie du projet, de faire des modifications, les sauvegarder et les fusionner avec celles de vos collègues en évitant toutes pertes et en conservant un historique de votre projet.
@@ -13,9 +13,9 @@ Vous pouvez télécharger, faire des copies ou forker n'importe quel projet publ
 
 #### Un lexique pour commencer
 Contrôle de version : Fonctionnalité de Git qui permet de sauvegarder des étapes du développement de votre projet
-Dépôt (ou repo pour repository): répertoire dans lequel vous allez dévelloper votre projet
-Commit : la commande qui vous permez de créer un point de contrôle dans le développement de votre projet, vous pourrez ainsi restaurer votre projet à cette étape en cas de besoin.
-Branche : Afin de ne pas écraser le travail de vos collègues, Git permet de travailler sur des branches, il existe la branche principale du projet (Master) puis les branches que chaque utilisateurs va créer (qui sera une copie de Master à un instant t) afin d'apporter ces modifications sans géner le travail des autres pour ensuite les apporter à la branche principale 
+Dépôt (ou repo pour repository): répertoire dans lequel vous allez développer votre projet
+Commit : la commande qui permet de créer un point de contrôle dans le développement de votre projet, vous pourrez ainsi restaurer votre projet à cette étape en cas de besoin.
+Branche : afin de ne pas écraser le travail de vos collègues, Git permet de travailler sur des branches, il existe la branche principale du projet (Master) puis les branches que chaque utilisateur va créer (qui sera une copie de Master à un instant t) afin d'apporter ces modifications sans gêner le travail des autres pour ensuite les apporter à la branche principale 
 
 
 ### Créer un projet sur github pas à pas (avec linux)
@@ -84,7 +84,7 @@ Branche : Afin de ne pas écraser le travail de vos collègues, Git permet de tr
     
 
 
-Il est intéressant de créer un projet test de cette manière afin de découvrir le fonctionnement de github avant de se tourner vers github desktop qui vous permettra d'exécutez toutes ces commandes via une interface graphique (pour ceux qui ne sont pas à l'aise avec les lignes de commandes)
+Il est intéressant de créer un projet test de cette manière afin de découvrir le fonctionnement de github avant de se tourner vers github desktop qui vous permettra d'exécuter toutes ces commandes via une interface graphique (pour ceux qui ne sont pas à l'aise avec les lignes de commandes)
 
 ### Conseils d'utilisation
 
