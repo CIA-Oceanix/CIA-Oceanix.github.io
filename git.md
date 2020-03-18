@@ -4,7 +4,7 @@
 Git est un gestionnaire de version développé par Linus Torvalds (qui a également développé Linux).
 
 #### Pourquoi utiliser git?
-Supposons que vous travailler à plusieurs sur un projet, git vous permettra de créer une copie du projet, de faire des modifications, les sauvegarder et les fusionner avec celles de vos collègues en évitant toutes pertes et en conservant un historique de votre projet.
+Supposons que vous travaillez à plusieurs sur un projet, git vous permettra de créer une copie du projet, de faire des modifications, les sauvegarder et les fusionner avec celles de vos collègues en évitant toutes pertes et en conservant un historique de votre projet.
 
 #### Et Github?
 Github facilite l'utilisation de Git, son logiciel Github Desktop permet de gérer vos dépôts avec une interface graphique.
@@ -21,8 +21,8 @@ Vous pouvez télécharger, faire des copies ou forker n'importe quel projet publ
 ### Créer un projet sur github pas à pas (avec linux)
 #### Créer un nouveau dépôt
   - créez un nouveau dossier **mkdir /path/to/directory**
-  - placer vous dans le dossier **cd /path/to/directory**
-  - exécutez la command **git init** pour créer le dépôt
+  - placez-vous dans le dossier **cd /path/to/directory**
+  - exécutez la commande **git init** pour créer le dépôt
 
 
 #### Cloner un dépôt existant sur votre machine
@@ -32,7 +32,7 @@ Vous pouvez télécharger, faire des copies ou forker n'importe quel projet publ
 #### Ajouter et valider des fichiers
   - Vous pouvez proposer un changement en exécutant les commandes :
     - **git add _file-name_** (pour ajouter un fichier spécifique)
-    - **git add \*** (pour ajouter tout les fichiers présent dans le dépôt) (A NE PAS FAIRE)
+    - **git add \*** (pour ajouter tout les fichiers présents dans le dépôt) (A NE PAS FAIRE)
   - Afin de vérifier le statut du dépôt, connaître les modifications à commiter et les fichiers à ajouter
     - exécutez **git status**
   - Il faut ensuite commit vos changements :
@@ -42,14 +42,14 @@ Vous pouvez télécharger, faire des copies ou forker n'importe quel projet publ
  
  
 #### Mettre à jour le dépôt local depuis le dépôt distant **(à faire avant d'envoyer n'importe quelle modification sur le dépôt distant)**
-  - exécutez **git pull**
+  - Exécutez **git pull**
   - Vous aurez alors récupérez et fusionner les changements du dépôt distant avec votre dépôt local
 
 
 #### Pour créer une nouvelle branche
-  - exéctuez **git checkout -b _new-branch_** (à noter que cette commande vous fera directement passer sur la nouvelle branche)
-  - pour retourner sur la branche principale exécutez **git checkout master**
-  - pour que les autres membres du groupe puissent accéder à la branche, vous devez l'envoyer vers le dépôt distant
+  - Exécutez **git checkout -b _new-branch_** (à noter que cette commande vous fera directement passer sur la nouvelle branche)
+  - Pour retourner sur la branche principale exécutez **git checkout master**
+  - Pour que les autres membres du groupe puissent accéder à la branche, vous devez l'envoyer vers le dépôt distant
     - exécutez **git push origin _new-branch_**
 
 
@@ -61,15 +61,15 @@ Vous pouvez télécharger, faire des copies ou forker n'importe quel projet publ
    
    
 #### Annuler des changements locaux
-  - exécutez **git checkout -- _file-name_** pour remplacer le contenu de HEAD avec la version précédente du fichier
-  - pour annulez tout les changements locaux
+  - exécutez **git checkout -- _file-name_** pour remplacer le contenu actuel avec la version précédente du fichier
+  - pour annuler tous les changements locaux
     - exécutez **git fetch origin**
     - puis **git reset --hard origin/master**
 
 #### Sauvegarder des modifications avec git stash
-  - Lorsque vous travaillez sur une feature qui n'est pas encore terminé et que vous ne voulez pas encore la commit, vous pouvez la sauvegarder localement avec la commande **git stash** pour la mettre de côté et la finir plus tard
+  - Lorsque vous travaillez sur une feature qui n'est pas encore terminée et que vous ne voulez pas encore la commit, vous pouvez la sauvegarder localement avec la commande **git stash** pour la mettre de côté et la finir plus tard
     - exécutez **git stash** 
-    - toutes les modifications que vous avez fait depuis le dernier commit disparaitront et seront sauvegardés
+    - toutes les modifications que vous avez faites depuis le dernier commit disparaitront et seront sauvegardées
   - Pour restaurer ces modifications vous pourrez utiliser la commande **git stash apply**
  
     
@@ -90,16 +90,16 @@ Il est intéressant de créer un projet test de cette manière afin de découvri
 
 1.  Synchroniser le code régulièrement (git pull)
 1.  Eviter d'utiliser **git add \*** et sélectionnez les fichiers que vous ajoutez
-1.  Commiter dès les 1eres lignes de code
+1.  Commiter dès les premières lignes de code
 1.  Commiter régulièrement
 1.  Commenter votre commit
-1.  Lors de projet de groupe il est intéressant de commencer par établir une norme des commits avec les autres membres
+1.  Lors de projets de groupe il est intéressant de commencer par établir une norme des commits avec les autres membres
 1.  **TRAVAILLER SUR VOTRE PROPRE BRANCHE** lorsque vous travailler à plusieurs sur un projet ...
-1.  ... et également lorsque vous travailler seul. Afin de ne pas casser votre projet, créer une nouvelle branche quand vous commencez à travailler sur une nouvelle feature
-1.  Ecrire un readme contenant les informations de votre projet, comment l'installer, les libs utilisés...etc de manière à ce qu'ils puissent être réutiliser de la façon la plus simple possible
-1.  Merger avec précaution, assurez vous de ne pas avoir de modification non commitée, assurez vous qu'il n'y ait pas de conflits localement avant d'appliquer les changements...
+1.  ... et également lorsque vous travaillez seul. Afin de ne pas casser votre projet, créer une nouvelle branche quand vous commencez à travailler sur une nouvelle feature
+1.  Ecrire un readme contenant les informations de votre projet, comment l'installer, les libs utilisés...etc de manière à ce qu'ils puissent être réutilisés de la façon la plus simple possible
+1.  Merger avec précaution, assurez-vous de ne pas avoir de modification non commitée, assurez-vous qu'il n'y ait pas de conflits localement avant d'appliquer les changements...
 1.  ... et en cas de conflit utiliser **git merge -abort** afin de rollback votre merge
-1.  **GIT STASH N'EST PAS N'EST PAS UNE COMMANDE DE BACK-UP MAIS DE PROCRASTINATION**
+1.  **GIT STASH N'EST PAS UNE COMMANDE DE BACK-UP MAIS DE PROCRASTINATION**
 
 
 ## Ressources
