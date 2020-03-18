@@ -1,6 +1,21 @@
 ## Github
 
-### Fonctionnement de Github
+### Fonctionnement de Git
+Git est gestionnaire de version développer par Linus Torvalds (qui a également développé Linux).
+
+#### Pourquoi utiliser git?
+Supposons que vous travailler à plusieurs sur un projet, git vous permettra de créer une copie du projet, de faire des modifications, les sauvegarder et les fusionner avec celles de vos collègues en évitant toutes pertes et en conservant un historique de votre projet.
+
+#### Et Github?
+Github facilite l'utilisation de Git, son logiciel Github Desktop permet de gérer vos dépôts avec une interface graphique.
+De plus il permet d'accéder à ses projets de n'importe où, de partager vos projets facilement avec d'autres personnes ou de parcourir les projets des autres utilisateurs ( on peut voir github comme un réseau social de développeur).
+Vous pouvez télécharger, faire des copies ou forker n'importe quel projet public qui se trouve sur le site.
+
+#### Un lexique pour commencer
+Contrôle de version : Fonctionnalité de Git qui permet de sauvegarder des étapes du développement de votre projet
+Dépôt (ou repo pour repository): répertoire dans lequel vous allez dévelloper votre projet
+Commit : la commande qui vous permez de créer un point de contrôle dans le développement de votre projet, vous pourrez ainsi restaurer votre projet à cette étape en cas de besoin.
+Branche : Afin de ne pas écraser le travail de vos collègues, Git permet de travailler sur des branches, il existe la branche principale du projet (Master) puis les branches que chaque utilisateurs va créer (qui sera une copie de Master à un instant t) afin d'apporter ces modifications sans géner le travail des autres pour ensuite les apporter à la branche principale 
 
 
 ### Créer un projet sur github pas à pas (avec linux)
@@ -15,13 +30,15 @@
 
 
 #### Ajouter et valider des fichiers
-  - Vous pouvez proposer un changement (l'ajouter à l'Index) en exécutant les commandes :
-    - **git add file** (pour ajouter un fichier spécifique)
+  - Vous pouvez proposer un changement en exécutant les commandes :
+    - **git add _file-name_** (pour ajouter un fichier spécifique)
     - **git add \*** (pour ajouter tout les fichiers présent dans le dépôt) (A NE PAS FAIRE)
+  - Afin de vérifier le statut du dépôt, connaître les modifications à commiter et les fichiers à ajouter
+    - exécutez **git status**
   - Il faut ensuite commit vos changements :
     - exécutez **git commit -m "Message de commit"**
-    - Le fichier est alors ajouté au HEAD du dépôt local, mais pas encore dans le dépôt distant, pour les envoyer au dépôt distant
-    - exécutez **git push origin branche** (avec branche étant le nom de la branche sur laquelle vous pushez)
+    - Le fichier est alors commit au niveau du dépôt local, mais pas encore dans le dépôt distant, pour les envoyer au dépôt distant
+    - exécutez **git push origin _branch-name_** (avec branche étant le nom de la branche sur laquelle vous pushez)
  
  
 #### Mettre à jour le dépôt local depuis le dépôt distant **(à faire avant d'envoyer n'importe quelle modification sur le dépôt distant)**
@@ -30,21 +47,21 @@
 
 
 #### Pour créer une nouvelle branche
-  - exéctuez **git checkout -b nouvelle_branche** (à noter que cette commande vous fera directement passer sur la nouvelle branche)
+  - exéctuez **git checkout -b _new-branch_** (à noter que cette commande vous fera directement passer sur la nouvelle branche)
   - pour retourner sur la branche principale exécutez **git checkout master**
   - pour que les autres membres du groupe puissent accéder à la branche, vous devez l'envoyer vers le dépôt distant
-    - exécutez **git push origin nouvelle_branche**
+    - exécutez **git push origin _new-branch_**
 
 
 #### Fusionner une branche avec la branche active
-  - exécutez **git merge branche** 
+  - exécutez **git merge _branch_** 
   - si le merge échoue 
     - vous devez régler les conflits manuellement en éditant les fichiers indiqués par github
     - puis marquer les fichiers comme étant fusionnés avec **git add file**
    
    
 #### Annuler des changements locaux
-  - exécutez **git checkout -- file** pour remplacer le contenu de HEAD avec la version précédente du fichier
+  - exécutez **git checkout -- _file-name_** pour remplacer le contenu de HEAD avec la version précédente du fichier
   - pour annulez tout les changements locaux
     - exécutez **git fetch origin**
     - puis **git reset --hard origin/master**
