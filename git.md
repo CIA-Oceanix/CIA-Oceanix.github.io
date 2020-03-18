@@ -49,24 +49,40 @@
     - exécutez **git fetch origin**
     - puis **git reset --hard origin/master**
 
+#### Sauvegarder des modifications avec git stash
+  - Lorsque vous travaillez sur une feature qui n'est pas encore terminé et que vous ne voulez pas encore la commit, vous pouvez la sauvegarder localement avec la commande **git stash** pour la mettre de côté et la finir plus tard
+    - exécutez **git stash** 
+    - toutes les modifications que vous avez fait depuis le dernier commit disparaitront et seront sauvegardés
+  - Pour restaurer ces modifications vous pourrez utiliser la commande **git stash apply**
+ 
+    
+#### Aller plus loin avec git stash
+  - Vous pouvez avoir plusieurs stash en cours
+    - pour les lister exécutez **git stash list**
+    - pour appliquer un stash spécifique exécutez **git stash apply stash@{0}**
+    - pour visualiser ce qu'il y a dans un stash exécutez **git stash show stash@{0}**
+    - Pour supprimer un stash, exécutez **git stash drop stash@{0}**
+  - Si un stash devient trop important il est possible de le transformer en branche à part entière 
+    - exécutez **git stash branch stash@{0}**
+    
 
 
-
-Il est intéressant de créer un projet test de cette manière afin de découvrir le fonctionnement de github avant de se tourner vers github desktop
+Il est intéressant de créer un projet test de cette manière afin de découvrir le fonctionnement de github avant de se tourner vers github desktop qui vous permettra d'exécutez toutes ces commandes via une interface graphique (pour ceux qui ne sont pas à l'aise avec les lignes de commandes)
 
 ### Conseils d'utilisation
 
-1.  Synchroniser le code régulièrement (git pull) 
+1.  Synchroniser le code régulièrement (git pull)
+1.  Eviter d'utiliser **git add \*** et sélectionnez les fichiers que vous ajoutez
 1.  Commiter dès les 1eres lignes de code
 1.  Commiter régulièrement
 1.  Commenter votre commit
-1.  Eviter d'utiliser **git add \*** et sélectionnez les fichiers que vous ajoutez
 1.  Lors de projet de groupe il est intéressant de commencer par établir une norme des commits avec les autres membres
 1.  **TRAVAILLER SUR VOTRE PROPRE BRANCHE** lorsque vous travailler à plusieurs sur un projet ...
 1.  ... et également lorsque vous travailler seul. Afin de ne pas casser votre projet, créer une nouvelle branche quand vous commencez à travailler sur une nouvelle feature
 1.  Ecrire un readme contenant les informations de votre projet, comment l'installer, les libs utilisés...etc de manière à ce qu'ils puissent être réutiliser de la façon la plus simple possible
 1.  Merger avec précaution, assurez vous de ne pas avoir de modification non commitée, assurez vous qu'il n'y ait pas de conflits localement avant d'appliquer les changements...
 1.  ... et en cas de conflit utiliser **git merge -abort** afin de rollback votre merge
+1.  **GIT STASH N'EST PAS N'EST PAS UNE COMMANDE DE BACK-UP MAIS DE PROCRASTINATION**
 
 
 ## Ressources
