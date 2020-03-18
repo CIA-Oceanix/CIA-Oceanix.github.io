@@ -57,7 +57,7 @@ Vous pouvez télécharger, faire des copies ou forker n'importe quel projet publ
   - exécutez **git merge _branch_** 
   - si le merge échoue 
     - vous devez régler les conflits manuellement en éditant les fichiers indiqués par github
-    - puis marquer les fichiers comme étant fusionnés avec **git add file**
+    - puis marquer les fichiers comme étant fusionnés avec **git add _file-name_**
    
    
 #### Annuler des changements locaux
