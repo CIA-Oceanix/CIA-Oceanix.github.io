@@ -12,10 +12,10 @@ De plus il permet d'accéder à ses projets de n'importe où, de partager vos pr
 Vous pouvez télécharger, faire des copies ou forker n'importe quel projet public qui se trouve sur le site.
 
 #### Un lexique pour commencer
-Contrôle de version : Fonctionnalité de Git qui permet de sauvegarder des étapes du développement de votre projet
-Dépôt (ou repo pour repository): répertoire dans lequel vous allez développer votre projet
-Commit : la commande qui permet de créer un point de contrôle dans le développement de votre projet, vous pourrez ainsi restaurer votre projet à cette étape en cas de besoin.
-Branche : afin de ne pas écraser le travail de vos collègues, Git permet de travailler sur des branches, il existe la branche principale du projet (Master) puis les branches que chaque utilisateur va créer (qui sera une copie de Master à un instant t) afin d'apporter ces modifications sans gêner le travail des autres pour ensuite les apporter à la branche principale 
+  - **Contrôle de version :** Fonctionnalité de Git qui permet de sauvegarder des étapes du développement de votre projet
+  - **Dépôt (ou repo pour repository):** répertoire dans lequel vous allez développer votre projet
+  - **Commit :** la commande qui permet de créer un point de contrôle dans le développement de votre projet, vous pourrez ainsi restaurer votre projet à cette étape en cas de besoin.
+  - **Branche :** afin de ne pas écraser le travail de vos collègues, Git permet de travailler sur des branches, il existe la branche principale du projet (Master) puis les branches que chaque utilisateur va créer (qui sera une copie de Master à un instant t) afin d'apporter ces modifications sans gêner le travail des autres pour ensuite les apporter à la branche principale 
 
 
 ### Créer un projet sur github pas à pas (avec linux)
