@@ -26,7 +26,7 @@ Vous pouvez télécharger, faire des copies ou forker (c'est à dire copier loca
 
 
 #### Cloner un dépôt existant sur votre machine
-  - exécutez **git clone "https://github.com/depot.git"**
+  - exécutez **git clone https://github.com/depot.git**
 
 
 #### Ajouter et valider des fichiers
