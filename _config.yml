@@ -1,53 +1,45 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-exclude: [bibble, README.md, Makefile, screenshot.png]
+# Site settings
+title: The Allan Lab
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: ""
+url: ""
 
-# colorize code snippets with the pygments module
-highlighter: pygments
+include:
+  - .htaccess
+  - _pages
 
-# The path structure for blog posts.
-permalink: /blog/:year/:month/:day/:title.html
+sass:
+  sass_dir: _sass
 
-# Sections on the "people" page.
-roles:
-  - key: faculty
-    name: Faculty
-  - key: staff
-    name: Staff
-  - key: postdoc
-    name: Researchers
-  - key: grad
-    name: Graduate Students
-  - key: ugrad
-    name: Undergraduate Students
-  - key: ugrad-alum
-    name: Past Undergraduate Students
-  - key: collab
-    name: Collaborators
-  - key: alum
-    name: Alumni
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# Number of news stories on the front page.
-front_page_news: 8
 
-# Base pathname for links.
-base: ''
 
-# make pages for the _projects folder
-collections:
-  projects:
-    output: true
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-# Navigation bar links.
-navigation:
-  - title: Home
-    link: /
-  - title: People
-    link: /#people
-  - title: Research
-    link: /research.html
-  - title: Publications
-    link: /publications.html
-  - title: Code
-    link: /code.html
