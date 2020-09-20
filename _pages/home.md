@@ -1,5 +1,5 @@
 ---
-title: "AI Chair OcaaniX- Home"
+title: "AI Chair OceaniX- Home"
 layout: homelay
 excerpt: "Chair OceaniX: AI and Ocean."
 sitemap: false
