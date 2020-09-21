@@ -1,17 +1,17 @@
 ---
-title: "Allan Lab - Publications"
+title: "AI Chair OceaniX - Highlights"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "AI Chair OceaniX -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
 # Publications
+(For a more detailed list of publications of AI Chair OceaniX <!--full list see [below](#full-list) or--> go to [Google Scholar](https://scholar.google.ch/citations?user=0donG7gAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Ronan_Fablet))
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,7 +51,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
+<!--
 ## Full List
 
 {% for publi in site.data.publist %}
@@ -60,3 +60,4 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+-->
