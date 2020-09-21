@@ -8,7 +8,9 @@
     url: https://github.com/CIA-Oceanix/DAODEN
     display:  Git repo
   highlight: 1
+  codetype: 1
   news2:
+
 - title: "SSH mapping Data Challenge"
   image: figSSH_DINAE.jpg
   description: Pytorch package for the banchmarking of space-time interpolation algorithms for the mapping of SSH fields from satellite data.
@@ -18,6 +20,7 @@
     url: https://github.com/CIA-Oceanix/DAODEN
     display:  Git repo
   highlight: 1
+  codetype: 2
   news2:
 
 - title: "DAODEN"
@@ -40,4 +43,19 @@
     url: https://github.com/CIA-Oceanix/pdenetgen
     display:  Git repo
   highlight: 1
+  codetype: 1
   news2:
+  
+ - title: "DetideNet"
+  image: fig_sketch_4DVarNN.jpg
+  description: Pytorch package for filtering Internal tides from wide-swath altimeter data using Convolutional Neural Networks.
+  author: R. Lguensat
+  paper:
+    url: https://arxiv.org/abs/2005.01090
+  link:
+    url: https://github.com/CIA-Oceanix/DetideNet
+    display:  Git repo
+  highlight: 0
+  codetype: 1
+  news2:
+
