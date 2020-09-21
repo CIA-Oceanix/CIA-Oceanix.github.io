@@ -25,16 +25,16 @@ intedisciplinary Graduate school for the Blue planet (https://www.isblue.fr/fr/)
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oceanix.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oceanix.jpg" style="width: 1000px" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_SSHDinAE.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_SSHDinAE.jpg" style="width: 1000px" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_detideNet.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_detideNet.jpg" style="width: 1000px" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_4DVarNN_SSH.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_4DVarNN_SSH.jpg" style="width: 1000px" alt="Slide 4" />
         </div>
         <!--<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
@@ -61,7 +61,7 @@ Our general objective is to bridge model-driven paradigms underlying physical sc
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_OceanixSupport.jpg" style="width: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_OceanixSupport.jpg" style="width: 200px">
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ISBLUE.png" style="width: 50px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anr.png" style="width: 50px">-->
 </figure>
