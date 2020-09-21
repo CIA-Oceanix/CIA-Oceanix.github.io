@@ -1,8 +1,33 @@
+- name: Pierre Ailliot
+  photo: rock.jpg
+  info: Ass. Professor at Univ. Brest/LMBA, France
+  webpage: http://pagesperso.univ-brest.fr/~ailliot/index.html
+
+- name: Sophie Bertrand
+  photo: rock.jpg
+  info: Senior Scientist IRD, Marbec, Sète, France
+  webpage: http://www.umr-marbec.fr/bertrand-sophie.html?lang=fr
+
 - name: Julien Le Sommer
   photo: julien.jpg
   info: CNRS Scientist at IGE/MEOM, Grenoble, France
   webpage: https://lesommer.github.io/
   
+- name: Elodie Martinez
+  photo: rock.jpg
+  info: Scientist IRD, LOPS, Brest, France
+  webpage: https://scholar.google.fr/citations?user=zzybZqsAAAAJ&hl=fr
+
+- name: Etienne Memin
+  photo: rock.jpg
+  info: Senior Scientist INRIA, Fluminance, ERC STUDO, Rennes, France
+  webpage: https://www.irisa.fr/prive/memin/
+
+- name: Philippe Naveau
+  photo: rock.jpg
+  info: Senior Scientist CNRS, IPSL/LSCE, Paris, France
+  webpage: https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau
+
 - name: Olivier Pannekoucke
   photo: olivier.jpg
   info: Scientist at Meteo France and CERFACS, Toulouse, France
@@ -17,31 +42,5 @@
   photo: rock.jpg
   info: Professor at IMT Atlantique/Latim, AI Chair AI4Child, Brest, France
   webpage: https://www.imt-atlantique.fr/fr/personne/francois-rousseau
-
-- name: Pierre Ailliot
-  photo: rock.jpg
-  info: Ass. Professor at Univ. Brest/LMBA, France
-  webpage: http://pagesperso.univ-brest.fr/~ailliot/index.html
-
-- name: Etienne Memin
-  photo: rock.jpg
-  info: Senior Scientist INRIA, Fluminance, ERC STUDO, Rennes, France
-  webpage: https://www.irisa.fr/prive/memin/
-
-- name: Philippe Naveau
-  photo: rock.jpg
-  info: Senior Scientist CNRS, IPSL/LSCE, Paris, France
-  webpage: https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau
-
-- name: Sophie Bertrand
-  photo: rock.jpg
-  info: Senior Scientist IRD, Marbec, Sète, France
-  webpage: http://www.umr-marbec.fr/bertrand-sophie.html?lang=fr
-
-- name: Elodie Martinez
-  photo: rock.jpg
-  info: Scientist IRD, LOPS, Brest, France
-  webpage: https://scholar.google.fr/citations?user=zzybZqsAAAAJ&hl=fr
-
   
 
