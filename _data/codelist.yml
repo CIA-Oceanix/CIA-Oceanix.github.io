@@ -46,7 +46,7 @@
   codetype: 1
   news2:
   
- - title: "DetideNet"
+- title: "DetideNet"
   image: fig_sketch_4DVarNN.jpg
   description: Pytorch package for filtering Internal tides from wide-swath altimeter data using Convolutional Neural Networks.
   author: R. Lguensat
