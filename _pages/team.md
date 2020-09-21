@@ -93,6 +93,8 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
   <h4>{{ member.name }}</h4>
   <li>PhD topic: {{ member.phd }}</li>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+    
+  <!--  
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -117,7 +119,7 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
   <li> {{ member.education4 }} </li>
   {% endif %}
 
-  </ul>
+  </ul>-->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
