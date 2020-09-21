@@ -27,7 +27,7 @@ All OceaniX shared codes and datasets are availabe on our github repo [here](htt
   <pubtit>{{ code.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ code.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ code.description }}</p>
-  <p><em>{{ code.authors }}</em></p>
+  <!--<p><em>{{ code.authors }}</em></p>-->
   <p>Associated paper:<strong><a href="{{ code.paper.url }}">here</a></strong></p>
   <p><strong><a href="{{ code.link.url }}">{{ code.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ code.news1 }}</strong></p>
@@ -70,7 +70,7 @@ All OceaniX shared codes and datasets are availabe on our github repo [here](htt
   <pubtit>{{ code.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ code.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ code.description }}</p>
-  <p><em>{{ code.authors }}</em></p>
+  <!--<p><em>{{ code.authors }}</em></p>-->
   <p>Associated paper:<strong><a href="{{ code.paper.url }}">here</a></strong></p>
   <p><strong><a href="{{ code.link.url }}">{{ code.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ code.news1 }}</strong></p>
@@ -97,14 +97,14 @@ All OceaniX shared codes and datasets are availabe on our github repo [here](htt
 ## Full list of available codes
 {% for code in site.data.codelist %}
 {% if code.codetype == 1 %}
-{{ code.title }}. {{ code.authors }}. <strong><a href="{{ code.link.url }}">{{ code.link.display }}</a></strong>
+{{ code.title }} <strong><a href="{{ code.link.url }}">{{ code.link.display }}</a></strong>
 {% endif %}
 {% endfor %}
 
 ## Full list of available datasets
 {% for code in site.data.codelist %}
 {% if code.codetype == 2 %}
-{{ code.title }}. {{ code.authors }}. <strong><a href="{{ code.link.url }}">{{ code.link.display }}</a></strong>
+{{ code.title }} <strong><a href="{{ code.link.url }}">{{ code.link.display }}</a></strong>
 {% endif %}
 {% endfor %}
 
