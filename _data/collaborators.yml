@@ -1,9 +1,14 @@
 - name: Julien Le Sommer
-  photo: rock.jpg
+  photo: julien.jpg
   info: CNRS Scientist at IGE/MEOM, Grenoble, France
   webpage: https://lesommer.github.io/
   
 - name: Olivier Pannekoucke
-  photo: rock.jpg
+  photo: olivier.jpg
   info: Scientist at Meteo France and CERFACS, Toulouse, France
   webpage: https://scholar.google.com/citations?user=qBmkuHEAAAAJ&hl=en
+
+- name: Ananda Pascual
+  photo: ananda.jpg
+  info: Senior Scientist at CSSIC/IMEDEA, Mallorca, Spain
+  webpage: https://www.researchgate.net/profile/Ananda_Pascual
