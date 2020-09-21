@@ -123,8 +123,9 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}
-  <!--<br>email: <{{ member.email }}><br>PhD topic: {{ member.phd }}-->
-  <br>webpage: <{{ member.webpage }}></i>
+  <!--<br>email: <{{ member.email }}><br>PhD topic: {{ member.phd }}
+  <br>webpage: <{{ member.webpage }}></i>-->
+  <br>webpage: <a href="{{ member.webpage }}"> link</a></i>
   <ul style="overflow: hidden">
 
 
