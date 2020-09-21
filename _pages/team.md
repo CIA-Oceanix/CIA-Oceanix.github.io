@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collaborators](#collaborators), [administrative support](#administrative-support).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -79,7 +79,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -91,6 +91,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
+  <h4>PhD topic: {{ member.phd }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
@@ -133,10 +134,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+## Collaborators
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.collaborators %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -166,6 +167,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+<!--
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
@@ -191,7 +193,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
-
+-->
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:martine.besnard@imt-atlantique">Martine Besnard</a> and  <a href="mailto:julie.keirsse-haquin@imt-atlantique.fr">Julie Keirsse-Haquin</a> are helping us with administration and grant issues.
