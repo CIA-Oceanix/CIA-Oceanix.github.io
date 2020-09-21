@@ -125,7 +125,7 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />-->
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}   
-  <br>webpage: <{{ member.webpage }}></i>
+  <br>webpage: <a href="{{ member.webpage }}"> link</a></i>
   <ul style="overflow: hidden">
 
   </ul>
