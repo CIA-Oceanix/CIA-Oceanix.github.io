@@ -76,8 +76,9 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
 </div>
 {% endif %}
 
+## PhD Students
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -88,38 +89,10 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}>
+  <li>PhD topic: {{ member.phd }}</li>
   <br>webpage: <{{ member.webpage }}></i>
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
 
   </ul>
 </div>
@@ -138,7 +111,7 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
 {% endif %}
 
 
-
+<!--
 ## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -194,7 +167,7 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+-->
 
 ## Collaborators
 {% assign number_printed = 0 %}
