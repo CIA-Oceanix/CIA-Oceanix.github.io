@@ -11,7 +11,7 @@ permalink: /research/
 All OceaniX shared codes and datasets are availabe on our github repo [here](https://github.com/CIA-Oceanix). Some highlights below.
 
 {% assign number_printed = 0 %}
-{% for code in site.data.codelist %}
+{% for code in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if code.highlight == 1 %}
