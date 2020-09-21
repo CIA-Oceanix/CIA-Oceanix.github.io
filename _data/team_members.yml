@@ -118,6 +118,33 @@
   education1: 
   education2: 
 
+- name: Maxime Beauchamp 
+  photo: rock.jpg
+  info: Postdoc, IMT Atlantique, Lab-STICC
+  email: maxime.beauchamp@imt-atlantique.fr
+  webpage: https://www.researchgate.net/profile/Maxime_Beauchamp
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Noura Dridi 
+  photo: rock.jpg
+  info: Postdoc, IMT Atlantique, Lab-STICC
+  email: noura.dridi@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Mohamed Amar 
+  photo: rock.jpg
+  info: Research engineer, IMT Atlantique, Lab-STICC
+  email: 
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
