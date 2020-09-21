@@ -6,6 +6,6 @@ permalink: /pictures/
 ---
 
 # Pictures
-Soon
+Coming soon
 
 
