@@ -1,7 +1,8 @@
 - title: "4DVarNN"
   image: fig4DVarNN.jpg
-  description: Pytorch package for jointly learning variational models and associated solvers, including application to 4DVar data assimilation. Associated paper: <a href='https://arxiv.org/abs/2006.03653'here</a>
+  description: Pytorch package for jointly learning variational models and associated solvers, including application to 4DVar data assimilation.
   author: D. Nguyen
+  paper_url: https://arxiv.org/abs/2006.03653
   link:
     url: https://github.com/CIA-Oceanix/DAODEN
     display:  Git repo
@@ -10,8 +11,9 @@
 
 - title: "SSH mapping Data Challenge"
   image: figSSH_DINAE.jpg
-  description: Pytorch package for the banchmarking of space-time interpolation algorithms for the mapping of SSH fields from satellite data. Associated paper: <a href='https://hal-imt-atlantique.archives-ouvertes.fr/hal-02929973'here</a>
+  description: Pytorch package for the banchmarking of space-time interpolation algorithms for the mapping of SSH fields from satellite data.
   author: D. Nguyen
+  paper_url: https://hal-imt-atlantique.archives-ouvertes.fr/hal-02929973
   link:
     url: https://github.com/CIA-Oceanix/DAODEN
     display:  Git repo
@@ -20,8 +22,9 @@
 
 - title: "DAODEN"
   image: figDAODEN.jpg
-  description: Pytorch package for Data-Assimilation-based ODE Network (DAODEN). Associated paper: <a href='https://arxiv.org/abs/2009.02296'here</a>
+  description: Pytorch package for Data-Assimilation-based ODE Network (DAODEN).
   author: D. Nguyen
+  paper_url: https://arxiv.org/abs/2009.02296
   link:
     url: https://github.com/CIA-Oceanix/DAODEN
     display:  Git repo
@@ -30,8 +33,9 @@
 
 - title: "PDEnetGen 1.0"
   image: figPDENetGen_Burgers202002.jpg
-  description: Keras package for the generation of CNN architectures from symbolic PDEs. Associated paper: <a href='https://www.geosci-model-dev-discuss.net/gmd-2020-35/'here</a>
+  description: Keras package for the generation of CNN architectures from symbolic PDEs.
   author: O. Pannekoucke
+  paper_url: https://www.geosci-model-dev-discuss.net/gmd-2020-35
   link:
     url: https://github.com/CIA-Oceanix/pdenetgen
     display:  Git repo
