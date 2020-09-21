@@ -135,7 +135,6 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
 
 
 ## Collaborators
-
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborators %}
 
@@ -146,9 +145,10 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />-->
   <h4>{{ member.name }}</h4>
-  <i>{{ member.position }} <br>, {{ member.lab }}</i>
+  <i>{{ member.info }}   
+  <br>webpage: <{{ member.webpage }}></i>
   <ul style="overflow: hidden">
 
   </ul>
