@@ -16,9 +16,9 @@ intedisciplinary Graduate school for the Blue planet (https://www.isblue.fr/fr/)
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+        <!--<li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>-->
     </ol>
 
     <!-- Items -->
@@ -28,15 +28,15 @@ intedisciplinary Graduate school for the Blue planet (https://www.isblue.fr/fr/)
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/oceanix.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_SSHDinAE.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_detideNet.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig_4DVarNN_SSH.jpg" alt="Slide 4" />
         </div>
-        <div class="item">
+        <!--<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
         </div>
         <div class="item">
@@ -44,7 +44,7 @@ intedisciplinary Graduate school for the Blue planet (https://www.isblue.fr/fr/)
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
-        </div>
+        </div>-->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -61,7 +61,7 @@ Our general objective is to bridge model-driven paradigms underlying physical sc
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_imta.png" style="width: 50px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ISBLUE.png" style="width: 50px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anr.png" style="width: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_OceanixSupport.jpg" style="width: 50px">
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ISBLUE.png" style="width: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_anr.png" style="width: 50px">-->
 </figure>
