@@ -1,6 +1,6 @@
 - name: Ronan Fablet
   photo: rock.jpg
-  info: Professor, IMT Atlantique
+  info: Professor, IMT Atlantique, Lab-STICC
   email: ronan.fablet@imt-atlantique.fr
   webpage: https://rfablet.github.io/
   number_educ: 0
@@ -12,76 +12,111 @@
 
 - name: Bertrand Chapron
   photo: rock.jpg
-  info: Senior Scientist, Ifremer
+  info: Senior Scientist, Ifremer, LOPS
   email: bertrand.chapron@ifremer.fr
   webpage: https://annuaire.ifremer.fr/cv/15870/
   number_educ: 0
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: 
+  education2: 
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
-
-- name: Jiasen Niu
+- name: Pierre Tandeo
   photo: rock.jpg
-  info: Postdoc, started Oct 2020
-  email: jiasenniu@pku.edu.cn
-  number_educ: 2
-  education1: Ph.D. with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  info: Associate Professor, IMT Atlantique, Lab-STICC
+  email: pierre.tandeo@imt-atlantique.fr
+  webpage: https://www.imt-atlantique.fr/fr/personne/pierre-tandeo
+  number_educ: 0
+  education1: 
+  education2: 
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+- name: Lucas Drumetz
+  photo: rock.jpg
+  info: Associate Professor, IMT Atlantique, Lab-STICC
+  email: lucas.drumetz@imt-atlantique.fr
+  webpage: https://www.imt-atlantique.fr/fr/personne/lucas-drumetz
+  number_educ: 0
+  education1: 
+  education2: 
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+- name: Carlos Granero Belinchon 
+  photo: rock.jpg
+  info: Associate Professor, IMT Atlantique, Lab-STICC
+  email: carlos.granero-belinchon@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
+- name: Nicolas Farrugia
+  photo: rock.jpg
+  info: Associate Professor, IMT Atlantique, Lab-STICC
+  email: nicolas.farrugia@imt-atlantique.fr
+  webpage: https://nicofarr.github.io/
+  number_educ: 0
+  education1: 
+  education2: 
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+- name: Angélique Drémeau
+  photo: rock.jpg
+  info: Associate Professor, ENSTA Bretagne, Lab-STICC
+  email: angelique.dremeau@ensta-bretagne.fr
+  webpage: http://angelique.dremeau.free.fr/Site_anglais/Home.html
+  number_educ: 0
+  education1: 
+  education2: 
 
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+- name: Abdel Boudraa
+  photo: rock.jpg
+  info: Professor, Ecole Navale, IRENAV
+  email: abdel.boudraa@ecole-navale.fr
+  webpage: https://www.ecole-navale.fr/node/50572
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Alexis Mouche
+  photo: rock.jpg
+  info: Scientist, Ifremer, LOPS
+  email: alexis.mouche@ifremer.fr
+  webpage: https://annuaire.ifremer.fr/cv/20915/
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Aurélien Ponte 
+  photo: rock.jpg
+  info: Scientist, Ifremer, LOPS
+  email: aurelien.ponte@ifremer.fr
+  webpage: https://annuaire.ifremer.fr/cv/17682/en/
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Laurent Mémery 
+  photo: rock.jpg
+  info: Senior Scientist, CNRS, LEMAR
+  email: aurent.memery@univ-brest.fr
+  webpage: https://www.researchgate.net/profile/Laurent_Memery
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Xavier Carton 
+  photo: rock.jpg
+  info: Professor, UBO, LOPS
+  email: laurent.memery@univ-brest.fr
+  webpage: https://www.researchgate.net/profile/Laurent_Memery
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Florent Sévellec 
+  photo: rock.jpg
+  info: Scientist, CNRS, LOPS
+  email: florian.sevellec@univ-brest.fr
+  webpage: https://www.researchgate.net/profile/Florian_Sevellec
+  number_educ: 0
+  education1: 
+  education2: 
 
 - name: "This could be you !"
   photo: rock.jpg
