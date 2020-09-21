@@ -1,5 +1,5 @@
 - name: Ronan Fablet
-  photo: rock.jpg
+  photo: ronan.jpg
   info: Professor, IMT Atlantique, Lab-STICC
   email: ronan.fablet@imt-atlantique.fr
   webpage: https://rfablet.github.io/
@@ -11,7 +11,7 @@
   education5: 
 
 - name: Bertrand Chapron
-  photo: rock.jpg
+  photo: bertrand.jpg
   info: Senior Scientist, Ifremer, LOPS
   email: bertrand.chapron@ifremer.fr
   webpage: https://annuaire.ifremer.fr/cv/15870/
@@ -20,7 +20,7 @@
   education2: 
 
 - name: Pierre Tandeo
-  photo: rock.jpg
+  photo: pierre.jpg
   info: Associate Professor, IMT Atlantique, Lab-STICC
   email: pierre.tandeo@imt-atlantique.fr
   webpage: https://www.imt-atlantique.fr/fr/personne/pierre-tandeo
@@ -38,7 +38,7 @@
   education2: 
 
 - name: Carlos Granero Belinchon 
-  photo: rock.jpg
+  photo: carlos.jpg
   info: Associate Professor, IMT Atlantique, Lab-STICC
   email: carlos.granero-belinchon@imt-atlantique.fr
   webpage: 
@@ -47,7 +47,7 @@
   education2: 
 
 - name: Nicolas Farrugia
-  photo: rock.jpg
+  photo: nicolas.jpg
   info: Associate Professor, IMT Atlantique, Lab-STICC
   email: nicolas.farrugia@imt-atlantique.fr
   webpage: https://nicofarr.github.io/
@@ -56,7 +56,7 @@
   education2: 
 
 - name: Angélique Drémeau
-  photo: rock.jpg
+  photo: angelique.jpg
   info: Associate Professor, ENSTA Bretagne, Lab-STICC
   email: angelique.dremeau@ensta-bretagne.fr
   webpage: http://angelique.dremeau.free.fr/Site_anglais/Home.html
@@ -65,7 +65,7 @@
   education2: 
 
 - name: Abdel Boudraa
-  photo: rock.jpg
+  photo: abdel.jpg
   info: Professor, Ecole Navale, IRENAV
   email: abdel.boudraa@ecole-navale.fr
   webpage: https://www.ecole-navale.fr/node/50572
@@ -74,7 +74,7 @@
   education2: 
 
 - name: Alexis Mouche
-  photo: rock.jpg
+  photo: alexis.jpg
   info: Scientist, Ifremer, LOPS
   email: alexis.mouche@ifremer.fr
   webpage: https://annuaire.ifremer.fr/cv/20915/
@@ -83,7 +83,7 @@
   education2: 
 
 - name: Aurélien Ponte 
-  photo: rock.jpg
+  photo: aurelien.jpg
   info: Scientist, Ifremer, LOPS
   email: aurelien.ponte@ifremer.fr
   webpage: https://annuaire.ifremer.fr/cv/17682/en/
@@ -92,7 +92,7 @@
   education2: 
 
 - name: Laurent Mémery 
-  photo: rock.jpg
+  photo: laurent.jpg
   info: Senior Scientist, CNRS, LEMAR
   email: aurent.memery@univ-brest.fr
   webpage: https://www.researchgate.net/profile/Laurent_Memery
@@ -101,7 +101,7 @@
   education2: 
 
 - name: Xavier Carton 
-  photo: rock.jpg
+  photo: xavier.jpg
   info: Professor, UBO, LOPS
   email: laurent.memery@univ-brest.fr
   webpage: https://www.researchgate.net/profile/Laurent_Memery
@@ -109,8 +109,8 @@
   education1: 
   education2: 
 
-- name: Florent Sévellec 
-  photo: rock.jpg
+- name: Florian Sévellec 
+  photo: florian.jpg
   info: Scientist, CNRS, LOPS
   email: florian.sevellec@univ-brest.fr
   webpage: https://www.researchgate.net/profile/Florian_Sevellec
@@ -119,7 +119,7 @@
   education2: 
 
 - name: Maxime Beauchamp 
-  photo: rock.jpg
+  photo: maxime.jpg
   info: Postdoc, IMT Atlantique, Lab-STICC
   email: maxime.beauchamp@imt-atlantique.fr
   webpage: https://www.researchgate.net/profile/Maxime_Beauchamp
