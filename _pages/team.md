@@ -91,7 +91,7 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <h4>PhD topic: {{ member.phd }}</h4>
+  <li>PhD topic: {{ member.phd }}</li>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
@@ -148,7 +148,7 @@ Jump to [staff](#staff), [PhD students](#master-and-bachelor-students), [Collabo
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.position }} <br>, {{ member.lab }}</i>
   <ul style="overflow: hidden">
 
   </ul>
