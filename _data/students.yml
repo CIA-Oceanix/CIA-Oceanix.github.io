@@ -80,7 +80,7 @@
   number_educ: 0
   education1:
 
-- name: Quentin Febvre
+- name: Quentin Febvre (starting late 2020)
   photo: rock.jpg
   phd: End-to-end deep learning and satellite-derived sea surface dynamics
   info: PhD student at IMT Atlantique (Brest, FR)
@@ -89,7 +89,7 @@
   number_educ: 0
   education1:
 
-- name: Tarun Singh
+- name: Tarun Singh (starting late 2020)
   photo: rock.jpg
   phd: Learning for turbulent flow control
   info: PhD student at PPrime (Poitiers, FR)
@@ -97,7 +97,7 @@
   email: 
   education1:
 
- - name: Nicolas Lafon
+- name: Nicolas Lafon (starting early 2021)
   photo: rock.jpg
   phd: Deep learning and geophysical extremes
   info: PhD student at LSCE (Paris, FR)
@@ -106,7 +106,7 @@
   number_educ: 0
   education1:
 
-- name: Mattero Zembra
+- name: Mattero Zembra (starting late 2020)
   photo: rock.jpg
   phd: Multimodal learning for ocean monitoring and surveillance
   info: PhD student at IMT Atlantique (Brest, FR)
