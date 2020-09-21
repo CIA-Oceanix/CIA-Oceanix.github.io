@@ -95,10 +95,20 @@ All OceaniX shared codes and datasets are availabe on our github repo [here](htt
 
 
 ## Full list of available codes
-{% for code in site.data.publist %}
-
+{% for code in site.data.codelist %}
+{% if code.codetype == 2 %}
 {{ code.title }}
 {{ code.authors }}
-{{ code.link.display }}
-
+<strong><a href="{{ code.link.url }}">{{ code.link.display }}</a></strong>
+{% endif %}
 {% endfor %}
+
+## Full list of available datasets
+{% for code in site.data.codelist %}
+{% if code.codetype == 2 %}
+{{ code.title }}
+{{ code.authors }}
+<strong><a href="{{ code.link.url }}">{{ code.link.display }}</a></strong>
+{% endif %}
+{% endfor %}
+
