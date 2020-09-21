@@ -8,6 +8,15 @@
 #  education3:
 #  education4:
 
+- name: Duong Nguyen
+  photo: rock.jpg
+  info: PhD student at IMT Atlantique (Brest, FR)
+  phd: Variational deep learning, dynamical systems and applications to maritime surveillance
+  supervisors: R. Fablet, R. Garello
+  email: van.nguyen1@imt-atlantique.fr
+  number_educ: 0
+  education1:
+
 - name: Said Ouala
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
@@ -17,12 +26,12 @@
   number_educ: 0
   education1:
 
-- name: Duong Nguyen
+- name: Simon Bennaïchouche 
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
-  phd: Variational deep learning, dynamical systems and applications to maritime surveillance
-  supervisors: R. Fablet, R. Garello
-  email: van.nguyen1@imt-atlantique.fr
+  phd: Deep learning and Sea state reconstruction from AIS data streams
+  supervisors: F. Rousseau, R. Fablet, C. Le Goff (Eodyn)
+  email: simon.benaichouche@imt-atlantique.fr
   number_educ: 0
   education1:
 
@@ -35,12 +44,30 @@
   number_educ: 0
   education1:
 
-- name: Simon Bennaïchouche 
+- name: Hugo Frezat
   photo: rock.jpg
-  info: PhD student at IMT Atlantique (Brest, FR)
-  phd: Deep learning and Sea state reconstruction from AIS data streams
-  supervisors: F. Rousseau, R. Fablet, C. Le Goff (Eodyn)
-  email: simon.benaichouche@imt-atlantique.fr
+  phd: Deep learning for Data-Driven LES subgrid-scale flow modelling
+  info: PhD student at UGA (Grenoble, FR)
+  supervisors: G. Balarac (UGA/LEGI), J. Le Sommer (UGA/IGE), R. Fablet
+  email: hugo.frezat@univ-grenoble-alpes.fr
+  number_educ: 0
+  education1:
+
+- name: Joana Roussillon
+  photo: rock.jpg
+  phd: Deep learning models for the reconstruction and understanding of decadal plankton dynamics
+  info: PhD student at LOPS (Brest, FR)
+  supervisors: E. Martinez, T. Gorgues (IRD/LOPS), L. Drumetz, R. Fablet
+  email: Joana.Roussillon@etudiant.univ-brest.fr
+  number_educ: 0
+  education1:
+
+- name: Amédée Roy
+  photo: rock.jpg
+  phd: Predicting Marine Birds Behaviour with Artificial Intelligence
+  info: PhD student at Marbec (Sète, FR)
+  supervisors: S. Bertrand (IRD/Marbec), R. Fablet
+  email: amedee.roy@protonmail.com
   number_educ: 0
   education1:
 
@@ -62,6 +89,23 @@
   number_educ: 0
   education1:
 
+- name: Tarun Singh
+  photo: rock.jpg
+  phd: Learning for turbulent flow control
+  info: PhD student at PPrime (Poitiers, FR)
+  supervisors: L. Cordier (CNRS/PPRIME), L. Mathelin (CNRS/LIMSI),  R. Fablet
+  email: 
+  education1:
+
+ - name: Nicolas Lafon
+  photo: rock.jpg
+  phd: Deep learning and geophysical extremes
+  info: PhD student at LSCE (Paris, FR)
+  supervisors: P. Naveau (CNRS/LSCE), A. Sabourin (IPP/LTCI), R. Fablet
+  email: 
+  number_educ: 0
+  education1:
+
 - name: Mattero Zembra
   photo: rock.jpg
   phd: Multimodal learning for ocean monitoring and surveillance
@@ -71,39 +115,4 @@
   number_educ: 0
   education1:
 
-- name: Hugo Frezat
-  photo: rock.jpg
-  phd: Deep learning for Data-Driven LES subgrid-scale flow modelling
-  info: PhD student at UGA (Grenoble, FR)
-  supervisors: G. Balarac (UGA/LEGI), J. Le Sommer (UGA/IGE), R. Fablet
-  email: hugo.frezat@univ-grenoble-alpes.fr
-  number_educ: 0
-  education1:
-
-- name: Amédée Roy
-  photo: rock.jpg
-  phd: Predicting Marine Birds Behaviour with Artificial Intelligence
-  info: PhD student at Marbec (Sète, FR)
-  supervisors: S. Bertrand (IRD/Marbec), R. Fablet
-  email: amedee.roy@protonmail.com
-  number_educ: 0
-  education1:
-
-- name: Joana Roussillon
-  photo: rock.jpg
-  phd: Deep learning models for the reconstruction and understanding of decadal plankton dynamics
-  info: PhD student at LOPS (Brest, FR)
-  supervisors: E. Martinez, T. Gorgues (IRD/LOPS), L. Drumetz, R. Fablet
-  email: Joana.Roussillon@etudiant.univ-brest.fr
-  number_educ: 0
-  education1:
-
-- name: Tarun Singh
-  photo: rock.jpg
-  phd: Learning for turbulent flow control
-  info: PhD student at PPrime (Poitiers, FR)
-  supervisors: L. Cordier (CNRS/PPRIME), L. Mathelin (CNRS/LIMSI),  R. Fablet
-  email: 
-  education1:
-
-  
+ 
