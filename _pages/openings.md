@@ -17,9 +17,9 @@ instrumental setups, performing measurements, and making discoveries.
 ### Current open positions
 
 We will open new PhD, postdoc and internship positions.
-#You find the current job openings here:
-#[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-#[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
+<>You find the current job openings here:
+<>[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
+<>[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
 
 It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here](https://www.madics.fr/event/offre97/), [here](https://www.madics.fr/event/1581927652-9197/), or [here](https://www.madics.fr/event/offre30/?instance_id=1424).
 
@@ -31,6 +31,6 @@ There are postdoc scholarship available.  We'd be happy to support you after you
 ### Master inernships
 If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
 
-#<figure>
-#<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-#</figure>
+<><figure>
+<><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<></figure>
