@@ -1,4 +1,4 @@
-- name: Ronan Fablet
+- name: Ronan Fablet (Oceanix PI)
   photo: ronan.jpg
   info: Professor, IMT Atlantique, Lab-STICC
   email: ronan.fablet@imt-atlantique.fr
@@ -10,47 +10,56 @@
   education4: 
   education5: 
 
-- name: Bertrand Chapron
-  photo: bertrand.jpg
-  info: Senior Scientist, Ifremer, LOPS
-  email: bertrand.chapron@ifremer.fr
-  webpage: https://annuaire.ifremer.fr/cv/15870/
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Pierre Tandeo
-  photo: pierre.jpg
-  info: Associate Professor, IMT Atlantique, Lab-STICC
-  email: pierre.tandeo@imt-atlantique.fr
-  webpage: https://www.imt-atlantique.fr/fr/personne/pierre-tandeo
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Lucas Drumetz
-  photo: lucas.jpg
-  info: Associate Professor, IMT Atlantique, Lab-STICC
-  email: lucas.drumetz@imt-atlantique.fr
-  webpage: https://www.imt-atlantique.fr/fr/personne/lucas-drumetz
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Carlos Granero Belinchon 
+- name: Mohamed Amar 
   photo: rock.jpg
-  info: Associate Professor, IMT Atlantique, Lab-STICC
-  email: carlos.granero-belinchon@imt-atlantique.fr
+  info: Research engineer, IMT Atlantique, Lab-STICC
+  email: 
   webpage: 
   number_educ: 0
   education1: 
   education2: 
 
-- name: Nicolas Farrugia
-  photo: nicolas.jpg
-  info: Associate Professor, IMT Atlantique, Lab-STICC
-  email: nicolas.farrugia@imt-atlantique.fr
-  webpage: https://nicofarr.github.io/
+- name: Maxime Beauchamp 
+  photo: rock.jpg
+  info: Postdoc, IMT Atlantique, Lab-STICC
+  email: maxime.beauchamp@imt-atlantique.fr
+  webpage: https://www.researchgate.net/profile/Maxime_Beauchamp
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Abdel Boudraa
+  photo: abdel.jpg
+  info: Professor, Ecole Navale, IRENAV
+  email: abdel.boudraa@ecole-navale.fr
+  webpage: https://www.ecole-navale.fr/node/50572
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Xavier Carton
+  photo: rock.jpg
+  info: Professor, UBO, LOPS
+  email: laurent.memery@univ-brest.fr
+  webpage: https://www.researchgate.net/profile/Laurent_Memery
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Dorian Cazau
+  photo: rock.jpg
+  info: Associate Professor, ENSTA Bretagne, Lab-STICC
+  email: dorian.cazau@ensta-bretagne.fr
+  webpage: https://www.researchgate.net/profile/Dorian_Cazau3
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Bertrand Chapron
+  photo: bertrand.jpg
+  info: Senior Scientist, Ifremer, LOPS
+  email: bertrand.chapron@ifremer.fr
+  webpage: https://annuaire.ifremer.fr/cv/15870/
   number_educ: 0
   education1: 
   education2: 
@@ -64,11 +73,47 @@
   education1: 
   education2: 
 
-- name: Abdel Boudraa
-  photo: abdel.jpg
-  info: Professor, Ecole Navale, IRENAV
-  email: abdel.boudraa@ecole-navale.fr
-  webpage: https://www.ecole-navale.fr/node/50572
+- name: Noura Dridi 
+  photo: rock.jpg
+  info: Postdoc, IMT Atlantique, Lab-STICC
+  email: noura.dridi@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Lucas Drumetz
+  photo: lucas.jpg
+  info: Associate Professor, IMT Atlantique, Lab-STICC
+  email: lucas.drumetz@imt-atlantique.fr
+  webpage: https://www.imt-atlantique.fr/fr/personne/lucas-drumetz
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Nicolas Farrugia
+  photo: nicolas.jpg
+  info: Associate Professor, IMT Atlantique, Lab-STICC
+  email: nicolas.farrugia@imt-atlantique.fr
+  webpage: https://nicofarr.github.io/
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Carlos Granero Belinchon 
+  photo: rock.jpg
+  info: Associate Professor, IMT Atlantique, Lab-STICC
+  email: carlos.granero-belinchon@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Laurent Mémery 
+  photo: laurent.jpg
+  info: Senior Scientist, CNRS, LEMAR
+  email: aurent.memery@univ-brest.fr
+  webpage: https://www.researchgate.net/profile/Laurent_Memery
   number_educ: 0
   education1: 
   education2: 
@@ -91,24 +136,6 @@
   education1: 
   education2: 
 
-- name: Laurent Mémery 
-  photo: laurent.jpg
-  info: Senior Scientist, CNRS, LEMAR
-  email: aurent.memery@univ-brest.fr
-  webpage: https://www.researchgate.net/profile/Laurent_Memery
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Xavier Carton 
-  photo: rock.jpg
-  info: Professor, UBO, LOPS
-  email: laurent.memery@univ-brest.fr
-  webpage: https://www.researchgate.net/profile/Laurent_Memery
-  number_educ: 0
-  education1: 
-  education2: 
-
 - name: Florian Sévellec 
   photo: florian.jpg
   info: Scientist, CNRS, LOPS
@@ -118,29 +145,11 @@
   education1: 
   education2: 
 
-- name: Maxime Beauchamp 
-  photo: rock.jpg
-  info: Postdoc, IMT Atlantique, Lab-STICC
-  email: maxime.beauchamp@imt-atlantique.fr
-  webpage: https://www.researchgate.net/profile/Maxime_Beauchamp
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Noura Dridi 
-  photo: rock.jpg
-  info: Postdoc, IMT Atlantique, Lab-STICC
-  email: noura.dridi@imt-atlantique.fr
-  webpage: 
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Mohamed Amar 
-  photo: rock.jpg
-  info: Research engineer, IMT Atlantique, Lab-STICC
-  email: 
-  webpage: 
+- name: Pierre Tandeo
+  photo: pierre.jpg
+  info: Associate Professor, IMT Atlantique, Lab-STICC
+  email: pierre.tandeo@imt-atlantique.fr
+  webpage: https://www.imt-atlantique.fr/fr/personne/pierre-tandeo
   number_educ: 0
   education1: 
   education2: 
