@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "AI Chair OceaniX - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -34,7 +34,7 @@ There are postdoc scholarship available.  We'd be happy to support you after you
 ### Master inernships
 If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
 
-<--! (<figure>)
+<!-- (<figure>)
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
 </figure>
 -->
