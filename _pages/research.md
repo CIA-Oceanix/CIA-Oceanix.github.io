@@ -8,7 +8,7 @@ permalink: /research/
 
 # Codes and Datasets
 
-All OceaniX shared codes and datasets are availabe on our github repo [here](https://github.com/CIA-Oceanix). We highlight some [codes](#code-highlights) and [datasets](#dataset-highlights) below. We also provide full lists for codes (#full-list-of-available-datasets).
+All OceaniX shared codes and datasets are availabe on our github repo [here](https://github.com/CIA-Oceanix). We highlight some [codes](#code-highlights) and [datasets](#dataset-highlights) below. We also provide full lists for [codes](#full-list-of-available-datasets).
 
 ## Code highlights
 {% assign number_printed = 0 %}
