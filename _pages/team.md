@@ -146,6 +146,7 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 </div>
 {% endif %}
 
+<!--
 ## Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborators %}
@@ -177,7 +178,7 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+-->
 <!--
 ## Former visitors, BSc/ MSc students
 <div class="row">
