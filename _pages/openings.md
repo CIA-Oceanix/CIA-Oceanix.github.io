@@ -10,9 +10,7 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on grand challenges at the interface between AI, Applied Math and Ocean Science. You will be involved in determining the important and interesting questions, creating and improving new algorithms combining physics and data-driven strategies,  
-
-instrumental setups, performing measurements, and making discoveries.
+You will have the chance to work on grand challenges at the interface between AI, Applied Math and Ocean Science. You will be involved in determining the important and interesting questions, creating and improving new algorithms combining physics and data-driven strategies, designing and running data challenges and benchmarking experiments, and making discoveries.
 
 ### Current open positions
 
