@@ -24,7 +24,7 @@ We will open new PhD, postdoc and internship positions.
 It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PhD_CNES2020.pdf), [here]({{ site.baseurl }}/downloads/PhD_ESA2020.pdf), or [here]({{ site.baseurl }}/downloads/PhD_NG2020.pdf).
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:ronan.fablet@imt-atlantique.fr). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with us as a PhD student or postdoc, please send an [email](mailto:ronan.fablet@imt-atlantique.fr) to Pr. Ronan Fablet. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 There are postdoc scholarship available.  We'd be happy to support you after you apply to our group. Take a look at the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
 
