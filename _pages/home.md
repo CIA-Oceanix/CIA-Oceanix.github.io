@@ -59,6 +59,7 @@ intedisciplinary Graduate school for the Blue planet (https://www.isblue.fr/fr/)
 Our general objective is to bridge model-driven paradigms underlying physical sciences and data-driven learning-based approaches at the core of AI to infer novel computationally-efficient and physically-sound representations of complex dynamical systems, that will provide new means for the understanding and monitoring of the oceans as well as the surveillance of maritime activities. 
 
 **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
 **Contact:** Prof. Ronan Fablet (OceaniX PI) [webpage](https://rfablet.github.io/)
 
 <figure class="fourth">
