@@ -60,7 +60,7 @@ Our general objective is to bridge model-driven paradigms underlying physical sc
 
 **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-**Contact:** Prof. Ronan Fablet (OceaniX PI) [webpage](https://rfablet.github.io/)
+**Contact:** Prof. Ronan Fablet (OceaniX PI, [webpage](https://rfablet.github.io/))
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_OceanixSupport.jpg" style="width: 600px">
