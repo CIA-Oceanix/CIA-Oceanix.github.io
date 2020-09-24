@@ -3,7 +3,7 @@ title: "AI Chair OceaniX - Webinar"
 layout: textlay
 excerpt: "AI Chair OceaniX - Webinar"
 sitemap: false
-permalink: /webinar.html
+permalink: /webinar/
 ---
 
 # Webinars
