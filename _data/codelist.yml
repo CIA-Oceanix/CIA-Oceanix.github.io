@@ -13,7 +13,7 @@
 
 - title: "SSH mapping Data Challenge"
   image: figSSH_DINAE.jpg
-  description: Pytorch package for the banchmarking of space-time interpolation algorithms for the mapping of SSH fields from satellite data.
+  description: Pytorch package for the benchmarking of space-time interpolation algorithms for the mapping of SSH fields from satellite data.
   authors: M. Beauchamp
   paper_url: https://hal-imt-atlantique.archives-ouvertes.fr/hal-02929973
   link:
