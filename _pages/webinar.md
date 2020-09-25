@@ -28,7 +28,7 @@ permalink: /webinar/
   <img src="{{ site.url }}{{ site.baseurl }}/images/webinarpic/{{ webinar.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ webinar.description }}</p>
   <p><em>{{ webinar.authors }}</em></p>
-  <p><strong><a href="{{ webinar.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
   <p> {{ webinar.news2 }}</p>
  </div>
@@ -89,7 +89,5 @@ permalink: /webinar/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-<p> &nbsp; </p>
 
 
