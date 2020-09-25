@@ -1,5 +1,5 @@
 ---
-title: "AI Chair OceaniX - Domino"
+title: "Domino"
 layout: textlay
 excerpt: "AI Chair OceaniX - Domino"
 sitemap: false
@@ -7,16 +7,17 @@ permalink: /domino
 ---
 
 # Domino
-(For a more detailed list of publications of AI Chair OceaniX <!--full list see [below](#full-list) or--> go to [Google Scholar](https://scholar.google.ch/citations?user=0donG7gAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Ronan_Fablet))
 
-# List of previous Webinars
+Domino is...
+
+# List of previous Domino session
 
 {% assign number_printed = 0 %}
-{% for webinar in site.data.webinarlist %}
+{% for domino in site.data.dominolist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if webinar.highlight == 1 %}
-{% if webinar.codetype == 1 %}
+{% if domino.highlight == 1 %}
+{% if domino.codetype == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -24,14 +25,14 @@ permalink: /domino
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ webinar.title }}</pubtit>
-  <p>{{ webinar.date }} <br></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/webinarpic/{{ webinar.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ webinar.description }}</p>
-  <p><em>{{ webinar.authors }}</em></p>
-  <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
-  <p> {{ webinar.news2 }}</p>
+  <pubtit>{{ domino.title }}</pubtit>
+  <p>{{ domino.date }} <br></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ domino.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ domino.description }}</p>
+  <p><em>{{ domino.authors }}</em></p>
+  <p><strong><a href="{{ domino.link.url }}">{{ domino.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ domino.news1 }}</strong></p>
+  <p> {{ domino.news2 }}</p>
  </div>
 </div>
 
@@ -52,14 +53,14 @@ permalink: /domino
 
 <p> &nbsp; </p>
 
-# List of coming Webinars
+# List of coming Domino session
 
 {% assign number_printed = 0 %}
-{% for webinar in site.data.webinarlist %}
+{% for domino in site.data.dominolist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if webinar.highlight == 1 %}
-{% if webinar.codetype == 2 %}
+{% if domino.highlight == 1 %}
+{% if domino.codetype == 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -67,14 +68,14 @@ permalink: /domino
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ webinar.title }}</pubtit>
-  <p>{{ webinar.date }} <br> </p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/webinarpic/{{ webinar.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ webinar.description }}</p>
-  <p><em>{{ webinar.authors }}</em></p>
-  <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
-  <p> {{ webinar.news2 }}</p>
+  <pubtit>{{ domino.title }}</pubtit>
+  <p>{{ domino.date }} <br> </p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ domino.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ domino.description }}</p>
+  <p><em>{{ domino.authors }}</em></p>
+  <p><strong><a href="{{ domino.link.url }}">{{ domino.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ domino.news1 }}</strong></p>
+  <p> {{ domino.news2 }}</p>
  </div>
 </div>
 

@@ -5,7 +5,16 @@
 
   <body>
 
+
+  {% if page.title == "Meetings" %}
+    {% include header2.html %}
+  {% elsif page.title == "Webinar" %}
+    {% include header2.html %}
+  {% elsif page.title == "Domino" %}
+    {% include header2.html %}
+  {% else %}
     {% include header.html %}
+  {% endif %}
 
     <div class="container-fluid">
       <div class="row">
