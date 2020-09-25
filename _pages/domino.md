@@ -10,7 +10,7 @@ permalink: /domino
 
 Domino is...
 
-# List of previous Domino session
+## List of previous Domino session
 
 {% assign number_printed = 0 %}
 {% for domino in site.data.dominolist %}
@@ -53,7 +53,7 @@ Domino is...
 
 <p> &nbsp; </p>
 
-# List of coming Domino session
+## List of coming Domino session
 
 {% assign number_printed = 0 %}
 {% for domino in site.data.dominolist %}
