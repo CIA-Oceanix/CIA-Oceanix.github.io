@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+encoding: UTF-8
+
 # Site settings
 title: AI Chair OceaniX
 email: ronan.fablet AT imt-atlantique.fr
