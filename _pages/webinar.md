@@ -25,6 +25,7 @@ permalink: /webinar
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ webinar.title }}</pubtit>
+  <p>{{ webinar.date }} <br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/webinarpic/{{ webinar.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ webinar.description }}</p>
   <p><em>{{ webinar.authors }}</em></p>
@@ -67,6 +68,7 @@ permalink: /webinar
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ webinar.title }}</pubtit>
+  <p>{{ webinar.date }} <br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/webinarpic/{{ webinar.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ webinar.description }}</p>
   <p><em>{{ webinar.authors }}</em></p>
