@@ -1,0 +1,70 @@
+I"[<h1 id="codes-and-datasets">Codes and Datasets</h1>
+
+<p>All OceaniX shared codes and datasets are availabe on our github repo <a href="https://github.com/CIA-Oceanix">here</a>. We highlight some <a href="#code-highlights">codes</a> and <a href="#dataset-highlights">datasets</a> below. We also provide full lists for <a href="#full-list-of-available-codes">codes</a> and <a href="#full-list-of-available-datasets">datasets</a></p>
+
+<h2 id="code-highlights">Code highlights</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>4DVarNN</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/fig_sketch_4DVarNN.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Pytorch package for jointly learning variational models and associated solvers, including application to 4DVar data assimilation.</p>
+      <p><!--<p><em>R. Fablet</em></p>--></p>
+      <p>Associated paper:<strong><a href="https://arxiv.org/abs/2006.03653">here</a></strong></p>
+      <p><strong><a href="https://github.com/CIA-Oceanix/DAODEN">Git repo</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>PDEnetGen 1.0</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/figPDENetGen_Burgers202002.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Keras package for the generation of CNN architectures from symbolic PDEs.</p>
+      <p><!--<p><em>O. Pannekoucke</em></p>--></p>
+      <p>Associated paper:<strong><a href="">here</a></strong></p>
+      <p><strong><a href="https://github.com/CIA-Oceanix/pdenetgen">Git repo</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="dataset-highlights">Dataset highlights</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>SSH mapping Data Challenge</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/figSSH_DINAE.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Pytorch package for the benchmarking of space-time interpolation algorithms for the mapping of SSH fields from satellite data.</p>
+      <p><!--<p><em>M. Beauchamp</em></p>--></p>
+      <p>Associated paper:<strong><a href="">here</a></strong></p>
+      <p><strong><a href="https://github.com/CIA-Oceanix/DAODEN">Git repo</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<h2 id="full-list-of-available-codes">Full list of available codes</h2>
+
+<p>4DVarNN <strong><a href="https://github.com/CIA-Oceanix/DAODEN">Git repo</a></strong></p>
+
+<p>PDEnetGen 1.0 <strong><a href="https://github.com/CIA-Oceanix/pdenetgen">Git repo</a></strong></p>
+
+<p>DetideNet <strong><a href="https://github.com/CIA-Oceanix/DetideNet">Git repo</a></strong></p>
+
+<h2 id="full-list-of-available-datasets">Full list of available datasets</h2>
+
+<p>SSH mapping Data Challenge <strong><a href="https://github.com/CIA-Oceanix/DAODEN">Git repo</a></strong></p>
+
+:ET

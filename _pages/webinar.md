@@ -9,7 +9,7 @@ permalink: /webinar
 # Webinars
 (For a more detailed list of publications of AI Chair OceaniX <!--full list see [below](#full-list) or--> go to [Google Scholar](https://scholar.google.ch/citations?user=0donG7gAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Ronan_Fablet))
 
-## List of previous Webinars
+# List of previous Webinars
 
 {% assign number_printed = 0 %}
 {% for webinar in site.data.webinarlist %}
@@ -41,6 +41,7 @@ permalink: /webinar
 {% endif %}
 
 {% endif %}
+{% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -50,8 +51,7 @@ permalink: /webinar
 
 <p> &nbsp; </p>
 
- 
-## List of coming Webinars
+# List of coming Webinars
 
 {% assign number_printed = 0 %}
 {% for webinar in site.data.webinarlist %}
@@ -82,6 +82,7 @@ permalink: /webinar
 </div>
 {% endif %}
 
+{% endif %}
 {% endif %}
 {% endfor %}
 

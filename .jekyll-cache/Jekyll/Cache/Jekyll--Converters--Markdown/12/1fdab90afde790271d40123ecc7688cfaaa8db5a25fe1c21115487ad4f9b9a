@@ -1,0 +1,72 @@
+I"¦<h1 id="publications">Publications</h1>
+<p>(For a more detailed list of publications of AI Chair OceaniX <!--full list see [below](#full-list) or--> go to <a href="https://scholar.google.ch/citations?user=0donG7gAAAAJ">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Ronan_Fablet">ResearchGate</a>)</p>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Joint learning of variational models and solvers for inverse problems</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/fig_MNIST0770_All.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>This paper introduces a novel data-driven framework to jointly learn variational models and the associated solvers to address inverse problems in signal and image processing.</p>
+      <p><em>R Fablet, L Drumetz, F Rousseau</em></p>
+      <p><strong><a href="https://arxiv.org/abs/2006.03653">arXiv:2006.03653</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>PDE-NetGen 1.0: from symbolic partial differential equation (PDE) representations of physical processes to trainable neural network representations</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/figPDENetGen_Burgers202002.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>A first paper from the collaboration with O. Pannekoucke (Meteo France) addressing the automatic generation of neural network architectures from symbolic PDEs.</p>
+      <p><em>O Pannekoucke, R Fablet</em></p>
+      <p><strong><a href="https://www.geosci-model-dev-discuss.net/gmd-2020-35/">GMD (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/figGeoTrackNet.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>The presentation of GeoTrackNet framework for the detection of abnormal behaviours in AIS-based maritime traffic surveillance using variational deep learning.</p>
+      <p><em>D Nguyen, R Vadaine, G Hajduch, R Garello, R Fablet</em></p>
+      <p><strong><a href="https://arxiv.org/abs/1912.00682">arXiv:1912.00682</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p> Â  </p>
+
+<!--
+## Full List
+
+
+
+  Joint learning of variational models and solvers for inverse problems <br />
+  <em>R Fablet, L Drumetz, F Rousseau </em><br /><a href="https://arxiv.org/abs/2006.03653">arXiv:2006.03653</a>
+
+
+
+  PDE-NetGen 1.0: from symbolic partial differential equation (PDE) representations of physical processes to trainable neural network representations <br />
+  <em>O Pannekoucke, R Fablet </em><br /><a href="https://www.geosci-model-dev-discuss.net/gmd-2020-35/">GMD (2020)</a>
+
+
+
+  GeoTrackNet-A Maritime Anomaly Detector using Probabilistic Neural Network Representation of AIS Tracks and A Contrario Detection <br />
+  <em>D Nguyen, R Vadaine, G Hajduch, R Garello, R Fablet </em><br /><a href="https://arxiv.org/abs/1912.00682">arXiv:1912.00682</a>
+
+
+-->
+:ET
