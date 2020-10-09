@@ -1,3 +1,16 @@
+- title: "Climate and Statistical Mechanics"
+  image: Bouchet.jpg
+  description: The Climate and Statistical Mechanics group at ENS de Lyon aims at studying climate dynamics phenomena, specifically related to turbulence, climate extremes, and large scale dynamics of atmospheres and oceans. They also Develop algorithms aimed at computing rare events in complex dynamical systems, like climate dynamics or turbulent flows, based on large deviation theory and statistical mechanics. Last, fundamental questions in statistical mechanics and dynamical systems theory are addressed, often using large deviation theory, bridging from mathematical physics to modeling and applications.
+  date: 2020/10/21
+  authors: F. Bouchet, ENS de Lyon and CNRS
+  link:
+    url: https://arxiv.org/abs/1511.02703
+    display: arxiv.org/abs/1511.02703
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
 - title: "Combining data assimilation and machine learning to infer unresolved scale parametrisation"
   image: Brajard.jpg
   description: In recent years, machine learning (ML) has been proposed to devise data-driven parametrisations of unresolved processes in dynamical numerical models. In most cases, the ML training leverages high-resolution simulations to provide a dense, noiseless target state. Our goal is to go beyond the use of high-resolution simulations and train ML-based parametrisation using direct data, in the realistic scenario of noisy and sparse observations. The algorithm proposed in this work is a two-step process. First, data assimilation (DA) techniques are applied to estimate the full state of the system from a truncated model. The unresolved part of the truncated model is viewed as a model error in the DA system. In a second step, ML is used to emulate the unresolved part, a predictor of model error given the state of the system. Finally, the ML-based parametrisation model is added to the œphysical core truncated model to produce a hybrid model. 
