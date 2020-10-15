@@ -1,11 +1,11 @@
-- title: "Climate and Statistical Mechanics"
+- title: "Coupling machine learning approaches and rare event algorithms to compute extreme events in climate dynamics."
   image: Bouchet.jpg
-  description: The Climate and Statistical Mechanics group at ENS de Lyon aims at studying climate dynamics phenomena, specifically related to turbulence, climate extremes, and large scale dynamics of atmospheres and oceans. They also Develop algorithms aimed at computing rare events in complex dynamical systems, like climate dynamics or turbulent flows, based on large deviation theory and statistical mechanics. Last, fundamental questions in statistical mechanics and dynamical systems theory are addressed, often using large deviation theory, bridging from mathematical physics to modeling and applications.
+  description: "Many key problems in climate dynamics require a huge computational effort. For instance, the study of extreme or rare events, the study of precursors of abrupt transitions to different climates, or the probabilistic prediction at the predictability margin, are three examples for which the computation of the relevant statistical quantities is impossible with reasonable computation resources, in comprehensive climate models. I will present several examples of new approaches we have developed, for instance using rare event algorithms and machine learning, for which we have solved these computational bottlenecks using concepts from statistical mechanics and dynamical systems\nThe first application is the study of extreme heat waves using IPCC class climate models. For these models we have demonstrated a gain of several hundreds in the numerical cost for simulating extremely rare heat waves. We were able to compute return time plots for extreme heat waves with return times up to 10 000 years. Using the hundreds of simulated heat waves, we have exhibited global teleconnection pattern for extreme heat waves\nThe second application is the computation of abrupt climate changes for Jupiter troposphere, and transitions to superrotating states for the Earth atmosphere dynamics.\nThe third application is a preliminary work on a simple model of El Nino to illustrate prediction at the predictability margin (prediction of interannual variability, beyond the Lyapunov time scale)."
   date: 2020/10/21
   authors: F. Bouchet, ENS de Lyon and CNRS
   link:
-    url: https://arxiv.org/abs/1511.02703
-    display: arxiv.org/abs/1511.02703
+    url: https://doi.org/10.1073/pnas.1712645115 
+    display: doi.org/10.1073/pnas.1712645115
   highlight: 1
   codetype: 2
   news1:
