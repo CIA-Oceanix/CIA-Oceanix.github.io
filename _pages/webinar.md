@@ -8,7 +8,7 @@ permalink: /webinar
 
 # Webinars
 
-In the context of AI Chair Oceanix, monthly webinars are proposed every third Wednesday of the month, starting in October 2020. Below are listed all the previous and coming webinars. When possible, additional links with a video record of the webinar will be provided.
+In the context of AI Chair Oceanix and AI4OAC project, we organize a webinar every third Wednesday of the month, starting in October 2020. When possible, additional links with a video record of the webinar will be provided.
 
 ## List of previous Webinars
 
