@@ -6,6 +6,11 @@
   link:
     url: https://doi.org/10.1073/pnas.1712645115 
     display: doi.org/10.1073/pnas.1712645115
+  zoomlink: 
+    url: https://imt-atlantique.zoom.us/j/91957789209?pwd=S0MxRGUraHNWYjJiNnBuZWYvS0ZtUT09Meeting
+    display: Zoom meeting link
+    ID: 919 5778 9209
+    Passcode: 533994
   highlight: 1
   codetype: 2
   news1:
@@ -19,6 +24,11 @@
   link:
     url: https://arxiv.org/abs/2009.04318
     display: arxiv.org/abs/2009.04318
+  zoomlink:
+    url:
+    display: Zoom meeting link
+    ID:
+    Passcode:
   highlight: 1
   codetype: 2
   news1:
@@ -33,6 +43,11 @@
   link: 
     url: https://arxiv.org/abs/1806.04999
     display: arXiv:1806.04999
+  zoomlink:
+    url: 
+    display: Zoom meeting link
+    ID:
+    Passcode:
   highlight: 1
   codetype: 2
   news1: 

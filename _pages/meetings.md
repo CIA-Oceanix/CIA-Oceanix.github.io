@@ -33,6 +33,9 @@ In the context of AI Chair Oceanix, monthly webinars are proposed every third We
   <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
   <p> {{ webinar.news2 }}</p>
+  <p><strong><a href="{{ webinar.zoomlink.url }}">{{ webinar.zoomlink.display }}</a></strong></p>
+  <p> {{ webinar.zoomlink.ID }}</p>
+  <p> {{ webinar.zoomlink.Passcode }}</p>
  </div>
 </div>
 
@@ -76,6 +79,9 @@ In the context of AI Chair Oceanix, monthly webinars are proposed every third We
   <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
   <p> {{ webinar.news2 }}</p>
+  <p><strong><a href="{{ webinar.zoomlink.url }}">{{ webinar.zoomlink.display }}</a></strong></p>
+  <p> {{ webinar.zoomlink.ID }}</p>
+  <p> {{ webinar.zoomlink.Passcode }}</p>
  </div>
 </div>
 
