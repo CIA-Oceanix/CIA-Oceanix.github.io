@@ -33,9 +33,9 @@ In the context of AI Chair Oceanix and AI4OAC project, we organize a webinar eve
   <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
   <p> {{ webinar.news2 }}</p>
-  <p><strong><a href="{{ webinar.zoomlink.url }}">{{ webinar.zoomlink.display }}</a></strong></p>
-  <p> {{ webinar.zoomlink.ID }}</p>
-  <p> {{ webinar.zoomlink.Passcode }}</p>
+  <p><strong><a href="{{ webinar.recordlink.url }}">{{ webinar.recordlink.display }}</a></strong></p>
+  <p><strong><a href="{{ webinar.slideslink.url1 }}">{{ webinar.slideslink.display1 }}</a></strong></p>
+  <p><strong><a href="{{ webinar.slideslink.url2 }}">{{ webinar.slideslink.display2 }}</a></strong></p>
  </div>
 </div>
 

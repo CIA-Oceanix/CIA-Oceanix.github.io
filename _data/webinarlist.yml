@@ -6,13 +6,16 @@
   link:
     url: https://doi.org/10.1073/pnas.1712645115 
     display: doi.org/10.1073/pnas.1712645115
-  zoomlink: 
-    url: https://imt-atlantique.zoom.us/j/91957789209?pwd=S0MxRGUraHNWYjJiNnBuZWYvS0ZtUT09Meeting
-    display: Zoom meeting link
-    ID: Meeting ID. 919 5778 9209
-    Passcode: Passcode. 533994
+  recordlink: 
+    url: https://youtu.be/s7AtApwGkcQ
+    display: Webinar video  
+  slideslink: https://mycore.cnrs.fr/index.php/s/KACnigKeTW67zG2
+    url1: https://mycore.cnrs.fr/index.php/s/KACnigKeTW67zG2 
+    display1: Slides (Part1)
+    url2: https://mycore.cnrs.fr/index.php/s/QJnV0R9nesnCIhy
+    display2: Slides (Part2)
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 
