@@ -1,9 +1,9 @@
 ---
-title: "Webinar"
+title: "Meetings"
 layout: textlay
-excerpt: "AI Chair OceaniX - Webinar"
+excerpt: "AI Chair OceaniX - Meetings"
 sitemap: false
-permalink: /webinar
+permalink: /meetings
 ---
 
 # Webinars
