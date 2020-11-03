@@ -28,7 +28,7 @@
   highlight: 1
   news2:
   
-  - title: "Joint learning of variational models and solvers for inverse problems"
+- title: "Joint learning of variational models and solvers for inverse problems"
   image: fig_MNIST0770_All.jpg
   description: This paper introduces a novel data-driven framework to jointly learn variational models and the associated solvers to address inverse problems in signal and image processing. 
   authors: R Fablet, L Drumetz, F Rousseau
