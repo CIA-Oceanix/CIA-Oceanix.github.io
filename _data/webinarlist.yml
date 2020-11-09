@@ -19,6 +19,26 @@
   news1:
   news2:
 
+
+- title: "RESSTE (November 18) & SFdS Risk day (November 20)"
+  image: sfds.png
+  description: Because two seminars are already organized in the French statistics community, OceaniX webinars are taking a break in November to come back in December with Julien Brajard's talk on December 16. The two webinars above mentioned respectively take place in the framework of the RESSTE network (RESeau Statistiques pour données Spatio-TEmporelles) and the SFds (Société Française de Statistiques). The two webinars will talk about Risk, Extreme and Climate, thus directly related to the first OceaniX Webinar. Inscription is free but mandatory regarding the SfDS meeting (https://www.sfds.asso.fr/fr/environnement_et_statistique/658-journee_risque/) while the online solution for the RESSTE webinar is still not precised. Updates will be made as soon as possible. 
+  date: 2020/11/18, 2020/11/20
+  authors: RESSTE & SfDS
+  link:
+    url: 
+    display: 
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+
+
 - title: "Combining data assimilation and machine learning to infer unresolved scale parametrisation"
   image: Brajard.jpg
   description: In recent years, machine learning (ML) has been proposed to devise data-driven parametrisations of unresolved processes in dynamical numerical models. In most cases, the ML training leverages high-resolution simulations to provide a dense, noiseless target state. Our goal is to go beyond the use of high-resolution simulations and train ML-based parametrisation using direct data, in the realistic scenario of noisy and sparse observations. The algorithm proposed in this work is a two-step process. First, data assimilation (DA) techniques are applied to estimate the full state of the system from a truncated model. The unresolved part of the truncated model is viewed as a model error in the DA system. In a second step, ML is used to emulate the unresolved part, a predictor of model error given the state of the system. Finally, the ML-based parametrisation model is added to the œphysical core truncated model to produce a hybrid model. 
