@@ -1,3 +1,33 @@
+- title: "Learning Latent Dynamics for Partially-Observed Chaotic Systems"
+  image: figChaos_SOuala2020.jpg
+  description:  This paper introduces a novel data driven framework for the identification of ODE representations for partially observed systems.
+  authors: S Ouala, D Nguyen, L Drumetz, B Chapron, A Pascual, F Collard, L Gaultier, R Fablet
+  link:
+    url: https://arxiv.org/abs/2009.02296
+    display:  Chaos, 2020. Preprint arXiv:2009.02296
+  highlight: 1
+  news2:
+
+- title: "Physical invariance in neural networks for subgrid-scale scalar flux modeling"
+  image: figArXiv_HFrezat2020.jpg
+  description: Transformation invariances coming from physical and mathematical identities are shown to improve performance and generalization of NN models in the context of subgrid-scale turbulent modeling.
+  authors: H Frezat, G Balarac, J Le Sommer, R Fablet, R Lguensat
+  link:
+    url: https://arxiv.org/abs/2010.04663
+    display: arXiv:2010.04663
+  highlight: 1
+  news2:
+
+- title: "Variational Deep Learning for the Identification and Reconstruction of Chaotic and Stochastic DynamicalSystems from Noisy and Partial Observations"
+  image: figDOADEN_DNguyen2020.jpg
+  description:  Bridging state-of-the-art data assimilation and machine learning techniques to jointly reconstruct the true states and identify the governing equations of dynamical systems from series of noisy and partial data.
+  authors: D Nguyen, S Ouala, L Drumetz, R Fablet
+  link:
+    url: https://arxiv.org/abs/2009.02296
+    display:  arXiv:2009.02296
+  highlight: 1
+  news2:
+  
 - title: "Joint learning of variational models and solvers for inverse problems"
   image: fig_MNIST0770_All.jpg
   description: This paper introduces a novel data-driven framework to jointly learn variational models and the associated solvers to address inverse problems in signal and image processing. 
