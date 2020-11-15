@@ -1,11 +1,17 @@
 - date: 13. November 2020
-  headline: "OceaniX Sandbox: 4DVarNN & GANs"
+  headline: " <b> New Remote sensing paper on the benchmarking of data-driven algorithms for the interpolation of satellite altimeter data </b>"
+
+- date: 13. November 2020
+  headline: " <b> OceaniX Sandbox: </b> 4DVarNN & GANs"
 
 - date: 6. November 2020
-  headline: "OceaniX Sandbox: pytorch lightning"
+  headline: " <b> OceaniX Sandbox:</b> pytorch lightning"
+
+- date: 22. October 2020
+  headline: " <b> New Chaos paper:</b> (<a href='https://doi.org/10.1063/5.0019309'>link</a>)"
 
 - date: 21. October 2020
-  headline: "OceaniX-AI4OAC Webinar by F. Bouchet (<a href='https://cia-oceanix.github.io/webinar'>here</a>)"
+  headline: " <b> OceaniX-AI4OAC Webinar</b> by F. Bouchet (<a href='https://cia-oceanix.github.io/webinar'>here</a>)"
 
 - date: 21. September 2020
   headline: "Have a look at our papers presented at Climate Informatics, CI2020. (<a href='https://ci2020.web.ox.ac.uk/poster-schedule'>here</a>)"
