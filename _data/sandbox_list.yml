@@ -1,0 +1,18 @@
+- title: "Linking Energy-based GAN to 4DVarNN"
+  image: Fablet.jpg
+  description: 
+  date: 2020/11/13
+  authors: R. Fablet
+  link:
+    url: https://arxiv.org/pdf/1609.03126.pdf
+    display: arxiv.org/pdf/1609.03126.pdf
+  slideslink:
+    url1: https://www.dropbox.com/s/gc4y37t7gvbq60b/pres_OceaniXSandbox_GAN4DVarNN_202011.pdf?dl=0
+    display1: Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+
