@@ -16,7 +16,7 @@ You will have the chance to work on grand challenges at the interface between AI
 
 We will open new PhD, postdoc and internship positions.
 You find the current job openings here:
-- **Adversarial learning of variational models for inverse problems**[here]({{ site.baseurl }}/downloads/internship_GAN_VarNN2021.pdf)
+- **Adversarial learning of variational models for inverse problems** [here]({{ site.baseurl }}/downloads/internship_GAN_VarNN2021.pdf)
 <!--
  You find the current job openings here:
 ([Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
