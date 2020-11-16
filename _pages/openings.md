@@ -31,6 +31,7 @@ There are postdoc scholarship available.  We'd be happy to support you after you
 
 ### Master inernships
 If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+** 2021 internship offer:** Adversarial learning of variational models for inverse problems
 
 <!-- (<figure>)
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
