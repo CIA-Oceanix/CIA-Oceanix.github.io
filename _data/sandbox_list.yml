@@ -15,4 +15,19 @@
   codetype: 1
   news1:
   news2:
+- title: "Intro to pytorch lightning"
+  image: https://s3.eu-central-1.wasabisys.com/website-oceanix-static/photo_qfebvre.jpg
+  description: Proposition of a framework to standardize deep learning research code
+  date: 2020/11/06
+  authors: Q Febvre
+  link:
+  slideslink:
+    url1: https://s3.eu-central-1.wasabisys.com/website-oceanix-static/Intro Pytorch Lightning.pptx
+    display1: Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
 
