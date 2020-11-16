@@ -15,7 +15,8 @@ You will have the chance to work on grand challenges at the interface between AI
 ### Current open positions
 
 We will open new PhD, postdoc and internship positions.
-
+You find the current job openings here:
+- **Adversarial learning of variational models for inverse problems** [here]({{ site.baseurl }}/downloads/internship_GAN_VarNN2021.pdf)
 <!--
  You find the current job openings here:
 ([Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
@@ -29,8 +30,8 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 There are postdoc scholarship available.  We'd be happy to support you after you apply to our group. Take a look at the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
 
-### Master inernships
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+### MSc./Eng. inernships
+If you are a Master/engineering student looking for an intenship, contact me (or any group member) per email or stop by my office.
 
 <!-- (<figure>)
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
