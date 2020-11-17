@@ -1,6 +1,6 @@
 ---
 title: "Domino"
-layout: textlay
+layout: gridlay
 excerpt: "AI Chair OceaniX - Domino"
 sitemap: false
 permalink: /domino
