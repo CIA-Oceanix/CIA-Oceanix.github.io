@@ -1,6 +1,6 @@
 ---
 title: "OceaniX Sandbox"
-layout: textlay
+layout: gridlay
 excerpt: "AI Chair OceaniX - Sandbox"
 sitemap: false
 permalink: /oceanix_sandbox
