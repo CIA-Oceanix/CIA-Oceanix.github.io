@@ -21,7 +21,7 @@
   link: https://github.com/barkm/torch-fenics
   slideslink:
     url1: 
-    display1: Slides
+    display1: #Slides
     url2: 
     display2:
   highlight: 1
@@ -32,7 +32,7 @@
   image: default.jpg
   description: TBD
   date: 2021/01/08
-  authors: N. Dridi
+  authors: S. Bennaïchouche
   link: 
   slideslink:
     url1: 
@@ -81,7 +81,7 @@
   link: https://dvc.org/
   slideslink:
     url1: 
-    display1: Slides
+    display1: #Slides
     url2: 
     display2:
   highlight: 1
