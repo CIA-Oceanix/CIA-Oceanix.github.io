@@ -10,7 +10,7 @@
     url2: 
     display2:
   highlight: 1
-  codetype: 1
+  codetype: 2
   news1:
   news2:
 - title: "Introduction to PyTorch-FEniCS"
