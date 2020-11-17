@@ -27,20 +27,9 @@ You can find here all the informations and presentations of interest from Friday
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sandbox_pic/{{ oceanix_sandbox.image }}" class="img-responsive" width="15%" style="float: left" />
-  <p>{{ oceanix_sandbox.description }}</p>
-  <p><em>{{ oceanix_sandbox.authors }}</em></p>
-  <p><strong><a href="{{ oceanix_sandbox.link.url }}">{{ oceanix_sandbox.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ oceanix_sandbox.news1 }}</strong></p>
-  <p> {{ oceanix_sandbox.news2 }}</p>
- </div>
-</div>
-<!--<div class="col-sm-6 clearfix">
- <div class="well">
   <pubtit>{{ oceanix_sandbox.title }}</pubtit>
   <p>{{ oceanix_sandbox.date }} <br></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sandbox_pic/{{ oceanix_sandbox.image }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sandbox_pic/{{ oceanix_sandbox.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ oceanix_sandbox.description }}</p>
   <p><em>{{ oceanix_sandbox.authors }}</em></p>
   <p><strong><a href="{{ oceanix_sandbox.link.url }}">{{ oceanix_sandbox.link.display }}</a></strong></p>
@@ -50,7 +39,7 @@ You can find here all the informations and presentations of interest from Friday
   <p><strong><a href="{{ oceanix_sandbox.slideslink.url1 }}">{{ oceanix_sandbox.slideslink.display1 }}</a></strong></p>
   <p><strong><a href="{{ oceanix_sandbox.slideslink.url2 }}">{{ oceanix_sandbox.slideslink.display2 }}</a></strong></p>
  </div>
-</div>-->
+</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -86,7 +75,7 @@ You can find here all the informations and presentations of interest from Friday
  <div class="well">
   <pubtit>{{ oceanix_sandbox.title }}</pubtit>
   <p>{{ oceanix_sandbox.date }} <br></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sandbox_pic/{{ oceanix_sandbox.image }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sandbox_pic/{{ oceanix_sandbox.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ oceanix_sandbox.description }}</p>
   <p><em>{{ oceanix_sandbox.authors }}</em></p>
   <p><strong><a href="{{ oceanix_sandbox.link.url }}">{{ oceanix_sandbox.link.display }}</a></strong></p>
