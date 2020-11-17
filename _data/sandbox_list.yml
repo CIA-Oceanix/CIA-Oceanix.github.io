@@ -2,7 +2,7 @@
   image: default.jpg
   description: TBD
   date: 2021/01/22
-  authors: M. Zembra
+  authors: M. Zambra
   link: 
   slideslink:
     url1: 
@@ -15,10 +15,10 @@
   news2:
 - title: "Introduction to PyTorch-FEniCS"
   image: default.jpg
-  description: TBD
+  description: Tutorial on the use of FEniCS models (finite-element PDE solver) as PyTroch modules 
   date: 2021/01/15
   authors: S. Ouala
-  link: 
+  link: https://github.com/barkm/torch-fenics
   slideslink:
     url1: 
     display1: Slides
@@ -45,7 +45,7 @@
   news2:
 - title: "Introduction to TorchSDE"
   image: default.jpg
-  description: TBD
+  description: Tutorial on PyTorch package for SDEs
   date: 2020/12/04
   authors: N. Dridi
   link: 
