@@ -1,3 +1,63 @@
+- title: "Simon's talk"
+  image: default.jpg
+  description: TBD
+  date: 2020/12/11
+  authors: N. Dridi
+  link: 
+  slideslink:
+    url1: 
+    display1: Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+- title: "Introduction to TorchSDE"
+  image: default.jpg
+  description: TBD
+  date: 2020/12/04
+  authors: N. Dridi
+  link: 
+  slideslink:
+    url1: 
+    display1: Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+- title: "Carlo's talk"
+  image: default.jpg
+  description: TBD
+  date: 2020/11/27
+  authors: C. Granero
+  link: 
+  slideslink:
+    url1: 
+    display1: Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+- title: "Introduction to Data Version Control"
+  image: default.jpg
+  description: Short tutorial on a framework for dataset control and versioning
+  date: 2020/11/20
+  authors: Q Febvre
+  link: https://dvc.org/
+  slideslink:
+    url1: 
+    display1: Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
 - title: "Linking Energy-based GAN to 4DVarNN"
   image: im4DVarNN.jpg
   description: 
@@ -15,7 +75,7 @@
   codetype: 1
   news1:
   news2:
-- title: "Intro to pytorch lightning"
+- title: "Introduction to pytorch lightning"
   image: default.jpg
   description: Proposition of a framework to standardize deep learning research code
   date: 2020/11/06
