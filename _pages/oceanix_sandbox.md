@@ -19,7 +19,7 @@ You can find here all the informations and presentations of interest from Friday
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if oceanix_sandbox.highlight == 1 %}
-{% if oceanix_sandbox.codetype == 1 %}
+{% if oceanix_sandbox.codetype == 2 %}
 
 {% if even_odd == 0 &%}
 <div class="row">
