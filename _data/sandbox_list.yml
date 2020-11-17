@@ -1,5 +1,5 @@
 - title: "Linking Energy-based GAN to 4DVarNN"
-  image: ronan.jpg
+  image: im4DVarNN.jpg
   description: 
   date: 2020/11/13
   authors: R. Fablet
@@ -16,7 +16,7 @@
   news1:
   news2:
 - title: "Intro to pytorch lightning"
-  image: https://s3.eu-central-1.wasabisys.com/website-oceanix-static/photo_qfebvre.jpg
+  image: default.jpg
   description: Proposition of a framework to standardize deep learning research code
   date: 2020/11/06
   authors: Q Febvre
