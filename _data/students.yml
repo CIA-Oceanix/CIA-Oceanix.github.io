@@ -8,7 +8,7 @@
 #  education3:
 #  education4:
 
-- name: Duong Nguyen
+- name: Duong Nguyen (2017-)
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
   phd: Variational deep learning, dynamical systems and applications to maritime surveillance
@@ -17,7 +17,7 @@
   number_educ: 0
   education1:
 
-- name: Said Ouala
+- name: Said Ouala (2017-)
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
   phd: Physics-informed deep learning and partially-observed (ocean) dynamics
@@ -26,7 +26,7 @@
   number_educ: 0
   education1:
 
-- name: Simon Bennaïchouche 
+- name: Simon Bennaïchouche (2019-)
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
   phd: Deep learning and Sea state reconstruction from AIS data streams
@@ -35,7 +35,7 @@
   number_educ: 0
   education1:
 
-- name: Aurélien Colin
+- name: Aurélien Colin (2019-)
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
   phd: Deep learning and semantic segmentation of ocean SAR observations
@@ -44,7 +44,7 @@
   number_educ: 0
   education1:
 
-- name: Hugo Frezat
+- name: Hugo Frezat (2019-)
   photo: rock.jpg
   phd: Deep learning for Data-Driven LES subgrid-scale flow modelling
   info: PhD student at UGA (Grenoble, FR)
@@ -53,7 +53,7 @@
   number_educ: 0
   education1:
 
-- name: Joana Roussillon
+- name: Joana Roussillon (2020-)
   photo: rock.jpg
   phd: Deep learning models for the reconstruction and understanding of decadal plankton dynamics
   info: PhD student at LOPS (Brest, FR)
@@ -62,7 +62,7 @@
   number_educ: 0
   education1:
 
-- name: Amédée Roy
+- name: Amédée Roy (2019-)
   photo: rock.jpg
   phd: Predicting Marine Birds Behaviour with Artificial Intelligence
   info: PhD student at Marbec (Sète, FR)
@@ -71,7 +71,7 @@
   number_educ: 0
   education1:
 
-- name: Jean-Marie Vient
+- name: Jean-Marie Vient (2019-)
   photo: rock.jpg
   info: PhD student at Univ. of Brest, LGO (Brest, FR)
   phd: Data-driven methods for the reconstruction of turbid ocean dynamics
@@ -80,7 +80,7 @@
   number_educ: 0
   education1:
 
-- name: Quentin Febvre (starting late 2020)
+- name: Quentin Febvre (2020-)
   photo: rock.jpg
   phd: End-to-end deep learning and satellite-derived sea surface dynamics
   info: PhD student at IMT Atlantique (Brest, FR)
@@ -106,7 +106,7 @@
   number_educ: 0
   education1:
 
-- name: Mattero Zembra (starting late 2020)
+- name: Matteo Zambra (2020-)
   photo: rock.jpg
   phd: Multimodal learning for ocean monitoring and surveillance
   info: PhD student at IMT Atlantique (Brest, FR)
