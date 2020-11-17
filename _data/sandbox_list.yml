@@ -1,7 +1,37 @@
+- title: "Matteo's talk"
+  image: default.jpg
+  description: TBD
+  date: 2021/01/22
+  authors: M. Zembra
+  link: 
+  slideslink:
+    url1: 
+    display1: Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+- title: "Introduction to PyTorch-FEniCS"
+  image: default.jpg
+  description: TBD
+  date: 2021/01/15
+  authors: S. Ouala
+  link: 
+  slideslink:
+    url1: 
+    display1: Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
 - title: "Simon's talk"
   image: default.jpg
   description: TBD
-  date: 2020/12/11
+  date: 2021/01/08
   authors: N. Dridi
   link: 
   slideslink:
@@ -10,7 +40,7 @@
     url2: 
     display2:
   highlight: 1
-  codetype: 1
+  codetype: 2
   news1:
   news2:
 - title: "Introduction to TorchSDE"
@@ -25,7 +55,7 @@
     url2: 
     display2:
   highlight: 1
-  codetype: 1
+  codetype: 2
   news1:
   news2:
 - title: "Carlo's talk"
@@ -40,7 +70,7 @@
     url2: 
     display2:
   highlight: 1
-  codetype: 1
+  codetype: 2
   news1:
   news2:
 - title: "Introduction to Data Version Control"
@@ -55,7 +85,7 @@
     url2: 
     display2:
   highlight: 1
-  codetype: 1
+  codetype: 2
   news1:
   news2:
 - title: "Linking Energy-based GAN to 4DVarNN"
