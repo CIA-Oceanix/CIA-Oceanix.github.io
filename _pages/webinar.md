@@ -1,6 +1,6 @@
 ---
 title: "Webinar"
-layout: textlay
+layout: gridlay
 excerpt: "AI Chair OceaniX - Webinar"
 sitemap: false
 permalink: /webinar
