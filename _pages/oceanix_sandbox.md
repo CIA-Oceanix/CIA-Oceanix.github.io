@@ -29,7 +29,7 @@ You can find here all the informations and presentations of interest from Friday
  <div class="well">
   <pubtit>{{ oceanix_sandbox.title }}</pubtit>
   <p>{{ oceanix_sandbox.date }} <br></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sandbox_pic/{{ oceanix_sandbox.image }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sandbox_pic/{{ oceanix_sandbox.image }}" class="img-responsive" width="15%" style="float: left" />
   <p>{{ oceanix_sandbox.description }}</p>
   <p><em>{{ oceanix_sandbox.authors }}</em></p>
   <p><strong><a href="{{ oceanix_sandbox.link.url }}">{{ oceanix_sandbox.link.display }}</a></strong></p>
