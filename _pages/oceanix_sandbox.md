@@ -48,9 +48,9 @@ You can find here all the informations and presentations of interest from Friday
   <p> {{ oceanix_sandbox.news2 }}</p>
   <p><strong><a href="{{ oceanix_sandbox.recordlink.url }}">{{ oceanix_sandbox.recordlink.display }}</a></strong></p>
   <p><strong><a href="{{ oceanix_sandbox.slideslink.url1 }}">{{ oceanix_sandbox.slideslink.display1 }}</a></strong></p>
-  <p><strong><a href="{{ oceanix_sandbox.slideslink.url2 }}">{{ oceanix_sandbox.slideslink.display2 }}</a></strong></p>-->
+  <p><strong><a href="{{ oceanix_sandbox.slideslink.url2 }}">{{ oceanix_sandbox.slideslink.display2 }}</a></strong></p>
  </div>
-</div>
+</div>-->
 
 {% assign number_printed = number_printed | plus: 1 %}
 
