@@ -72,7 +72,7 @@ Domino is a journal club to discuss papers of interest while eating pizzas.
  <div class="well">
   <pubtit>{{ domino.title }}</pubtit>
   <p>{{ domino.date }} <br></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ domino.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/domino_pic/{{ domino.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ domino.description }}</p>
   <p><em>{{ domino.authors }}</em></p>
   <p><strong><a href="{{ domino.link.url }}">{{ domino.link.display }}</a></strong></p>
