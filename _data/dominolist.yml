@@ -1,13 +1,26 @@
+- title: "DiffTaichi: DIFFERENTIABLE PROGRAMMING FOR PHYSICAL SIMULATION"
+  image: figDiffTaichi.jpg
+  description: 
+  date: 2020/11/25
+  authors: Q. Febvre
+  link: 
+    url: https://arxiv.org/abs/1910.00935
+    display: arXiv:1910.00935
+  highlight: 1
+  codetype: 2
+  news1: 
+  news2: 
+
 - title: "Logarithmic Pruning is All You Need"
-  image: rock.jpg
-  description: ...
+  image: figPruning.jpg
+  description: 
   date: 2020/09/23
   authors: A. Colin
   link: 
     url: https://arxiv.org/abs/2006.12156
     display: 2006.12156
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1: 
   news2: 
 
