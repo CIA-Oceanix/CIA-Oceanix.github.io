@@ -78,10 +78,9 @@
   description: Short tutorial on a framework for dataset control and versioning
   date: 2020/11/20
   authors: Q Febvre
-  link: https://zoom.us/j/91488645244?pwd=cTNsSkNIaFNSQ0FEeC8rYllWZStoZz09
   slideslink:
-    url1: 
-    display1: #Slides
+    url1: https://s3.eu-central-1.wasabisys.com/website-oceanix-static/Experiment versioning.pptx
+    display1: Slides
     url2: 
     display2:
   highlight: 1
