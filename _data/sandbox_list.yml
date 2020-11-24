@@ -59,8 +59,8 @@
   news1:
   news2:
 - title: "Carlo's talk"
-  image: default.jpg
-  description: TBD
+  image: carlos_talk.png
+  description: Multiscale Complexity
   date: 2020/11/27
   authors: C. Granero
   link: 
