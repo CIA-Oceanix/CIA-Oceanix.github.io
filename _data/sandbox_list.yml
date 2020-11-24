@@ -67,8 +67,8 @@
   slideslink:
     url1: 
     display1: #Slides
-    url2: 
-    display2:
+    url2: https://arxiv.org/pdf/1607.05511.pdf
+    display2: arXiv paper: 1607.05511
   highlight: 1
   codetype: 2
   news1:
