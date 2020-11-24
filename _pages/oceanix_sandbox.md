@@ -10,9 +10,7 @@ permalink: /oceanix_sandbox
 
 You can find here all the informations and presentations of interest from Friday morning OceaniX team meetings.
 
-**Zoom conference for session on Nov. 20**: [link](https://zoom.us/j/91488645244?pwd=cTNsSkNIaFNSQ0FEeC8rYllWZStoZz09)
-
-
+**Zoom conference for session on Nov. 27**: to be announced<!--[link](https://zoom.us/j/91488645244?pwd=cTNsSkNIaFNSQ0FEeC8rYllWZStoZz09)-->
 
 ## Upcoming sessions
 
