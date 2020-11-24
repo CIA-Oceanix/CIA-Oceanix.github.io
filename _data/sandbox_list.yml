@@ -1,6 +1,6 @@
-- title: "Matteo's talk"
+- title: "Matteo's talk on Emergence of Network Motifs in Deep Neural Networks"
   image: matteo_sandbox.png
-  description: TBD
+  description: The presence of pattern of inter-connections between nodes (called network motifs) in real complex networks has been widely studied and documented. Our study aims to search for meaningful patterns in a MLP network before and after training. Simulations show that the final network topology is shaped by learning dynamics, but can be strongly biased by choosing appropriate weight initialization schemes. Overall, our results suggest that non-trivial initialization strategies can make learning more effective by promoting the development of useful network motifs, which are often surprisingly consistent with those observed in general transduction networks.
   date: 2021/01/22
   authors: M. Zambra
   link: 
