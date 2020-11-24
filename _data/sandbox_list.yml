@@ -77,14 +77,14 @@
   image: default.jpg
   description: Short tutorial on a framework for dataset control and versioning
   date: 2020/11/20
-  authors: Q Febvre
+  authors: Q. Febvre
   slideslink:
     url1: https://s3.eu-central-1.wasabisys.com/website-oceanix-static/Experiment versioning.pptx
     display1: Slides
     url2: 
     display2:
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 - title: "Linking Energy-based GAN to 4DVarNN"
