@@ -58,9 +58,9 @@
   codetype: 2
   news1:
   news2:
-- title: "Carlo's talk"
+- title: "Carlo's talk on Multiscale Complexity"
   image: carlos_talk.png
-  description: Multiscale Complexity
+  description: Nowadays, the multi-scale character of complex natural systems is confirmed as a fact. Turbulence, which is considered as the last frontier of classical physics, is used as a benchmark of this type of systems. Thus due to its tremendous importance, several frameworks have been historically developed to describe it. However, the existing approaches present limitations to cover the full description of multi-scale couplings. As a consequence of these drawbacks, new progresses in the field are needed. Thus, I propose to develop a statistical framework based on Information Theory to deal with multi-scale coupling descriptions of physical systems and processes.
   date: 2020/11/27
   authors: C. Granero
   link: 
