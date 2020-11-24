@@ -74,7 +74,7 @@
   news1:
   news2:
 - title: "Introduction to Data Version Control"
-  image: default.jpg
+  image: dvc_git.png
   description: Short tutorial on a framework for dataset control and versioning
   date: 2020/11/20
   authors: Q. Febvre
