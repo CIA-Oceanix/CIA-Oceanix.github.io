@@ -70,7 +70,7 @@
     url2: https://arxiv.org/pdf/1607.05511.pdf
     display2: arXiv:1607.05511
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 - title: "Introduction to Data Version Control"
