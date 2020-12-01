@@ -48,7 +48,7 @@
   description: Tutorial on PyTorch package for SDEs
   date: 2020/12/04
   authors: N. Dridi
-  link: 
+  link: https://github.com/google-research/torchsde
   slideslink:
     url1: 
     display1: #Slides
