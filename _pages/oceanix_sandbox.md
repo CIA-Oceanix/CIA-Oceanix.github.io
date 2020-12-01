@@ -10,7 +10,7 @@ permalink: /oceanix_sandbox
 
 You can find here all the informations and presentations of interest from Friday morning OceaniX team meetings.
 
-**Zoom conference for session on Nov. 27**: [link](https://imt-atlantique.zoom.us/j/97580350598?pwd=d21NNmI5Q3FuWWpqdEFrK3JpeFYrQT09)
+**Zoom conference for session on Dec. 4**: [link](https://imt-atlantique.zoom.us/j/97215302786?pwd=dzUzZ0VlQjBqT3l0VHN6Ungzd2NJUT09)
 
 ## Upcoming sessions
 
