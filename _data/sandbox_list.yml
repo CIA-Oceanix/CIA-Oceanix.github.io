@@ -44,7 +44,7 @@
   news1:
   news2:
 - title: "Introduction to TorchSDE"
-  image: default.jpg
+  image: torch_sde.png
   description: Tutorial on PyTorch package for SDEs
   date: 2020/12/04
   authors: N. Dridi
