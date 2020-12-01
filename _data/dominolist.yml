@@ -1,3 +1,19 @@
+
+- title: "Adversarial active learning"
+  image: adversarialactivelearning.png
+  description: 
+  date: 2020/12/16
+  authors: T. Mondal
+  link: 
+    url: https://arxiv.org/abs/1904.00370
+    display: arXiv:1904.00370
+  highlight: 1
+  codetype: 2
+  news1: 
+  news2: 
+
+
+
 - title: "DiffTaichi: DIFFERENTIABLE PROGRAMMING FOR PHYSICAL SIMULATION"
   image: figDiffTaichi.jpg
   description: 
@@ -7,7 +23,7 @@
     url: https://arxiv.org/abs/1910.00935
     display: arXiv:1910.00935
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1: 
   news2: 
 
