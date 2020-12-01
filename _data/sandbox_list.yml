@@ -28,9 +28,9 @@
   codetype: 2
   news1:
   news2:
-- title: "Simon's talk"
+- title: "Simon's talk on the variational learning of sea surface current reconstructions from AIS data streams."
   image: default.jpg
-  description: TBD
+  description: Space oceanography missions, especially altimeter missions, have considerably improved the observation of sea surface dynamics over the last decades. They can however hardly resolve spatial scales below ∼ 100km. Meanwhile the AIS (Automatic Identification System) monitoring of the maritime traffic implicitly conveys information on the underlying sea surface currents as the trajectory of ships is affected by the current. Here, we show that an unsupervised variational learning scheme provides new means to elucidate how AIS data streams can be converted into sea surface currents. The proposed scheme relies on a learnable variational framework and relate to variational auto-encoder approach coupled with neural ODE (Ordinary Differential Equation) solving the targeted ill-posed inverse problem. Through numerical experiments on a real AIS dataset, we demonstrate how the proposed scheme could contribute to the reconstruction of sea surface currents from AIS data.
   date: 2021/01/08
   authors: S. Bennaïchouche
   link: 
