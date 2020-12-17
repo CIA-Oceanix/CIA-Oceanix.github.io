@@ -47,13 +47,16 @@
   link:
     url: https://arxiv.org/abs/2009.04318
     display: arxiv.org/abs/2009.04318
-  zoomlink:
-    url: https://imt-atlantique.zoom.us/j/96280819882?pwd=MWthb2gvT1lJelJxdW9qZkhJM0Mydz09
-    display: Zoom meeting link
-    ID: 962 8081 9882
-    Passcode: 903361
+  recordlink:
+    url: https://s3.eu-central-1.wasabisys.com/webinars-oceanix/Webinar-Brajard_2020-12-16/Webinar_Brajard_20201216.mkv
+    display: Webinar video
+  slideslink:
+    url1: https://s3.eu-central-1.wasabisys.com/webinars-oceanix/Webinar-Brajard_2020-12-16/Webinar_Brajard_20201216.pdf
+    display1: Slides 
+    url2: 
+    display2: 
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 
