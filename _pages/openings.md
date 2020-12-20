@@ -18,13 +18,17 @@ We will open new PhD, postdoc and internship positions.
 You find the current job openings here:
 - Internship on **Adversarial learning of variational models for inverse problems** [here]({{ site.url }}{{ site.baseurl }}/downloads/internship_GAN_VarNN2021.pdf)
 - Internship on **Deep learning inversion of sea surface processes from SAR imaging** [here]({{ site.url }}{{ site.baseurl }}/downloads/internship_DL_SAR2021.pdf)
+- OceaniX PhD scholarship on **Learning Optimal Measurement and Sampling Strategies for Multi-platform Ocean Monitoring Surveillance** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_EnstaBr2021.pdf)
+- OceaniX PhD scholarship on **Tropical Cyclone classification and prediction using multimodal physics- informed artificial intelligence methods** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_Ifremer2021.pdf)
+- PhD on **Deep Learning Representations for Lagrangian Dynamics at sea surface** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_MOi2021.pdf)
+- PhD on **Data-driven MOdeling and sampling to MOnitor PARticle origins in deep sediment traps** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_BGC2021.pdf)
 <!--
  You find the current job openings here:
 ([Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
 [Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
 -->
-
-It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here](https://www.madics.fr/event/offre97/), [here](https://www.madics.fr/event/1581927652-9197/), or [here](https://www.madics.fr/event/offre30/?instance_id=1424).
+ 
+You might also look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here](https://www.madics.fr/event/offre97/), [here](https://www.madics.fr/event/1581927652-9197/), or [here](https://www.madics.fr/event/offre30/?instance_id=1424).
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send an [email](mailto:ronan.fablet@imt-atlantique.fr) to Pr. Ronan Fablet. State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
