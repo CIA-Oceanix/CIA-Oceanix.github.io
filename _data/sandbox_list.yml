@@ -55,7 +55,7 @@
     url2: 
     display2:
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 - title: "Carlo's talk on Multiscale Complexity"
