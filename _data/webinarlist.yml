@@ -60,25 +60,6 @@
   news1:
   news2:
 
-
-- title: "An introduction to SPDE based random fields"
-  image: Desassis.jpg
-  description: While most of the Geostatistical standard procedures suffer some severe limitations in presence of large data sets and large number of target sites (referred to as the big n problem), The Stochastic Partial Derivative Equations (SPDE) model is an efficient formalism which allows performing Estimation and Simulations.
-  date: XXXX/XX/XX
-  authors: N. Desassis (Mines ParisTech)
-  link: 
-    url: https://arxiv.org/abs/1806.04999
-    display: arXiv:1806.04999
-  zoomlink:
-    url: 
-    display: Zoom meeting link
-    ID:
-    Passcode:
-  highlight: 1
-  codetype: 2
-  news1: 
-  news2: 
-
 - title: ""
   image: miyoshi.jpg
   description: 
@@ -186,3 +167,22 @@
   codetype: 2
   news1:
   news2:
+
+- title: "An introduction to SPDE based random fields"
+  image: Desassis.jpg
+  description: While most of the Geostatistical standard procedures suffer some severe limitations in presence of large data sets and large number of target sites (referred to as the big n problem), The Stochastic Partial Derivative Equations (SPDE) model is an efficient formalism which allows performing Estimation and Simulations.
+  date: XXXX/XX/XX
+  authors: N. Desassis (Mines ParisTech)
+  link:
+    url: https://arxiv.org/abs/1806.04999
+    display: arXiv:1806.04999
+  zoomlink:
+    url:
+    display: Zoom meeting link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
