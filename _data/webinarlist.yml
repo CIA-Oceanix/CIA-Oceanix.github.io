@@ -79,3 +79,110 @@
   news1: 
   news2: 
 
+- title: ""
+  image: miyoshi.jpg
+  description: 
+  date: 2021/02/17 (9:30 AM, Paris Time)
+  authors: Takemasa Miyoshi (RIKEN) / Pierre Tandeo (IMT Atlantique)
+  link: 
+    url:
+    display:
+  zoomlink:
+    url:
+    display: Zoom meeting link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: ""
+  image: jagtap.jpg
+  description:
+  date: 2021/03/17 (1:30 PM, Paris Time)
+  authors: Ameya Jagtap (Brown University)
+  link:
+    url:
+    display:
+  zoomlink:
+    url:
+    display: Zoom meeting link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: ""
+  image: sapsis.jpg
+  description:
+  date: 2021/04/17 (1:30 PM, Paris Time)
+  authors: Themistoklis Sapsis (MIT)
+  link:
+    url:
+    display:
+  zoomlink:
+    url:
+    display: Zoom meeting link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: ""
+  image: campvalls.jpg
+  description:
+  date: 2021/05/19 (1:30 PM, Paris Time)
+  authors: Gustau Camp-Valls (València University)
+  link:
+    url:
+    display:
+  zoomlink:
+    url:
+    display: Zoom meeting link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: ""
+  image: lidsten.jpg
+  description:
+  date: 2021/06/16 (1:30 PM, Paris Time)
+  authors: Fredrik Lidsten (Linköping University)
+  link:
+    url:
+    display:
+  zoomlink:
+    url:
+    display: Zoom meeting link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: ""
+  image: gratton.jpg
+  description:
+  date: 2021/09/15 (1:30 PM, Paris Time)
+  authors: Serge Gratton (ENSEEIHT)
+  link:
+    url:
+    display:
+  zoomlink:
+    url:
+    display: Zoom meeting link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
