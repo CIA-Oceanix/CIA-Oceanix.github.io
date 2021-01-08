@@ -1,7 +1,7 @@
 - title: "Matteo's talk on Emergence of Network Motifs in Deep Neural Networks"
   image: matteo_sandbox.png
   description: The presence of pattern of inter-connections between nodes (called network motifs) in real complex networks has been widely studied and documented. Our study aims to search for meaningful patterns in a MLP network before and after training. Simulations show that the final network topology is shaped by learning dynamics, but can be strongly biased by choosing appropriate weight initialization schemes. Overall, our results suggest that non-trivial initialization strategies can make learning more effective by promoting the development of useful network motifs, which are often surprisingly consistent with those observed in general transduction networks.
-  date: 2021/01/22
+  date: 2021/01/29
   authors: M. Zambra
   link: 
   slideslink:
@@ -16,7 +16,7 @@
 - title: "Introduction to PyTorch-FEniCS"
   image: default.jpg
   description: Tutorial on the use of FEniCS models (finite-element PDE solver) as PyTroch modules 
-  date: 2021/01/15
+  date: 2021/01/22
   authors: S. Ouala
   link: https://github.com/barkm/torch-fenics
   slideslink:
@@ -31,7 +31,7 @@
 - title: "Simon's talk on the variational learning of sea surface current reconstructions from AIS data streams."
   image: default.jpg
   description: Space oceanography missions, especially altimeter missions, have considerably improved the observation of sea surface dynamics over the last decades. They can however hardly resolve spatial scales below ∼ 100km. Meanwhile the AIS (Automatic Identification System) monitoring of the maritime traffic implicitly conveys information on the underlying sea surface currents as the trajectory of ships is affected by the current. Here, we show that an unsupervised variational learning scheme provides new means to elucidate how AIS data streams can be converted into sea surface currents. The proposed scheme relies on a learnable variational framework and relate to variational auto-encoder approach coupled with neural ODE (Ordinary Differential Equation) solving the targeted ill-posed inverse problem. Through numerical experiments on a real AIS dataset, we demonstrate how the proposed scheme could contribute to the reconstruction of sea surface currents from AIS data.
-  date: 2021/01/08
+  date: 2021/01/15
   authors: S. Bennaïchouche
   link: 
   slideslink:
