@@ -1,3 +1,18 @@
+- title: "Student projects on Big Data, Cloud Computing and Environmental data"
+  image: default.png
+  description: This friday, 9 20-minute presentations from 9.30am to 12.00pm and 1.30pm to 5.00pm on the big data processing and analytics using Pangeo, BigQuery and Google Cloud platform applied to ocean-atmosphere-climate data and questions (e.g., sea level rise, hurricane analytics, CMIP6 simulation, satellite observation data).  
+  date: 2021/01/22
+  authors: P. Tandeo
+  link: 
+  slideslink:
+    url1: https://discord.gg/UeGnaT3k 
+    display1: Join on discord
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
 - title: "Matteo's talk on Emergence of Network Motifs in Deep Neural Networks"
   image: matteo_sandbox.png
   description: The presence of pattern of inter-connections between nodes (called network motifs) in real complex networks has been widely studied and documented. Our study aims to search for meaningful patterns in a MLP network before and after training. Simulations show that the final network topology is shaped by learning dynamics, but can be strongly biased by choosing appropriate weight initialization schemes. Overall, our results suggest that non-trivial initialization strategies can make learning more effective by promoting the development of useful network motifs, which are often surprisingly consistent with those observed in general transduction networks.
