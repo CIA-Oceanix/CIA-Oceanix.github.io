@@ -29,7 +29,7 @@
   news1:
   news2:
 - title: "SPDE-based deep neural networks for conditional simulations"
-  image: matteo_sandbox.png
+  image: default.jpg
   description:  
   date: 2021/02/12
   authors: M. Beauchamp
@@ -43,11 +43,11 @@
   codetype: 2
   news1:
   news2:
-- title: "SPDE-based deep neural networks for conditional simulations"
-  image: matteo_sandbox.png
+- title: "Deep learning and Trajectory Representation for the Predictio of Seabird Diving Behaviour"
+  image: default.jpg
   description:  
-  date: 2021/02/12
-  authors: M. Beauchamp
+  date: 2021/02/19
+  authors: A. Roy
   link: 
   slideslink:
     url1: 
