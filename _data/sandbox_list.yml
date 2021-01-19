@@ -52,8 +52,8 @@
   slideslink:
     url1: 
     display1: #Slides
-    url2: https://arxiv.org/abs/1912.12244
-    display2: aRxiv:1912.12244
+    url2: https://github.com/CIA-Oceanix/Notebook_SPDE-based_OI
+    display2: Git repo
   highlight: 1
   codetype: 2
   news1:
