@@ -11,6 +11,10 @@ permalink: /domino
 Domino is a journal club to discuss papers of interest while eating pizzas.
 **Zoom conference for session on Nov. 25**: [link](https://zoom.us/j/94354512890?pwd=cHNCMlVISVRnZjFuN29TV2d2a1R3UT09)
 
+# Some tips on Doino sessions and reading groups: 
+- **For the "Guru" to lead a Domino session** [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
+- **For all**: [link](http://muratbuffalo.blogspot.fr/2013/07/how-i-read-research-paper.html)
+
 ## List of coming Domino session
 
 {% assign number_printed = 0 %}
