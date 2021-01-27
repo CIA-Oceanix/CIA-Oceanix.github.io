@@ -10,8 +10,7 @@ permalink: /oceanix_sandbox
 
 You can find here all the informations and presentations of interest from Friday morning OceaniX team meetings.
 
-<!---**Zoom conference for session on Jan. 15**: [link](https://imt-atlantique.zoom.us/j/94083764667?pwd=RFN5aXJwN1N5bjVRUWY2ckRNWjVjQT09)-->
-**Webex conference for session on Jan. 22**: [link](https://imt-atlantique.webex.com/meet/pierre.tandeo)
+**Zoom conference for session on Jan. 29**: [link](https://imt-atlantique.zoom.us/j/93182038511?pwd=dGhtVHd2Sm5nb2ladXY3S3BFNFhjUT09)
 ## Upcoming sessions
 
 
