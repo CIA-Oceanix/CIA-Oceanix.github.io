@@ -1,3 +1,17 @@
+- title: "Dynamics of stochastic gradient descent for two-layer neural networks in the teacher-student setup"
+  image: 
+  description: 
+  date: 2020/10/02
+  authors: M. Zambra
+  link: 
+    url: https://arxiv.org/abs/1906.08632
+    display: arXiv:1906.08632 
+  highlight: 1
+  codetype: 2
+  news1: 
+  news2: 
+
+
 
 - title: "Adversarial active learning"
   image: adversarialactivelearning.jpg
