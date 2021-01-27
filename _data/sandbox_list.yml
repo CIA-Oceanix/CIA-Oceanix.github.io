@@ -10,7 +10,7 @@
     url2: https://cia-oceanix.github.io/downloads/bdccc-1.pdf
     display2: Program
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 - title: "Matteo's talk on Emergence of Network Motifs in Deep Neural Networks"
