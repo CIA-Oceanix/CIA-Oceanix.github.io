@@ -59,14 +59,14 @@
   news2:
 
 
-- title: ""
+- title: "Big Data, Big Computation, and Machine Learning in Numerical Weather Prediction"
   image: miyoshi.jpg
-  description: 
+  description: At RIKEN, we have been exploring a fusion of big data and big computation, and now with AI techniques and machine learning (ML). The new Japan’s flagship supercomputer “Fugaku” is designed to be efficient for both double-precision big simulations and reduced-precision machine learning applications, aiming to play a pivotal role in creating super-smart “Society 5.0.” Our group in RIKEN has been pushing the limits of numerical weather prediction (NWP) through two orders of magnitude bigger computations using the previous Japan’s flagship “K computer”. We achieved real-time 30-second-refresh predictions of sudden downpours up to 30 minutes in advance by fully exploiting big data from a novel Phased Array Weather Radar. Now with the new Fugaku, we have been exploring ideas for fusing Big Data Assimilation and AI. The data produced by NWP models become bigger and moving around the data to other computers for ML may not be feasible. Having a next-generation computer like Fugaku, good for both big NWP computation and ML, may bring a breakthrough toward creating a new methodology of fusing data-driven (inductive) and process-driven (deductive) approaches in meteorology. This presentation will introduce the most recent results from data assimilation and NWP experiments, followed by perspectives toward future developments and challenges of DA-AI fusion.
   date: 2021/02/17 (1:30 PM, Paris Time)
   authors: Takemasa Miyoshi (RIKEN)
   link: 
-    url:
-    display:
+    url: https://journals.ametsoc.org/view/journals/bams/97/8/bams-d-15-00144.1.xml
+    display: journals.ametsoc.org
   zoomlink:
     url:
     display: Zoom meeting link
