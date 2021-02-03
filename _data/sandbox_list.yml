@@ -1,33 +1,3 @@
-- title: "Student projects on Big Data, Cloud Computing and Environmental data"
-  image: default.jpg
-  description: This friday, several 20-minute presentations from 9.30am to 12.00pm and 1.30pm to 5.00pm on the big data processing and analytics using Pangeo, BigQuery and Google Cloud platform applied to ocean-atmosphere-climate data and questions (e.g., sea level rise, hurricane analytics, CMIP6 simulation, satellite observation data). Feel free to join at any time. These presentations will be given by students in the framework of a graduate course on Big Data, Cloud Computing and Environmental Science.
-  date: 2021/01/22
-  authors: P. Tandeo
-  link: 
-  slideslink:
-    url1: https://imt-atlantique.webex.com/meet/pierre.tandeo 
-    display1: Join on Webex
-    url2: https://cia-oceanix.github.io/downloads/bdccc-1.pdf
-    display2: Program
-  highlight: 1
-  codetype: 1
-  news1:
-  news2:
-- title: "Matteo's talk on Emergence of Network Motifs in Deep Neural Networks"
-  image: matteo_sandbox.png
-  description: The presence of pattern of inter-connections between nodes (called network motifs) in real complex networks has been widely studied and documented. Our study aims to search for meaningful patterns in a MLP network before and after training. Simulations show that the final network topology is shaped by learning dynamics, but can be strongly biased by choosing appropriate weight initialization schemes. Overall, our results suggest that non-trivial initialization strategies can make learning more effective by promoting the development of useful network motifs, which are often surprisingly consistent with those observed in general transduction networks.
-  date: 2021/01/29
-  authors: M. Zambra
-  link: 
-  slideslink:
-    url1: 
-    display1: #Slides
-    url2: https://arxiv.org/abs/1912.12244
-    display2: aRxiv:1912.12244
-  highlight: 1
-  codetype: 2
-  news1:
-  news2:
 - title: "Introduction to PyTorch-FEniCS"
   image: fenics.png
   description: Tutorial on the use of FEniCS models (finite-element PDE solver) as PyTroch modules 
@@ -73,6 +43,39 @@
   codetype: 2
   news1:
   news2:
+  
+  - title: "Student projects on Big Data, Cloud Computing and Environmental data"
+  image: default.jpg
+  description: This friday, several 20-minute presentations from 9.30am to 12.00pm and 1.30pm to 5.00pm on the big data processing and analytics using Pangeo, BigQuery and Google Cloud platform applied to ocean-atmosphere-climate data and questions (e.g., sea level rise, hurricane analytics, CMIP6 simulation, satellite observation data). Feel free to join at any time. These presentations will be given by students in the framework of a graduate course on Big Data, Cloud Computing and Environmental Science.
+  date: 2021/01/22
+  authors: P. Tandeo
+  link: 
+  slideslink:
+    url1: https://imt-atlantique.webex.com/meet/pierre.tandeo 
+    display1: Join on Webex
+    url2: https://cia-oceanix.github.io/downloads/bdccc-1.pdf
+    display2: Program
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+  
+- title: "Matteo's talk on Emergence of Network Motifs in Deep Neural Networks"
+  image: matteo_sandbox.png
+  description: The presence of pattern of inter-connections between nodes (called network motifs) in real complex networks has been widely studied and documented. Our study aims to search for meaningful patterns in a MLP network before and after training. Simulations show that the final network topology is shaped by learning dynamics, but can be strongly biased by choosing appropriate weight initialization schemes. Overall, our results suggest that non-trivial initialization strategies can make learning more effective by promoting the development of useful network motifs, which are often surprisingly consistent with those observed in general transduction networks.
+  date: 2021/01/29
+  authors: M. Zambra
+  link: 
+  slideslink:
+    url1: 
+    display1: #Slides
+    url2: https://arxiv.org/abs/1912.12244
+    display2: aRxiv:1912.12244
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
 - title: "Simon's talk on the variational learning of sea surface current reconstructions from AIS data streams."
   image: simon_sandbox.jpg
   description: Space oceanography missions, especially altimeter missions, have considerably improved the observation of sea surface dynamics over the last decades. They can however hardly resolve spatial scales below ∼ 100km. Meanwhile the AIS (Automatic Identification System) monitoring of the maritime traffic implicitly conveys information on the underlying sea surface currents as the trajectory of ships is affected by the current. Here, we show that an unsupervised variational learning scheme provides new means to elucidate how AIS data streams can be converted into sea surface currents. The proposed scheme relies on a learnable variational framework and relate to variational auto-encoder approach coupled with neural ODE (Ordinary Differential Equation) solving the targeted ill-posed inverse problem. Through numerical experiments on a real AIS dataset, we demonstrate how the proposed scheme could contribute to the reconstruction of sea surface currents from AIS data.
@@ -103,6 +106,8 @@
   codetype: 1
   news1:
   news2:
+
+
 - title: "Carlo's talk on Multiscale Complexity"
   image: carlos_talk.png
   description: Nowadays, the multi-scale character of complex natural systems is confirmed as a fact. Turbulence, which is considered as the last frontier of classical physics, is used as a benchmark of this type of systems. Thus due to its tremendous importance, several frameworks have been historically developed to describe it. However, the existing approaches present limitations to cover the full description of multi-scale couplings. As a consequence of these drawbacks, new progresses in the field are needed. Thus, I propose to develop a statistical framework based on Information Theory to deal with multi-scale coupling descriptions of physical systems and processes.
