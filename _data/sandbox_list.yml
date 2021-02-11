@@ -30,7 +30,7 @@
   news1:
   news2:
   
- - title: "Introduction to PyTorch-FEniCS"
+- title: "Introduction to PyTorch-FEniCS"
   image: fenics.png
   description: Tutorial on the use of FEniCS models (finite-element PDE solver) as PyTroch modules 
   date: 2021/02/05
