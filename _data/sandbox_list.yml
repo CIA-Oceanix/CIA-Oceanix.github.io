@@ -1,18 +1,3 @@
-- title: "Introduction to PyTorch-FEniCS"
-  image: fenics.png
-  description: Tutorial on the use of FEniCS models (finite-element PDE solver) as PyTroch modules 
-  date: 2021/02/05
-  authors: S. Ouala
-  link: https://github.com/barkm/torch-fenics
-  slideslink:
-    url1: 
-    display1: #Slides
-    url2: 
-    display2:
-  highlight: 1
-  codetype: 2
-  news1:
-  news2:
 - title: "SPDE-based deep neural networks for conditional simulations"
   image: default.jpg
   description:  
@@ -28,6 +13,7 @@
   codetype: 2
   news1:
   news2:
+  
 - title: "Deep learning and Trajectory Representation for the Prediction of Seabird Diving Behaviour"
   image: amedee.jpg
   description: Seabirds’ behavior provides invaluable information for the study of marine ecosystems, since their foraging strategies give us a real-time response to the complex dynamics of the ecosystem. In particular, by deploying sufficiently light GPS sensors on seabirds, it is possible to obtain their trajectories, to identify behaviors at sea and foraging areas. This work addresses the inference of seabird diving behaviour from GPS data using Deep Learning methods. From a database of about 250 foraging trajectories derived from GPS data deployed simultaneously with pressure sensors for the identification of dives. Within a supervised setting, we show that the representations of trajectory data (time-series vs distance matrix) greatly affect the ability of deep learning architectures to infer diving behaviour for two tropical seabird species. We also point out the potential impact on the estimation of dives distribution.
@@ -44,7 +30,23 @@
   news1:
   news2:
   
-  - title: "Student projects on Big Data, Cloud Computing and Environmental data"
+ - title: "Introduction to PyTorch-FEniCS"
+  image: fenics.png
+  description: Tutorial on the use of FEniCS models (finite-element PDE solver) as PyTroch modules 
+  date: 2021/02/05
+  authors: S. Ouala
+  link: https://github.com/barkm/torch-fenics
+  slideslink:
+    url1: 
+    display1: #Slides
+    url2: 
+    display2:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+
+- title: "Student projects on Big Data, Cloud Computing and Environmental data"
   image: default.jpg
   description: This friday, several 20-minute presentations from 9.30am to 12.00pm and 1.30pm to 5.00pm on the big data processing and analytics using Pangeo, BigQuery and Google Cloud platform applied to ocean-atmosphere-climate data and questions (e.g., sea level rise, hurricane analytics, CMIP6 simulation, satellite observation data). Feel free to join at any time. These presentations will be given by students in the framework of a graduate course on Big Data, Cloud Computing and Environmental Science.
   date: 2021/01/22
@@ -72,7 +74,7 @@
     url2: https://arxiv.org/abs/1912.12244
     display2: aRxiv:1912.12244
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 
