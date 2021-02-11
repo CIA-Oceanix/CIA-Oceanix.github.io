@@ -30,6 +30,54 @@
   news1:
   news2:
   
+- title: "Learning sparse structures for modal estimation in underwater acoustics"
+  image: default.jpg
+  description: In underwater acoustics, shallow water environments act as modal dispersive waveguides when considering low-frequency sources. In this context, propagating signals can be described as a sum of few modal components, each of them propagating according to its own wavenumber. Estimating these wavenumbers is of key interest to understand the propagating environment as well as the emitting source. To solve this problem, we proposed recently a Bayesian approach exploiting a sparsity-inforcing prior. When dealing with broadband sources, this model can be further improved by integrating the particular dependence linking the wavenumbers from one frequency to the other. In this contribution, we propose to resort to a restricted Boltzmann machine, exploited as a generic structured sparsity-inforcing model. This model can indeed be efficiently learned on physically realistic simulated data using well-known algorithms. Then, its integration in a variational Bayesian algorithm allows to solve the modal estimation in an elegant way.
+  date: 2021/03/05
+  authors: A. Dremeau
+  link: 
+  slideslink:
+    url1: 
+    display1: #Slides
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+  
+- title: "Learning where to sample with 4DVar models"
+  image: default.jpg
+  description: This discussion will address the leearning of sampling operators in variational formulation to know where to sample measurements to best reconstruct or predict some process of interest.
+  date: 2021/03/12
+  authors: R. Fablet
+  link: 
+  slideslink:
+    url1: 
+    display1: #Slides
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2: 
+
+- title: "Applying Conditional Generative Adversarial Model on Ocean Observationss"
+  image: default.jpg
+  description: Deep learning models usually lie on the representation of the input domain in a so-called latent space that contains meaningful encoding of the input's semantic, from which it is easier to infer a categorization or a segmentation than from the original image space. Generative Adversarial Models, or GAN, on the other hand, aim to learn a latent space from which realistic synthetic data can be produced. As such, generative models can be considered to obtain a general representation that could be reused for a variety of tasks. It can also be used to generate new groundtruths for data augmentation, in which case conditional generation is required to select some aspect of the generated data. In the context of SAR imagery, constraints on the generator have to be integrated to take into account some particularities of the ocean observations, in particular the preponderance of high-frequency patterns.
+  date: 2021/03/19
+  authors: A. Colin
+  link: 
+  slideslink:
+    url1: 
+    display1: #Slides
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2: 
+
 - title: "Introduction to PyTorch-FEniCS"
   image: fenics.png
   description: Tutorial on the use of FEniCS models (finite-element PDE solver) as PyTroch modules 
