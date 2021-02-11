@@ -15,7 +15,7 @@
   news2:
   
 - title: "Deep learning and Trajectory Representation for the Prediction of Seabird Diving Behaviour"
-  image: default.jpg
+  image: amedee.jpg
   description: Seabirds’ behavior provides invaluable information for the study of marine ecosystems, since their foraging strategies give us a real-time response to the complex dynamics of the ecosystem. In particular, by deploying sufficiently light GPS sensors on seabirds, it is possible to obtain their trajectories, to identify behaviors at sea and foraging areas. This work addresses the inference of seabird diving behaviour from GPS data using Deep Learning methods. From a database of about 250 foraging trajectories derived from GPS data deployed simultaneously with pressure sensors for the identification of dives. Within a supervised setting, we show that the representations of trajectory data (time-series vs distance matrix) greatly affect the ability of deep learning architectures to infer diving behaviour for two tropical seabird species. We also point out the potential impact on the estimation of dives distribution.
   date: 2021/02/19
   authors: A. Roy
