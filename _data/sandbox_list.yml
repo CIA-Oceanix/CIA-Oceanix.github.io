@@ -35,10 +35,10 @@
   description: Tutorial on the use of FEniCS models (finite-element PDE solver) as PyTroch modules 
   date: 2021/02/05
   authors: S. Ouala
-  link: https://github.com/barkm/torch-fenics
+  link: 
   slideslink:
-    url1: 
-    display1: #Slides
+    url1: https://github.com/barkm/torch-fenics
+    display1: Git repo
     url2: 
     display2:
   highlight: 1
