@@ -1,3 +1,16 @@
+- title: "Deep Equilibrium Models"
+  image: 
+  description: 
+  date: 2020/24/02
+  authors: G. Morel
+  link: 
+    url: https://arxiv.org/abs/1909.01377
+    display: arXiv:1909.01377
+  highlight: 1
+  codetype: 2
+  news1: 
+  news2: 
+
 - title: "Dynamics of stochastic gradient descent for two-layer neural networks in the teacher-student setup"
   image: 
   description: 
