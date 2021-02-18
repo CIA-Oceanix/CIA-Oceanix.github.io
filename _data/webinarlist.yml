@@ -1,3 +1,24 @@
+- title: "Big Data, Big Computation, and Machine Learning in Numerical Weather Prediction"
+  image: miyoshi.jpg
+  description: "At RIKEN, we have been exploring a fusion of big data and big computation, and now with AI techniques and machine learning (ML). The new Japan’s flagship supercomputer “Fugaku” is designed to be efficient for both double-precision big simulations and reduced-precision machine learning applications, aiming to play a pivotal role in creating super-smart “Society 5.0.” Our group in RIKEN has been pushing the limits of numerical weather prediction (NWP) through two orders of magnitude bigger computations using the previous Japan’s flagship “K computer”. We achieved real-time 30-second-refresh predictions of sudden downpours up to 30 minutes in advance by fully exploiting big data from a novel Phased Array Weather Radar. Now with the new Fugaku, we have been exploring ideas for fusing Big Data Assimilation and AI. The data produced by NWP models become bigger and moving around the data to other computers for ML may not be feasible. Having a next-generation computer like Fugaku, good for both big NWP computation and ML, may bring a breakthrough toward creating a new methodology of fusing data-driven (inductive) and process-driven (deductive) approaches in meteorology. This presentation will introduce the most recent results from data assimilation and NWP experiments, followed by perspectives toward future developments and challenges of DA-AI fusion.
+  date: 2021/02/17 (1:30 PM, Paris Time)"
+  authors: Takemasa Miyoshi (RIKEN)
+  link:
+    url: https://journals.ametsoc.org/view/journals/bams/97/8/bams-d-15-00144.1.xml
+    display: journals.ametsoc.org
+  recordlink:
+    url: 
+    display: Webinar video
+  slideslink:
+    url1: https://s3.eu-central-1.wasabisys.com/webinars-oceanix/Webinar-Miyoshi-2021-02-17/20210217.pdf
+    display1: Slides
+    url2:
+    display2:
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+
 - title: "Combining data assimilation and machine learning to infer unresolved scale parametrisation"
   image: Brajard.jpg
   description: In recent years, machine learning (ML) has been proposed to devise data-driven parametrisations of unresolved processes in dynamical numerical models. In most cases, the ML training leverages high-resolution simulations to provide a dense, noiseless target state. Our goal is to go beyond the use of high-resolution simulations and train ML-based parametrisation using direct data, in the realistic scenario of noisy and sparse observations. The algorithm proposed in this work is a two-step process. First, data assimilation (DA) techniques are applied to estimate the full state of the system from a truncated model. The unresolved part of the truncated model is viewed as a model error in the DA system. In a second step, ML is used to emulate the unresolved part, a predictor of model error given the state of the system. Finally, the ML-based parametrisation model is added to the œphysical core truncated model to produce a hybrid model.
@@ -55,25 +76,6 @@
     display2: Slides (Part2)
   highlight: 1
   codetype: 1
-  news1:
-  news2:
-
-
-- title: "Big Data, Big Computation, and Machine Learning in Numerical Weather Prediction"
-  image: miyoshi.jpg
-  description: "At RIKEN, we have been exploring a fusion of big data and big computation, and now with AI techniques and machine learning (ML). The new Japan’s flagship supercomputer “Fugaku” is designed to be efficient for both double-precision big simulations and reduced-precision machine learning applications, aiming to play a pivotal role in creating super-smart “Society 5.0.” Our group in RIKEN has been pushing the limits of numerical weather prediction (NWP) through two orders of magnitude bigger computations using the previous Japan’s flagship “K computer”. We achieved real-time 30-second-refresh predictions of sudden downpours up to 30 minutes in advance by fully exploiting big data from a novel Phased Array Weather Radar. Now with the new Fugaku, we have been exploring ideas for fusing Big Data Assimilation and AI. The data produced by NWP models become bigger and moving around the data to other computers for ML may not be feasible. Having a next-generation computer like Fugaku, good for both big NWP computation and ML, may bring a breakthrough toward creating a new methodology of fusing data-driven (inductive) and process-driven (deductive) approaches in meteorology. This presentation will introduce the most recent results from data assimilation and NWP experiments, followed by perspectives toward future developments and challenges of DA-AI fusion.
-  date: 2021/02/17 (1:30 PM, Paris Time)"
-  authors: Takemasa Miyoshi (RIKEN)
-  link: 
-    url: https://journals.ametsoc.org/view/journals/bams/97/8/bams-d-15-00144.1.xml
-    display: journals.ametsoc.org
-  zoomlink:
-    url: https://imt-atlantique.webex.com/meet/pierre.tandeo
-    display: Webex meeting link
-    ID:
-    Passcode:
-  highlight: 1
-  codetype: 2
   news1:
   news2:
 
