@@ -1,6 +1,6 @@
 - title: "Learning where to sample with 4DVar models"
   image: ronan4DVarNNSamp2021.jpg
-  description: This discussion will address the leearning of sampling operators in variational formulation to know where to sample measurements to best reconstruct or predict some process of interest.
+  description: This discussion will address on going development of the 4DVaNN framework (variational-data-assimilation-based neural architectures), especially the learning of sampling operators in variational formulation to know where to sample measurements to best reconstruct or predict some process of interest. 
   date: 2021/03/12
   authors: R. Fablet
   link: 
