@@ -1,3 +1,19 @@
+- title: "Joint RIKEN-IMT Atlantique Seminar on Application of deep-learning methods to environmental data"
+  image: aurelienSegSAR2021.jpg
+  description: The second seminar organized in the framework of the 2021 IMT Atlantique-RIKEN workshop on Statistical Modeling and Machine Learning in Meteorology and Oceanography will address the Semantic Segmentation of Metocean Processes and the Spatio-temporal integration of forecast guidance outputs using U-Net.
+  date: 2021/03/12
+  authors: A. Colin and Dr. H. Hachiya
+  link: 
+  slideslink:
+    url1: http://www.data-assimilation.riken.jp/en/events/imt_ws_2021/index.html
+    display1: link
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2: 
+
 - title: "Learning where to sample with 4DVar models"
   image: ronan4DVarNNSamp2021.jpg
   description: This discussion will address on going development of the 4DVaNN framework (variational-data-assimilation-based neural architectures), especially the learning of sampling operators in variational formulation to know where to sample measurements to best reconstruct or predict some process of interest. 
