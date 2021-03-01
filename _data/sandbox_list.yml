@@ -1,7 +1,7 @@
 - title: "Joint RIKEN-IMT Atlantique Seminar on Application of deep-learning methods to environmental data"
   image: aurelienSegSAR2021.jpg
   description: The second seminar organized in the framework of the 2021 IMT Atlantique-RIKEN workshop on Statistical Modeling and Machine Learning in Meteorology and Oceanography will address the Semantic Segmentation of Metocean Processes and the Spatio-temporal integration of forecast guidance outputs using U-Net.
-  date: 2021/03/12
+  date: 2021/03/03
   authors: A. Colin and Dr. H. Hachiya
   link: 
   slideslink:
@@ -17,7 +17,7 @@
 - title: "Learning where to sample with 4DVar models"
   image: ronan4DVarNNSamp2021.jpg
   description: This discussion will address on going development of the 4DVaNN framework (variational-data-assimilation-based neural architectures), especially the learning of sampling operators in variational formulation to know where to sample measurements to best reconstruct or predict some process of interest. 
-  date: 2021/03/12
+  date: 2021/03/26
   authors: R. Fablet
   link: 
   slideslink:
@@ -33,7 +33,7 @@
 - title: "Applying Conditional Generative Adversarial Model on Ocean Observationss"
   image: default.jpg
   description: Deep learning models usually lie on the representation of the input domain in a so-called latent space that contains meaningful encoding of the input's semantic, from which it is easier to infer a categorization or a segmentation than from the original image space. Generative Adversarial Models, or GAN, on the other hand, aim to learn a latent space from which realistic synthetic data can be produced. As such, generative models can be considered to obtain a general representation that could be reused for a variety of tasks. It can also be used to generate new groundtruths for data augmentation, in which case conditional generation is required to select some aspect of the generated data. In the context of SAR imagery, constraints on the generator have to be integrated to take into account some particularities of the ocean observations, in particular the preponderance of high-frequency patterns.
-  date: 2021/03/26
+  date: TBC
   authors: A. Colin
   link: 
   slideslink:
