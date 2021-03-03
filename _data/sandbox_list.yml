@@ -14,6 +14,21 @@
   news1:
   news2: 
 
+- title: "Learning disentangled representations"
+  image: default.jpg
+  description:   
+  date: 2021/03/12
+  authors: E. Sanchez
+  link: 
+  slideslink:
+    url1: https://hal.archives-ouvertes.fr/hal-02397803
+    display1: ECCV paper
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2: 
 
 - title: "Learning where to sample with 4DVar models"
   image: ronan4DVarNNSamp2021.jpg
