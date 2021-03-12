@@ -31,7 +31,7 @@
   news2: 
 
 - title: "History Matching and Machine Learning for the tuning of climate models"
-  image: default.jpg
+  image: redouane_sandbox.jpg
   description: A major cause of earth system model discrepancies result from processes that are missed or are incorrectly represented in the model’s equations. Despite the increasing number of collected observations, reducing parametric uncertainties is still an enourmous challenge. The process of relying on experience and intuition to find good sets of parameters, commonly referred to as parameter tuning keeps having a central role in the roadmaps followed by dozens of modeling groups involved in community efforts such as the Coupled Model Intercomparison Project (CMIP). In the talk I’ll present a tool from the Uncertainty Quantification community that started recently to draw attention in climate modeling: History Matching also referred to as « Iterative Refocussing ». The core idea of History Matching is to run several simulations with different set of parameters and then use observed data to rule-out any parameter settings which are “implausible”. Since climate simulation models are computationally heavy and do not allow testing every possible parameter setting, we employ an emulator that can be a cheap and accurate replacement. Here a machine learning algorithm, namely, Gaussian Process Regression is used for the emulating step. History Matching is then a good example where the recent advances in machine learning can be of high interest to climate modeling. I will show some results using History Matching on a toy model: the two-layer Lorenz96, and share some findings about the challenges and opportunities of using this technique.
   date: 2021/03/26
   authors: R. Lguensat
@@ -47,21 +47,6 @@
   news2: 
 
 
-- title: "Learning where to sample with 4DVar models"
-  image: ronan4DVarNNSamp2021.jpg
-  description: This discussion will address on going development of the 4DVaNN framework (variational-data-assimilation-based neural architectures), especially the learning of sampling operators in variational formulation to know where to sample measurements to best reconstruct or predict some process of interest. 
-  date: 2021/04/09
-  authors: R. Fablet
-  link: 
-  slideslink:
-    url1: 
-    display1: #Slides
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2: 
 
 - title: "Learning sparse structures for modal estimation in underwater acoustics"
   image: default.jpg
@@ -79,6 +64,22 @@
   news1:
   news2:
   
+- title: "Learning where to sample with 4DVar models"
+  image: ronan4DVarNNSamp2021.jpg
+  description: This discussion will address on going development of the 4DVaNN framework (variational-data-assimilation-based neural architectures), especially the learning of sampling operators in variational formulation to know where to sample measurements to best reconstruct or predict some process of interest. 
+  date: 2021/04/09
+  authors: R. Fablet
+  link: 
+  slideslink:
+    url1: 
+    display1: #Slides
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2: 
+
 - title: "Applying Conditional Generative Adversarial Models on Ocean Observations"
   image: default.jpg
   description: Deep learning models usually lie on the representation of the input domain in a so-called latent space that contains meaningful encoding of the input's semantic, from which it is easier to infer a categorization or a segmentation than from the original image space. Generative Adversarial Models, or GAN, on the other hand, aim to learn a latent space from which realistic synthetic data can be produced. As such, generative models can be considered to obtain a general representation that could be reused for a variety of tasks. It can also be used to generate new groundtruths for data augmentation, in which case conditional generation is required to select some aspect of the generated data. In the context of SAR imagery, constraints on the generator have to be integrated to take into account some particularities of the ocean observations, in particular the preponderance of high-frequency patterns.
