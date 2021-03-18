@@ -10,7 +10,7 @@ permalink: /oceanix_video
 
 <!--{% assign number_printed = 0 %} -->
 {% for video in site.data.video_list %}
-- {{ video.title }}: <strong><a href="{{ video.url }}">{{ video.display }}</a></strong>
+- <strong>{{ video.title }}</strong>, {{ oceanix_sandbox.date }}: <strong><a href="{{ video.url }}">{{ video.display }}</a></strong>
 
 {% endfor %}
 
