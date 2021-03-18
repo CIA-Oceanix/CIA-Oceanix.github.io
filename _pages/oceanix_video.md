@@ -1,10 +1,10 @@
 
 ---
-title: "OceaniX Sandbox"
+title: "OceaniX Videos"
 layout: gridlay
-excerpt: "AI Chair OceaniX - Sandbox"
+excerpt: "AI Chair OceaniX - Videos"
 sitemap: false
-permalink: /oceanix_sandbox
+permalink: /oceanix_video
 ---
 
 # Recorded OceaniX Videos and Talks
