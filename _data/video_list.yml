@@ -1,4 +1,4 @@
-- title: "PhD defense Said Ouala."
+- title: "PhD defense of Said Ouala on Deep Learning and Geophysical Dynamics."
   date: 2021/03/17
   link: https://youtu.be/JuzYa6I-XWs
   display : video
@@ -18,12 +18,27 @@
   link: https://youtu.be/QG9kpzOxAKQ
   display : video
   
+- title: "OceaniX webinar of Dr. T. Miyoshi on Big Data, Big Computation and ML in Numerical Weather Prediction."
+  date: 2020/02/17
+  link: 
+  display : video
+
 - title: "Sandbox talk of S. Benaichouche on Variational learning, AIS and sea surface currents."
   date: 2021/01/15
   link: https://youtu.be/f5VWlY8GI0Q
   display : video
   
-- title: "OceaniX webinar of F. Bouchet on Machine Learning and rare events' algorithms."
+- title: "PhD defense of Duong Nguyen on Variational Deep Learning, Dynamical Systems and AIS data streams."
+  date: 2020/12/17
+  link: 
+  display : video
+
+- title: "OceaniX webinar of Dr. J. Brajard on Data Assimilation Machine Learning for Unresolved Scales."
+  date: 2020/12/16
+  link: 
+  display : video
+  
+- title: "OceaniX webinar of Dr. F. Bouchet on Machine Learning and rare events' algorithms."
   date: 2020/10/21
   link: https://youtu.be/s7AtApwGkcQ
   display : video
