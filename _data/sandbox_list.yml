@@ -1,3 +1,20 @@
+- title: "Student projects on Data Assimilation"
+  image: stud_proj_DA.jpg
+  description: On Thursday, March 25, several 30-minutes presentations from 1.30pm to 5.30pm on data assimilation, covering different topics (e.g., estimation of physical and statistical parameters, tracking particles using a 2D
+advection model, assimilate data in a simplified AMOC model, estimation of friction parameters in a 1D estuary model). These presentations will be given by students in the framework of a graduate course on data assimilation.
+  date: 2021/03/25
+  authors: P. Tandeo
+  link: https://imt-atlantique.webex.com/meet/pierre.tandeo
+  slideslink:
+    url1: https://s3.eu-central-1.wasabisys.com/webinars-oceanix/Webinar_DA_students_2021-03-25/schedule_projects_data_assimilation_2021.pdf
+    display1: program
+    url2:
+    display2:
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
 - title: "Learning disentangled representations in a weakly-supervised manner."
   image: eduardo_sandbox.jpg
   description: We investigate the problem of learning disentangled representations. Given a pair of images sharing some attributes, we aim to create a low-dimensional representation which is split into two parts, a shared representation that captures the common information between the images and an exclusive representation that contains the specific information of each image. To address this issue, we propose a model based on mutual information estimation without relying on image reconstruction or image generation. We show that disentangled representations are useful to perform downstream tasks such as image classification and image retrieval based on the shared or exclusive component. Moreover, our model outperforms the state-of-the-art models based on VAE/GAN approaches in representation disentanglement.        
