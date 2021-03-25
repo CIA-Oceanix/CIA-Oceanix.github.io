@@ -17,7 +17,7 @@
 
 - title: "Narrowing uncertainties of climate projections using data science tools?"
   image: pierre.jpg
-  description: Next AI4Climate seminar (supported by SAMA and SCAI): Climate indices show large variability in CMIP climate predictions. In this presentation, we propose to weight multi-model climate simulations to reduce the uncertainty in climate predictions, and better estimate the future evolution of climate indices. The proposed methodology is based on advanced data science tools (i.e, data assimilation, analog forecasting, model evidence metrics), to accurately compute distances between current observations and simulated climate indices. This low-cost procedure is tested on a simplified climate model. The results show that the methods can be applied locally and is able to identify relevant parameterizations.
+  description: Next AI4Climate seminar (supported by SAMA and SCAI). Climate indices show large variability in CMIP climate predictions. In this presentation, we propose to weight multi-model climate simulations to reduce the uncertainty in climate predictions, and better estimate the future evolution of climate indices. The proposed methodology is based on advanced data science tools (i.e, data assimilation, analog forecasting, model evidence metrics), to accurately compute distances between current observations and simulated climate indices. This low-cost procedure is tested on a simplified climate model. The results show that the methods can be applied locally and is able to identify relevant parameterizations.
   date: 2021/03/26
   authors: P. Tandeo
   link: https://zoom.us/j/94170014183
