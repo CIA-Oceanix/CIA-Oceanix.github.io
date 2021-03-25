@@ -14,38 +14,6 @@
   news1:
   news2:
 
-- title: "Learning disentangled representations in a weakly-supervised manner."
-  image: eduardo_sandbox.jpg
-  description: We investigate the problem of learning disentangled representations. Given a pair of images sharing some attributes, we aim to create a low-dimensional representation which is split into two parts, a shared representation that captures the common information between the images and an exclusive representation that contains the specific information of each image. To address this issue, we propose a model based on mutual information estimation without relying on image reconstruction or image generation. We show that disentangled representations are useful to perform downstream tasks such as image classification and image retrieval based on the shared or exclusive component. Moreover, our model outperforms the state-of-the-art models based on VAE/GAN approaches in representation disentanglement.        
-  date: 2021/03/12
-  authors: E. Sanchez
-  link: 
-  slideslink:
-    url1: https://hal.archives-ouvertes.fr/hal-02397803
-    display1: ECCV paper
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2: 
-
-- title: "Joint RIKEN-IMT Atlantique Seminar on Application of deep-learning methods to environmental data"
-  image: simon_sandbox.jpg
-  description: The third seminar organized in the framework of the 2021 IMT Atlantique-RIKEN workshop on Statistical Modeling and Machine Learning in Meteorology and Oceanography will address the CNN-based acceleration of Climate Models and variational learning for the reconstruction of sea surface currents from AIS data.
-  date: 2021/03/18
-  authors: Dr. M. Mdini and S. Benaïchouche
-  link: 
-  slideslink:
-    url1: http://www.data-assimilation.riken.jp/en/events/imt_ws_2021/index.html
-    display1: link
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2: 
-
 - title: "History Matching and Machine Learning for the tuning of climate models"
   image: redouane_sandbox.jpg
   description: A major cause of earth system model discrepancies result from processes that are missed or are incorrectly represented in the model’s equations. Despite the increasing number of collected observations, reducing parametric uncertainties is still an enourmous challenge. The process of relying on experience and intuition to find good sets of parameters, commonly referred to as parameter tuning keeps having a central role in the roadmaps followed by dozens of modeling groups involved in community efforts such as the Coupled Model Intercomparison Project (CMIP). In the talk I’ll present a tool from the Uncertainty Quantification community that started recently to draw attention in climate modeling, History Matching also referred to as « Iterative Refocussing ». The core idea of History Matching is to run several simulations with different set of parameters and then use observed data to rule-out any parameter settings which are “implausible”. Since climate simulation models are computationally heavy and do not allow testing every possible parameter setting, we employ an emulator that can be a cheap and accurate replacement. Here a machine learning algorithm, namely, Gaussian Process Regression is used for the emulating step. History Matching is then a good example where the recent advances in machine learning can be of high interest to climate modeling. I will show some results using History Matching on a toy model, the two-layer Lorenz96, and share some findings about the challenges and opportunities of using this technique.
@@ -106,6 +74,38 @@
     url2: 
     display2: 
   highlight: 1
+  codetype: 2
+  news1:
+  news2: 
+
+- title: "Joint RIKEN-IMT Atlantique Seminar on Application of deep-learning methods to environmental data"
+  image: simon_sandbox.jpg
+  description: The third seminar organized in the framework of the 2021 IMT Atlantique-RIKEN workshop on Statistical Modeling and Machine Learning in Meteorology and Oceanography will address the CNN-based acceleration of Climate Models and variational learning for the reconstruction of sea surface currents from AIS data.
+  date: 2021/03/18
+  authors: Dr. M. Mdini and S. Benaïchouche
+  link: 
+  slideslink:
+    url1: http://www.data-assimilation.riken.jp/en/events/imt_ws_2021/index.html
+    display1: link
+    url2: 
+    display2: 
+  highlight: 0
+  codetype: 2
+  news1:
+  news2: 
+  
+  - title: "Learning disentangled representations in a weakly-supervised manner."
+  image: eduardo_sandbox.jpg
+  description: We investigate the problem of learning disentangled representations. Given a pair of images sharing some attributes, we aim to create a low-dimensional representation which is split into two parts, a shared representation that captures the common information between the images and an exclusive representation that contains the specific information of each image. To address this issue, we propose a model based on mutual information estimation without relying on image reconstruction or image generation. We show that disentangled representations are useful to perform downstream tasks such as image classification and image retrieval based on the shared or exclusive component. Moreover, our model outperforms the state-of-the-art models based on VAE/GAN approaches in representation disentanglement.        
+  date: 2021/03/12
+  authors: E. Sanchez
+  link: 
+  slideslink:
+    url1: https://hal.archives-ouvertes.fr/hal-02397803
+    display1: ECCV paper
+    url2: 
+    display2: 
+  highlight: 0
   codetype: 2
   news1:
   news2: 
