@@ -89,8 +89,8 @@
     display1: link
     url2: 
     display2: 
-  highlight: 0
-  codetype: 2
+  highlight: 1
+  codetype: 1
   news1:
   news2: 
   
@@ -105,8 +105,8 @@
     display1: ECCV paper
     url2: 
     display2: 
-  highlight: 0
-  codetype: 2
+  highlight: 1
+  codetype: 1
   news1:
   news2: 
 
