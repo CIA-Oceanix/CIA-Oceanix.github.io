@@ -1,19 +1,4 @@
 
-- title: "Melody/Oceanix Sandbox on Deep Learning and Data Assimilation"
-  image: ronan4DVarNNSamp2021.jpg
-  description: Discussion on the ongoing work on DL and Data Assimilation within OceaniX-Melody (10.00am-12.30pm) 
-  date: 2021/04/09
-  authors: OceaniX WP3
-  link: 
-  slideslink:
-    url1: https://cia-oceanix.github.io/downloads/program_OceanixMelodyWP3_20210409.pdf
-    display1: Program
-    url2: https://cia-oceanix.github.io/downloads/pres_4DVarNN_Melody202104.pdf
-    display2: Slides
-  highlight: 1
-  codetype: 2
-  news1:
-  news2: 
 
 - title: "Applying Conditional Generative Adversarial Models on Ocean Observations"
   image: default.jpg
@@ -47,7 +32,23 @@
   news1:
   news2:
   
-  - title: "Narrowing uncertainties of climate projections using data science tools?"
+- title: "Melody/Oceanix Sandbox on Deep Learning and Data Assimilation"
+  image: ronan4DVarNNSamp2021.jpg
+  description: Discussion on the ongoing work on DL and Data Assimilation within OceaniX-Melody (10.00am-12.30pm) 
+  date: 2021/04/09
+  authors: OceaniX WP3
+  link: 
+  slideslink:
+    url1: https://cia-oceanix.github.io/downloads/program_OceanixMelodyWP3_20210409.pdf
+    display1: Program
+    url2: https://cia-oceanix.github.io/downloads/pres_4DVarNN_Melody202104.pdf
+    display2: Slides
+  highlight: 1
+  codetype: 1
+  news1:
+  news2: 
+
+- title: "Narrowing uncertainties of climate projections using data science tools?"
   image: pierre.jpg
   description: Next AI4Climate seminar (supported by SAMA and SCAI). Climate indices show large variability in CMIP climate predictions. In this presentation, we propose to weight multi-model climate simulations to reduce the uncertainty in climate predictions, and better estimate the future evolution of climate indices. The proposed methodology is based on advanced data science tools (i.e, data assimilation, analog forecasting, model evidence metrics), to accurately compute distances between current observations and simulated climate indices. This low-cost procedure is tested on a simplified climate model. The results show that the methods can be applied locally and is able to identify relevant parameterizations.
   date: 2021/03/26
