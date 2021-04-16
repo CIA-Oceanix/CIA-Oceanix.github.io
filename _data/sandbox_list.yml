@@ -1,5 +1,4 @@
 
-
 - title: "Learning sparse structures for modal estimation in underwater acoustics"
   image: default.jpg
   description: In underwater acoustics, shallow water environments act as modal dispersive waveguides when considering low-frequency sources. In this context, propagating signals can be described as a sum of few modal components, each of them propagating according to its own wavenumber. Estimating these wavenumbers is of key interest to understand the propagating environment as well as the emitting source. To solve this problem, we proposed recently a Bayesian approach exploiting a sparsity-inforcing prior. When dealing with broadband sources, this model can be further improved by integrating the particular dependence linking the wavenumbers from one frequency to the other. In this contribution, we propose to resort to a restricted Boltzmann machine, exploited as a generic structured sparsity-inforcing model. This model can indeed be efficiently learned on physically realistic simulated data using well-known algorithms. Then, its integration in a variational Bayesian algorithm allows to solve the modal estimation in an elegant way.
@@ -37,7 +36,7 @@
   description: Discussion on the ongoing work on DL and Data Assimilation within OceaniX-Melody (10.00am-12.30pm) 
   date: 2021/04/09
   authors: OceaniX WP3
-  link: 
+  link: https://youtu.be/
   slideslink: video
     url1: https://cia-oceanix.github.io/downloads/program_OceanixMelodyWP3_20210409.pdf
     display1: Program
