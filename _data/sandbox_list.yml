@@ -36,10 +36,10 @@
   description: Discussion on the ongoing work on DL and Data Assimilation within OceaniX-Melody (10.00am-12.30pm) 
   date: 2021/04/09
   authors: OceaniX WP3
-  link: https://youtu.be/
-  slideslink: video
-    url1: https://cia-oceanix.github.io/downloads/program_OceanixMelodyWP3_20210409.pdf
-    display1: Program
+  link: 
+  slideslink: 
+    url1: https://youtu.be/
+    display1: video
     url2: https://cia-oceanix.github.io/downloads/pres_4DVarNN_Melody202104.pdf
     display2: Slides
   highlight: 1
