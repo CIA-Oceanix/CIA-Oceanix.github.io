@@ -1,4 +1,18 @@
-- title: "Learning deep representations by mutual information estimation and maximization"
+-title: "Continuous Conditional Generative AdversarialNetworks (cGAN) with Generator Regularization"
+  image: Carlos.jpg
+  description: 
+  date: 2020/28/04
+  authors: Yufeng Zheng
+  link: 
+    url: https://arxiv.org/abs/2103.14884
+    display: arXiv:2103.14884
+  highlight: 1
+  codetype: 2
+  news1: 
+  news2: 
+
+
+-title: "Learning deep representations by mutual information estimation and maximization"
   image: DeepInfoMax.jpg
   description: 
   date: 2020/24/03
