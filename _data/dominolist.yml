@@ -1,4 +1,4 @@
--title: "Prevalence of Neural Collapse during the terminal phase of deep learning training"
+- title: "Prevalence of Neural Collapse during the terminal phase of deep learning training"
   image: claire.jpg
   description: 
   date: 2020/12/05
@@ -11,7 +11,7 @@
   news1: 
   news2: 
 
--title: "Continuous Conditional Generative AdversarialNetworks (cGAN) with Generator Regularization"
+- title: "Continuous Conditional Generative AdversarialNetworks (cGAN) with Generator Regularization"
   image: Carlos.png
   description: 
   date: 2020/28/04
@@ -25,7 +25,7 @@
   news2: 
 
 
--title: "Learning deep representations by mutual information estimation and maximization"
+- title: "Learning deep representations by mutual information estimation and maximization"
   image: DeepInfoMax.jpg
   description: 
   date: 2020/24/03
