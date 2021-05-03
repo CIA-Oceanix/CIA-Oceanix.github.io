@@ -14,15 +14,15 @@
   news1:
   news2:
   
-- title: "TBD"
+- title: "Interannual Climate Prediction of Surface Atmospheric Temperature"
   image: default.jpg
   description: 
   date: 2021/05/21
   authors: F. Sevellec
   link: 
   slideslink:
-    url1: 
-    display1: #Slides
+    url1: http://mespages.univ-brest.fr/~fsevellec/
+    display1: webpage
     url2: 
     display2: 
   highlight: 1
@@ -53,8 +53,8 @@
   authors: J. Gula
   link: 
   slideslink:
-    url1: 
-    display1: #Slides
+    url1: https://www.jgula.fr/
+    display1: webpage
     url2: 
     display2: 
   highlight: 1
