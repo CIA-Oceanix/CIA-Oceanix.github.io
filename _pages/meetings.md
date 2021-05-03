@@ -6,6 +6,8 @@ sitemap: false
 permalink: /meetings
 ---
 
+Link to OceaniX calendar with all scheduled events and meetings: [here][https://calendar.google.com/calendar/embed?src=8kceabbp1iv27a02sb673u18uc%40group.calendar.google.com&ctz=Europe%2FParis]
+
 # Webinars
 
 In the context of AI Chair Oceanix and AI4OAC project, we organize a webinar every third Wednesday of the month, starting in October 2020. When possible, additional links with a video record of the webinar will be provided.
