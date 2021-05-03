@@ -6,6 +6,9 @@ sitemap: false
 permalink: /oceanix_sandbox
 ---
 
+
+Link to OceaniX calendar with all scheduled events and meetings: [here](https://calendar.google.com/calendar/embed?src=8kceabbp1iv27a02sb673u18uc%40group.calendar.google.com&ctz=Europe%2FParis)
+
 # OceaniX Sandbox
 
 You can find here all the informations and presentations of interest from Friday morning OceaniX team meetings.
