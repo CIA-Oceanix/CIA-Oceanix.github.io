@@ -46,11 +46,27 @@
   news1:
   news2:
 
-- title: "From interpolation to short-term forecasting for sea surface sediment dynamics using 4DVarNN"
+- title: "Melody/Oceanix Sandbox on Deep Learning, Stochastic Dynamics and Geophysical Extremes"
   image: default.jpg
   description: 
   date: 2021/06/11
-  authors: J.M. Vien
+  authors: Melody team
+  link: 
+  slideslink:
+    url1: 
+    display1: #Slides
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: "From interpolation to short-term forecasting for sea surface sediment dynamics using 4DVarNN"
+  image: default.jpg
+  description: 
+  date: 2021/06/18
+  authors: J.M. Vient
   link: 
   slideslink:
     url1: 
