@@ -6,7 +6,7 @@ sitemap: false
 permalink: /meetings
 ---
 
-Link to OceaniX calendar with all scheduled events and meetings: [here][https://calendar.google.com/calendar/embed?src=8kceabbp1iv27a02sb673u18uc%40group.calendar.google.com&ctz=Europe%2FParis]
+Link to OceaniX calendar with all scheduled events and meetings: [here](https://calendar.google.com/calendar/embed?src=8kceabbp1iv27a02sb673u18uc%40group.calendar.google.com&ctz=Europe%2FParis)
 
 # Webinars
 
