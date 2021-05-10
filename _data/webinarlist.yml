@@ -169,14 +169,14 @@
   news1:
   news2:
 
-- title: "An introduction to SPDE based random fields"
-  image: Desassis.jpg
-  description: While most of the Geostatistical standard procedures suffer some severe limitations in presence of large data sets and large number of target sites (referred to as the big n problem), The Stochastic Partial Derivative Equations (SPDE) model is an efficient formalism which allows performing Estimation and Simulations.
-  date: XXXX/XX/XX
-  authors: N. Desassis (Mines ParisTech)
+- title: "Causal inference in Earth system sciences"
+  image: runge.jpg
+  description: The heart of the scientific enterprise is a rational effort to understand the causes behind the phenomena we observe. In disciplines dealing with complex dynamical systems, such as the Earth system, replicated real experiments are rarely feasible. However, a rapidly increasing amount of observational and simulated data opens up the use of novel data-driven causal inference methods beyond the commonly adopted correlation techniques. In this talk I will present an overview of causal inference and identify key tasks and major challenges where causal methods have the potential to advance the state-of-the-art in Earth system sciences.
+  date: 2021/10/20 (1:30 PM, Paris Time)
+  authors: Jakob Runge (German Aerospace Center)
   link:
-    url: https://arxiv.org/abs/1806.04999
-    display: arXiv:1806.04999
+    url: https://www.nature.com/articles/s41467-019-10105-3
+    display: nature_communications
   zoomlink:
     url:
     display: Zoom meeting link
@@ -184,6 +184,4 @@
     Passcode:
   highlight: 1
   codetype: 2
-  news1:
-  news2:
 
