@@ -115,14 +115,14 @@
   news1:
   news2:
 
-- title: ""
+- title: "Physics-aware Interpretable Machine learning in the Earth sciences"
   image: campvalls.jpg
-  description:
+  description: Most problems in Earth sciences aim to do inferences about the system, where accurate predictions are just a tiny part of the whole problem. Inferences mean understanding variables relations, deriving models that are physically interpretable, that are simple parsimonious, and mathematically tractable. Machine learning models alone are excellent approximators, but very often do not respect the most elementary laws of physics, like mass or energy conservation, so consistency and confidence are compromised. I will review the main challenges ahead in the field, and introduce several ways to live in the Physics and machine learning interplay.  Interpretable and physics-aware machine learning models are just a step towards understanding the data-generating process, for which causality promises great advances. I'll review some recent methodologies to cope with it too. This is a collective long-term AI agenda towards developing and applying algorithms capable of discovering knowledge in the Earth system.
   date: 2021/05/19 (1:30 PM, Paris Time)
-  authors: Gustau Camp-Valls (València University)
+  authors: Gustau Camps-Valls (València University)
   link:
-    url:
-    display:
+    url: https://arxiv.org/pdf/2010.09031.pdf
+    display: arxiv
   zoomlink:
     url:
     display: Zoom meeting link
