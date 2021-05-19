@@ -80,7 +80,7 @@
 
 - title: "Learning integration schemes for ODEs: stability constraints and data-driven identification"
   image: rkLearn_sandbox.jpg
-  description: 
+  description: we address the design of integration schemes as a machine learning problem. Based on automatic differentiation tools embedded in deep learning frameworks, we introduce trainable explicit Runge-Kutta integration schemes. We may consider different learning criteria, especially stability-based and data-driven ones, as well as a joint identification of ODE-based governing laws and associated integration schemes.  We demonstrate the relevance of the proposed learning-based approach for non-linear equations and include a quantitative analysis w.r.t. classical state-of-the-art integration techniques, especially where the latter may not apply.
   date: 2021/05/07
   authors: S. Ouala
   link: 
