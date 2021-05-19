@@ -1,3 +1,12 @@
+- title: "Oceanix webinar by G. Camps-Valls on Physics-aware Interpretable Machine learning in the Earth sciences."
+  date: 2021/05/19
+  link: https://youtu.be/PLuT0Yznvhg
+  display : video
+
+- title: "Oceanix sandbox by S. Ouala on learning integration schemes for ODE simulation and identificaton."
+  date: 2021/05/07
+  link: https://youtu.be/GJKTJrJMdOI
+  display : video
 
 - title: "Oceanix sandbox by A. Colin on GANs and SAR ocean observation."
   date: 2021/04/16
