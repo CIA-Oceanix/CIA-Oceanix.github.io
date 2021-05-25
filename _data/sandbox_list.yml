@@ -1,19 +1,3 @@
-- title: "Interannual Climate Prediction of Surface Atmospheric Temperature"
-  image: default.jpg
-  description: 
-  date: 2021/05/21
-  authors: F. Sevellec
-  link: 
-  slideslink:
-    url1: http://mespages.univ-brest.fr/~fsevellec/
-    display1: webpage
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2:
-
 - title: "Melody/Oceanix Sandbox on Subdgrid-scale modeling"
   image: default.jpg
   description: This session (10am-12.30pm) will review and discuss ongoing works within Melody/OceaniX on subgrid-scale modeling issues from a learning-based perspective.
@@ -22,7 +6,7 @@
   link: 
   slideslink:
     url1: https://docs.google.com/document/d/1id06ixS1xvDaI9IQhB3w7T9baM5fWdVWsyJJXDZlKvs/edit?usp=sharing
-    display1: Program under discussion
+    display1: Program
     url2: 
     display2: 
   highlight: 1
@@ -75,6 +59,22 @@
     display2: 
   highlight: 1
   codetype: 2
+  news1:
+  news2:
+
+- title: "Interannual Climate Prediction of Surface Atmospheric Temperature"
+  image: default.jpg
+  description: 
+  date: 2021/05/21
+  authors: F. Sevellec
+  link: 
+  slideslink:
+    url1: http://mespages.univ-brest.fr/~fsevellec/
+    display1: webpage
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 1
   news1:
   news2:
 
