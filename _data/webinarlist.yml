@@ -137,15 +137,15 @@
   image: lidsten.jpg
   description: Gaussian Markov random fields (GMRFs) are probabilistic graphical models widely used in spatial statistics and related fields to model dependencies over spatial structures. In this talk I present a formal connection between GMRFs and convolutional neural networks (CNNs). Common GMRFs are shown to be special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. Furthermore, well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the deep GMRF. I demonstrate the flexibility of the proposed model and show that it outperforms the state-of-the-art on a dataset of satellite temperatures, in terms of prediction and predictive uncertainty.
   date: 2021/06/16 (1:30 PM, Paris Time)
-  authors: Fredrik Lidsten (Linköping University)
+  authors: Fredrik Lindsten (Linkoping University)
   link:
     url: https://arxiv.org/abs/2002.07467
     display: arxiv
   zoomlink:
-    url:
+    url: https://imt-atlantique.zoom.us/j/95885292579?pwd=MFRZV2h0cUUrZi9yRG9hQ1prTGpFUT09
     display: Zoom meeting link
-    ID:
-    Passcode:
+    ID: 95885292579
+    Passcode: 006008
   highlight: 1
   codetype: 2
   news1:
