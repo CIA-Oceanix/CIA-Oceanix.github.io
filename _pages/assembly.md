@@ -16,9 +16,9 @@ The program will involve the following sessions:
 - Assembly opening by Prof. R. Fablet (PI of AI Chair OceaniX), 10.00am
 - Review of ongoing research within OceaniX. 10.00am (chair: R. Fablet)
 - Poster and co-working sessions. 10.30am
-- Keynote by Prof. S. Gratton, Prof. INPT, [webpage](http://gratton.perso.enseeiht.fr/), 11.30am
+- Keynote by **Prof. S. Gratton**, Prof. INPT, [webpage](http://gratton.perso.enseeiht.fr/), 11.30am
 - Lunch 12.30pm
 - Poster and co-workng sessions. 1.30pm
-- Keynote by Prof. P. Heimbach, Prof. Univ. of Texas, [webpage](https://www.jsg.utexas.edu/researcher/patrick_heimbach/), 3.00pm
+- Keynote by **Prof. P. Heimbach**, Prof. Univ. of Texas, [webpage](https://www.jsg.utexas.edu/researcher/patrick_heimbach/), 3.00pm
 
 
