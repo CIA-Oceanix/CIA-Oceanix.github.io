@@ -22,4 +22,7 @@ The program will involve the following sessions:
 - **Keynote by Prof. P. Heimbach**, Prof. Univ. of Texas, [webpage](https://www.jsg.utexas.edu/researcher/patrick_heimbach/), 3.00pm
 
 The detailed program with the list of posters and co-working session themes will be announced early September.
-For those participating in-person to the meeting, please register online for the organization of the lunch and of the coffee breaks through the following [link](https://forms.gle/FfoSbN4KAejGfVY66).
+
+**Registration**: The registration is not mandatory but will help for the organization of the lunch and of  coffee breaks for those attending in-person.
+You can use the following registration link [link](https://forms.gle/FfoSbN4KAejGfVY66). 
+Please use this registration form to present a poster as well as to propose a co-working theme session.
