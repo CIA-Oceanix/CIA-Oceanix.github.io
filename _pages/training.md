@@ -7,16 +7,16 @@ permalink: /training
 ---
 
 OceaniX members organize different courses and training sessions on deep learning, data science, ocean remote sensing. We provide below more information on the following courses:
-- Doctoral course on Data Science for Geosience [link](#training-doctoral-course-on-data-science-for-geoscience)
-- Doctoral course on Deep Leearning and Geophysical Dynamics[link](#training-advanced-course-on-deep-learning-and-geophysical-dynamics)
+- Doctoral course on Data Science for Geosience [link](#DSG-course)
+- Doctoral course on Deep Leearning and Geophysical Dynamics[link](#DLGD-course)
 
-## Doctoral course on Data Science for Geoscience
+## [Doctoral course on Data Science for Geoscience](#DSG-course)
 This doctoral course co-organized between Grenoble, Toulouse and Brest is an introductory course to data science for geoscientists. It covers generic theoretical concepts in data science and machine learning as well as various approaches and problems. Besides labsession using python, it also involves a group project to apply these concepts to a specific issue from the formulation of the problem to the interpretation of numerical experiments.
 
 More information can be found from the website of last session held in Januatry 2020 [link](https://dsg2020.wordpress.com/). 
 We plan to organize next session in Brest in January 2022. Do not hesitate to contact us for any additional information.
 
-## Advanced Course on Deep Learning and Geophysical Dynamics
+## [Advanced Course on Deep Learning and Geophysical Dynamics](#DLGD-course)
 Next october we will organize the first edition of an advanced course on Deep Learning and Geophysical Dynamics co-organized by AI chairs OceaniX and AI4Child (Prof. R. Fablet and F. Rousseau). The general objective of the course will be to cover theoretical aspects of deep learning and its application to geophysical dynamics, especially regarding the exploitation of physical priors. Besides these theoretical aspects, the course will also aim to apply state-of-the-art deep leearning approaches to specific case-studies using pytorch.
 
 The course will take place on **tuesdays five consecutive weeks from November 9 to December 7**. All morning sessions will be dedicated to a course covering theoretical aspects combined with some pytorch practice, while all afternoon sessions will be dedicated to an advanced practice through a specific team project.
