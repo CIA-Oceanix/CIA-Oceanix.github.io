@@ -147,13 +147,13 @@
     ID: 95885292579
     Passcode: 006008
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 
-- title: ""
+- title: "Data Assimilation networks beats Ensemble Kalman filters"
   image: gratton.jpg
-  description:
+  description: Data assimilation algorithms aim at forecasting the state of a dynamical system by combining a mathematical representation of the system with observations thereof. Exploring connections between typical data assimilation algorithms with recurrent Elman networks, we propose a fully data driven deep learning architecture that provably reaches the same prediction goals as Data assimilation algorithms. On numerical experiments based on the well-known Lorenz system, and when suitably trained using snapshots of the system trajectory (i.e., batches of state trajectories) and observations, our architecture successfully reconstructs both the system dynamics and the observation operator. It also outperforms a state-of-the-art data assimilation system on a prediction exercise
   date: 2021/09/15 (1:30 PM, Paris Time)
   authors: Serge Gratton (ENSEEIHT)
   link:
