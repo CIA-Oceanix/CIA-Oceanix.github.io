@@ -8,6 +8,16 @@
   highlight: 1
   news2:
 
+- title: "Learning Variational Data Assimilation Models and Solvers"
+  image: fig4dVarNN_Sketch.jpg
+  description:  This paper introduces 4DVarNet, an end-to-end learning approach for variational data assimilation models and solvers.
+  authors: R Fablet, B. Chapron, L. Drumetz, E. Memin, O. Pannekoucke, F. Rousseau
+  link:
+    url: https://arxiv.org/abs/2007.12941
+    display:  arXiv preprint
+  highlight: 1
+  news2:
+
 - title: "Learning Latent Dynamics for Partially-Observed Chaotic Systems"
   image: figChaos_SOuala2020.jpg
   description:  This paper introduces a novel data driven framework for the identification of ODE representations for partially observed systems.
