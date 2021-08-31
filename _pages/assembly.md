@@ -18,10 +18,10 @@ The assembly will combine an **in-person meeting at the PNBI on the "Technopôle
 - Coffee break, 11.15am
 - **Keynote by Prof. S. Gratton**, Prof. INPT, [webpage](http://gratton.perso.enseeiht.fr/), 11.30am (TBC)
 - Lunch 12.30pm and poster session
-- **Tutorial session on pytorch lighning** 1.30pm
+- **Tutorial session on pytorch lighning** 1.30pm [details](#pytorch-lighning)
 - **Keynote by Prof. P. Heimbach**, Prof. Univ. of Texas, [webpage](https://www.jsg.utexas.edu/researcher/patrick_heimbach/), 3.00pm (TBC)
 - Coffee break, 4.00pm
-- **Tutorial session on transformer** 4.15pm
+- **Tutorial session on transformer networks** 4.15pm [details](#transformer networks)
 
 The detailed program with the list of posters and co-working session themes will be announced early September.
 
@@ -32,6 +32,14 @@ Please use this registration form to present a poster as well as to propose a co
 
 ## Detailed Program
 
-**Session on [data-driven simulation and emulation at OceaniX](#data-driven-simulation-and-emulation-at-OceaniX)
+**Session on [data-driven simulation and emulation at OceaniX]** (Chair: TBD)
+- Hugo Frezat. **End-to-end learning of subgrid scale parameterizations**. 
+- Said Ouala. Approximating Koopman operator using trainable linear aungmented dynamics.
+- Duong Nguyen. TrAISformer: a generative transformer for AIS trajectory prediction.
+- Amédée Roy. GANs for the simulation of seabird foraging trajectories.
 
+**Tutorial on [pytorch lighning]** (Chair: Quentin Febvre)
+This tutorial will provide a short tutorial to the use of Pytorch lighning package and associated coding tools. 
+
+**Tutorial on [transformer networks]** (Chair: Duong Nguyen)
 
