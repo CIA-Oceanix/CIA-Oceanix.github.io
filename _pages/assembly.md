@@ -6,7 +6,7 @@ sitemap: false
 permalink: /assembly
 ---
 
-# First OceaniX Annual Assembly on Sept. 15 2021
+# First OceaniX Annual Assembly on Sept. 15 2021, PNBI, Brest
 
 We are glad to announce the **first annual assembly of AI Chair OceaniX to be held on Sept. 15 2021**.
 The assembly will combine an **in-person meeting at the PNBI on the "Technopôle Brest Iroise, Brest"** and **remote participations on zoom** (link to be posted ni due time).
@@ -30,6 +30,7 @@ The detailed program with the list of posters and co-working session themes will
 You can use the following registration link [link](https://forms.gle/FfoSbN4KAejGfVY66). 
 Please use this registration form to present a poster as well as to propose a co-working theme session.
 
+**Where to meet**: The meeting will take place at the PNBI on Brest campus (technopôle Brest-Iroise) (see [here](https://www.google.com/maps/place/P%C3%B4le+Num%C3%A9rique+Brest+Iroise+(PNBI)/@48.3595771,-4.5646672,15z/data=!4m2!3m1!1s0x0:0xe713edbc83a1d6d4?sa=X&ved=2ahUKEwj8mPyoyNvyAhUExIUKHWO4BH8Q_BIwCnoECEEQBQ) for the direction information). 
 
 ## Detailed Program
 
@@ -39,9 +40,8 @@ Please use this registration form to present a poster as well as to propose a co
 - *Short bio*: I received my engineering degree at ENSEEIHT, a french engineering high school in mathematics and computer science. I got my PhD at Cerfacs (European Center in Scientific Computing)  in 1999 in numerical analysis.  Before joining ENSEEIHT as a full university professor in 2008, I held a research position in the French Space Agency and a senior research position at Cerfacs. I am leading now the APO research team at IRIT (Research Institute in Computer Science), where I develop activities in filtering (Data Assimilation), optimization and high performance computing. I am member of the editorial boards of two international journals: SIAM journal on Optimization and OMS (Optimization Methods and  Software). I am also in the editorial board of the MOS/SIAM Series on Optimization. I am owner of the AI chair for "Machine Learning under physical constraints" at Artificial and Natural Intelligence Toulouse Institute ([ANITI](https://aniti.univ-toulouse.fr/en/)). I work in the areas of Optimization and Data Assimilation. In optimization, I am concerned with the  development of  algorithms for non-convex problems encountered in machine learning and in inverse problems. I am also involved in machine learning techniques to handle for evolution problems, bridging the gap between Data Assimilation and Variational Bayes approaches based on deep learning.
 
 ### Keynote by Prof. Patrick Heinbach
-- *Title*: **Data Assiimilaiton networks beats Ensemble Kalman filters.**
-- *Abstract*: Data assimilation algorithms aim at forecasting the state of a dynami- cal system by combining a mathematical representation of the system with observations thereof. Exploring connections between typical data assimilation algorithms with recurrent Elman networks, we propose a fully data driven deep learning architecture that provably reaches the same prediction goals as Data assimilation algorithms. On numerical experiments based on the well-known Lorenz system, and when suitably trained using snapshots of the system trajectory (i.e., batches of state trajectories) and observations, our architecture successfully reconstructs both the system dynamics and the observation operator. It also outperforms a state-of-the-art data assimilation system on a prediction exercise.
-- *Short bio*: I received my engineering degree at ENSEEIHT, a french engineering high school in mathematics and computer science. I got my PhD at Cerfacs (European Center in Scientific Computing)  in 1999 in numerical analysis.  Before joining ENSEEIHT as a full university professor in 2008, I held a research position in the French Space Agency and a senior research position at Cerfacs. I am leading now the APO research team at IRIT (Research Institute in Computer Science), where I develop activities in filtering (Data Assimilation), optimization and high performance computing. I am member of the editorial boards of two international journals: SIAM journal on Optimization and OMS (Optimization Methods and  Software). I am also in the editorial board of the MOS/SIAM Series on Optimization. I am owner of the AI chair for "Machine Learning under physical constraints" at Artificial and Natural Intelligence Toulouse Institute ([ANITI](https://aniti.univ-toulouse.fr/en/)). I work in the areas of Optimization and Data Assimilation. In optimization, I am concerned with the  development of  algorithms for non-convex problems encountered in machine learning and in inverse problems. I am also involved in machine learning techniques to handle for evolution problems, bridging the gap between Data Assimilation and Variational Bayes approaches based on deep learning.
+- *Title*: **TBD.**
+- *Abstract*: TBD
 
 ### Session on data-driven simulation and emulation
 - Session Chairs: TBD
