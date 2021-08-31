@@ -46,9 +46,9 @@ Please use this registration form to present a poster as well as to propose a co
 
 ### Tutorial on pytorch lighning
 - Chair: Quentin Febvre
-This tutorial session will provide a short tutorial to the use of Pytorch lighning package and associated coding tools. 
+- Content: This tutorial session will provide a short tutorial to the use of Pytorch lighning package and associated coding tools. 
 
 ### Tutorial on transformer networks
 - Chair: Duong Nguyen
-This tutorial session introduce transformers networks, present the associated key concepts, illustrate state-of-the-art applications
+- Content: This tutorial session introduce transformers networks, present the associated key concepts, illustrate state-of-the-art applications
 and discuss their use in the context of OceaniX.
