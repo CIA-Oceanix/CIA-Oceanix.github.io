@@ -14,7 +14,7 @@ The assembly will combine an **in-person meeting at the PNBI on the "Technopôle
 ## Program
 - **Welcome coffee and tea** 09.30am
 - **Assembly opening** by Prof. R. Fablet (PI of AI Chair OceaniX), 10.00am
-- **Session on data-driven simulation and emulation at OceaniX** 10.15am [details](#data-driven-simulation-and-emulation-at-OceaniX)
+- **Session on data-driven simulation and emulation at OceaniX** 10.15am [details](#simulation-and-emulation)
 - Coffee break, 11.15am
 - **Keynote by Prof. S. Gratton**, Prof. INPT, [webpage](http://gratton.perso.enseeiht.fr/), 11.30am (TBC)
 - Lunch 12.30pm and poster session
@@ -31,14 +31,15 @@ Please use this registration form to present a poster as well as to propose a co
 
 
 ## Detailed Program
+### simulation and emulation
 
-**Session on [data-driven simulation and emulation at OceaniX]** (Chair: TBD)
+### Session on data-driven simulation and emulation at OceaniX
 - Hugo Frezat. **End-to-end learning of subgrid scale parameterizations**. 
 - Said Ouala. Approximating Koopman operator using trainable linear aungmented dynamics.
 - Duong Nguyen. TrAISformer: a generative transformer for AIS trajectory prediction.
 - Amédée Roy. GANs for the simulation of seabird foraging trajectories.
 
-**Tutorial on [pytorch lighning]** (Chair: Quentin Febvre)
+**Tutorial on pytorch lighning** (Chair: Quentin Febvre)
 This tutorial will provide a short tutorial to the use of Pytorch lighning package and associated coding tools. 
 
 **Tutorial on [transformer networks]** (Chair: Duong Nguyen)
