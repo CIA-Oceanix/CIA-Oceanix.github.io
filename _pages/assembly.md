@@ -38,17 +38,17 @@ Please use this registration form to present a poster as well as to propose a co
 - *Short bio*: I received my engineering degree at ENSEEIHT, a french engineering high school in mathematics and computer science. I got my PhD at Cerfacs (European Center in Scientific Computing)  in 1999 in numerical analysis.  Before joining ENSEEIHT as a full university professor in 2008, I held a research position in the French Space Agency and a senior research position at Cerfacs. I am leading now the APO research team at IRIT (Research Institute in Computer Science), where I develop activities in filtering (Data Assimilation), optimization and high performance computing. I am member of the editorial boards of two international journals: SIAM journal on Optimization and OMS (Optimization Methods and  Software). I am also in the editorial board of the MOS/SIAM Series on Optimization. I am owner of the AI chair for "Machine Learning under physical constraints" at Artificial and Natural Intelligence Toulouse Institute ([ANITI](https://aniti.univ-toulouse.fr/en/)). I work in the areas of Optimization and Data Assimilation. In optimization, I am concerned with the  development of  algorithms for non-convex problems encountered in machine learning and in inverse problems. I am also involved in machine learning techniques to handle for evolution problems, bridging the gap between Data Assimilation and Variational Bayes approaches based on deep learning.
 
 ### Session on data-driven simulation and emulation
-- Chairs: TBD
+- Session Chairs: TBD
 - Hugo Frezat. **End-to-end learning of subgrid scale parameterizations**. 
 - Said Ouala. **Approximating Koopman operator using trainable linear aungmented dynamics**.
 - Duong Nguyen. **TrAISformer: a generative transformer for AIS trajectory prediction**.
 - Amédée Roy. **GANs for the simulation of seabird foraging trajectories**.
 
 ### Tutorial on pytorch lighning
-- Chair: Quentin Febvre
-- Content: This tutorial session will provide a short tutorial to the use of Pytorch lighning package and associated coding tools. 
+- *Tutorial chair*: Quentin Febvre
+- *Content*: This tutorial session will provide a short tutorial to the use of Pytorch lighning package and associated coding tools. 
 
 ### Tutorial on transformer networks
-- Chair: Duong Nguyen
-- Content: This tutorial session introduce transformers networks, present the associated key concepts, illustrate state-of-the-art applications
+- *Tutorial chair*: Duong Nguyen
+- *Content*: This tutorial session introduce transformers networks, present the associated key concepts, illustrate state-of-the-art applications
 and discuss their use in the context of OceaniX.
