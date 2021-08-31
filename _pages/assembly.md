@@ -14,7 +14,7 @@ The assembly will combine an **in-person meeting at the PNBI on the "Technopôle
 ## Program
 - **Welcome coffee and tea** 09.30am
 - **Assembly opening** by Prof. R. Fablet (PI of AI Chair OceaniX), 10.00am
-- **Session on data-driven simulation and emulation** 10.15am
+- **Session on data-driven simulation and emulation at OceaniX** 10.15am
 - Coffee break, 11.15am
 - **Keynote by Prof. S. Gratton**, Prof. INPT, [webpage](http://gratton.perso.enseeiht.fr/), 11.30am (TBC)
 - Lunch 12.30pm and poster session
