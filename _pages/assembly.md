@@ -30,7 +30,8 @@ The detailed program with the list of posters and co-working session themes will
 You can use the following registration link [link](https://forms.gle/FfoSbN4KAejGfVY66). 
 Please use this registration form to present a poster as well as to propose a co-working theme session.
 
-**Where to meet**: The meeting will take place at the PNBI on Brest campus (technopôle Brest-Iroise) (see [here](https://www.google.com/maps/place/P%C3%B4le+Num%C3%A9rique+Brest+Iroise+(PNBI)/@48.3595771,-4.5646672,15z/data=!4m2!3m1!1s0x0:0xe713edbc83a1d6d4?sa=X&ved=2ahUKEwj8mPyoyNvyAhUExIUKHWO4BH8Q_BIwCnoECEEQBQ) for the direction information). 
+**Where to meet**: The meeting will take place at the PNBI on Brest campus (technopôle Brest-Iroise) (see [here](https://www.google.com/maps/place/P%C3%B4le+Num%C3%A9rique+Brest+Iroise+(PNBI)/@48.3595771,-4.5646672,15z/data=!4m2!3m1!1s0x0:0xe713edbc83a1d6d4?sa=X&ved=2ahUKEwj8mPyoyNvyAhUExIUKHWO4BH8Q_BIwCnoECEEQBQ) for the direction information), in the conference room (third floor). 
+It will also be possible to joint us online through a zoom link which will be posted on this page just before the meeting.
 
 ## Detailed Program
 
