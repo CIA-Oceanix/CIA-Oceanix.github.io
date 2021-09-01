@@ -16,13 +16,13 @@ The assembly will combine an **in-person meeting at the PNBI on the "Technopôle
 - **Assembly opening** by Prof. R. Fablet (PI of AI Chair OceaniX), 10.00am
 - **Session on data-driven simulation and emulation at OceaniX** 10.15am ([details](#session-on-data-driven-simulation-and-emulation))
 - Coffee break, 11.15am
-- **Keynote by Prof. S. Gratton**, Prof. INPT, [webpage](http://gratton.perso.enseeiht.fr/), 11.30am (TBC)([details](#keynote-by-prof-serge-gratton))
+- **Keynote by Prof. S. Gratton**, Prof. INPT, [webpage](http://gratton.perso.enseeiht.fr/), 11.30am ([details](#keynote-by-prof-serge-gratton))
 - Lunch 12.30pm
 - **Poster session**, 1.30pm 
 - **Tutorial session on pytorch lighning** 2.30pm [details](#tutorial-on-pytorch-lighning)
 - Coffee break, 3.45pm
 - **Tutorial session on transformer networks** 4.00pm [details](#tutorial-on-transformer-networks)
-- **Keynote by Prof. P. Heimbach**, Prof. Univ. of Texas, [webpage](https://www.jsg.utexas.edu/researcher/patrick_heimbach/), 5.00pm (TBC)([details](#keynote-by-prof-patrick-heinbach))
+- **Keynote by Prof. P. Heimbach**, Prof. Univ. of Texas, [webpage](https://www.jsg.utexas.edu/researcher/patrick_heimbach/), 5.00pm ([details](#keynote-by-prof-patrick-heinbach))
 
 The detailed program with the list of posters and co-working session themes will be announced early September.
 
