@@ -46,6 +46,7 @@ It will also be possible to joint us online through a zoom link which will be po
 - *Short bio*: Prof. Patrick Heinbach is a Professor at the University of Texas at Austin in the Department of Geological Sciences (DGS) and joint appointments in the Jackson School of Geosciences (JSG) and the Institute for Geophysics (UTIG). I am a member of the core faculty in the Oden Institute for Computational Engineering and Sciences and hold the W. A. Tex Moncrief, Jr., endowed chair III in Simulation-Based Engineering and Sciences. At the Oden Institute, I direct the Computational Research in Ice and Ocean Systems (CRIOS) group.
 
 ### Session on data-driven simulation and emulation
+This session will 
 - Session Chairs: TBD
 - Hugo Frezat. **End-to-end learning of subgrid scale parameterizations**. (TBC)
 - Said Ouala. **Approximating Koopman operator using trainable linear aungmented dynamics**.
