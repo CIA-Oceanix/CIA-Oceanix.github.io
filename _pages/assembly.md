@@ -60,6 +60,6 @@ It will also be possible to joint us online through a zoom link which will be po
 - *Tutorial chair*: Duong Nguyen
 - *Content*: Recently, transformer networks have replaced Recurrent Neural Networks (RNNs) to become the state-of-the-art approach for time series modelling (Vaswani et al., 2017; Radford et al., 2018). Unlike RNNs, which have to process data sequentially and may have difficulty remembering information in several time steps in the past, transformer architectures are highly parallel and can capture long-term dependencies in data. This tutorial gives a quick introduction to Transformer, including the key concepts, current applications, and a discussion on the extent of Transformer to the context of OceaniX.
 - *References*:
-  - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). [link](https://arxiv.org/abs/1706.03762 [link](https://paperswithcode.com/paper/improving-language-understanding-by)
-  - Radford, A., Narasimhan, K., Salimans, T. and Sutskever, I., 2018. Improving language understanding by generative pre-training.
+  - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, Ł. and Polosukhin, I., 2017. Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). [link](https://arxiv.org/abs/1706.03762) 
+  - Radford, A., Narasimhan, K., Salimans, T. and Sutskever, I., 2018. Improving language understanding by generative pre-training. [link](https://paperswithcode.com/paper/improving-language-understanding-by)
   - Blog post: https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
