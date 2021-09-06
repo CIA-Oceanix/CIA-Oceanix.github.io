@@ -27,6 +27,7 @@ The provisional program for the different morning session is the following:
 - Course #3: **Generative models** (TBD)
 - Course #4: **Deep Learning and Dynamical Systems** (Dr. S. Ouala)
 - Course #5: **Deep Learning and Inverse Problems** (Prof. R. Fablet)
+
 The introductory project session on November 9 will also include a short introduction to pytorch and Pytorch Lightning which will be the reference deep learning framework of the course.
 
 Examples of projects of interest for geophysical dynamics (more to come):
