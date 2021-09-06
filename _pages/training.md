@@ -7,7 +7,7 @@ permalink: /training
 ---
 
 OceaniX members organize different courses and training sessions on deep learning, data science, ocean remote sensing. We provide below more information on the following courses:
-- Doctoral course on Data Science for Geosience [link](https://cia-oceanix.github.io/training#doctoral-course-on-data-dcience-for-deoscience)
+- Doctoral course on Data Science for Geosience [link](https://cia-oceanix.github.io/training#doctoral-course-on-data-dcience-for-geoscience)
 - Doctoral course on Deep Leearning and Geophysical Dynamics [link](https://cia-oceanix.github.io/training#Advanced-Course-on-Deep-Learning-and-Geophysical-Dynamics)
 
 ## Doctoral course on Data Science for Geoscience
