@@ -19,9 +19,9 @@ We plan to organize next session in Brest in January 2022. Do not hesitate to co
 ## Advanced Course on Deep Learning and Geophysical Dynamics
 Next october we will organize the first edition of an advanced course on Deep Learning and Geophysical Dynamics co-organized by AI chairs OceaniX and AI4Child (Prof. R. Fablet and F. Rousseau). The general objective of the course will be to cover theoretical aspects of deep learning and its application to geophysical dynamics, especially regarding the exploitation of physical priors. Besides these theoretical aspects, the course will also aim to apply state-of-the-art deep leearning approaches to specific case-studies using pytorch.
 
-The course will take place on **tuesdays five consecutive weeks from November 9 to December 7**. All morning sessions will be dedicated to a course covering theoretical aspects combined with some pytorch practice, while all afternoon sessions will be dedicated to an advanced practice through a specific team project.
+The course will take place on **tuesdays five consecutive weeks from November 9 to December 7**. All morning sessions (typically, 9.30am-12.30pm, Paris time) will be dedicated to a course covering theoretical aspects combined with some pytorch practice, while all afternoon sessions will be dedicated to an advanced practice through a specific team project.
 
-The provisional program for the different morning session is the. following:
+The provisional program for the different morning session is the following:
 - Course #1: **Introduction to Deep Learning and Automatic Differentiation** (Prof. F. Rousseau)
 - Course #2: **Deep Learning and Optimization** (Prof. L. Drumetz)
 - Course #3: **Generative models** (TBD)
