@@ -1,3 +1,13 @@
+- title: "Learning Runge-Kutta Integration Schemes for ODE Simulation and Identification"
+  image: figTrAISformer.jpg
+  description:  In this paper, we propose a novel framework to learn integration schemes that minimize an integration-related cost function. We demonstrate the relevance of the proposed learning-based approach for non-linear equations and include a quantitative analysis w.r.t. classical state-of-the-art integration techniques, especially where the latter may not apply.
+  authors: S. Ouala, L. Debreu, A. Pascual, B. Chapron, F. Collard, L. Gaultier, R. Fablet
+  link:
+    url: https://arxiv.org/abs/2105.04999
+    display:  arXiv
+  highlight: 1
+  news2:
+
 - title: "TrAISformer. A generative transformer for AIS trajectory prediction"
   image: figTrAISformer.jpg
   description:  This paper presents TrAISformer-a generative transformer for AIS trajectory prediction.
