@@ -18,6 +18,17 @@
   highlight: 1
   news2:
 
+- title: "Deep Learning and Trajectory Representation for the Prediction of Seabird Diving Behaviour"
+  image: figSeabirdDive.jpg
+  description:  We propose a novel deep learning model for seabird trajectory data. It combines the computational efficiency of CNNs to distance-matrix-based representations of trajectory data. Our model considerably increases the ability of deep networks to infer seabird behaviours, as well as their stability to different data inputs. 
+  authors: A. Roy, S. Lanco-Bertrand, R Fablet
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2021.04.19.438554v1
+    display:  bioXiv
+  highlight: 1
+  news2:
+
+
 - title: "End-to-end physics-informed representation learning for satellite ocean remote sensing data: applications to satellite altimetry and sea surface currents"
   image: fig4dVarNN_SLASampling.jpg
   description:  This paper presents different applications of 4DVarNN framework to satellite-derived sea surface dynamics, including learning-based optimal sampling strategies.
