@@ -1,3 +1,13 @@
+- title: "TrAISformer. A generative transformer for AIS trajectory prediction"
+  image: figTrAISformer.jpg
+  description:  This paper presents TrAISformer-a generative transformer for AIS trajectory prediction.
+  authors: D. Nguyen, R Fablet
+  link:
+    url: 
+    display:  arXiv
+  highlight: 1
+  news2:
+
 - title: "End-to-end physics-informed representation learning for satellite ocean remote sensing data: applications to satellite altimetry and sea surface currents"
   image: fig4dVarNN_SLASampling.jpg
   description:  This paper presents different applications of 4DVarNN framework to satellite-derived sea surface dynamics, including learning-based optimal sampling strategies.
