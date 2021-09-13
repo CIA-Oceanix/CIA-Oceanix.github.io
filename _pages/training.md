@@ -22,11 +22,11 @@ Next october we will organize the first edition of an advanced course on Deep Le
 The course will take place on **tuesdays five consecutive weeks from November 9 to December 7**. All morning sessions (typically, 9.30am-12.30pm, Paris time) will be dedicated to a course covering theoretical aspects combined with some pytorch practice, while all afternoon sessions will be dedicated to an advanced practice through a specific team project.
 
 The provisional program for the different morning session is the following:
-- Course #1: **Introduction to Deep Learning and Automatic Differentiation** (Prof. F. Rousseau)
-- Course #2: **Deep Learning and Optimization** (Prof. L. Drumetz)
-- Course #3: **Generative models** (TBD)
-- Course #4: **Deep Learning and Dynamical Systems** (Dr. S. Ouala)
-- Course #5: **Deep Learning and Inverse Problems** (Prof. R. Fablet)
+- Course #1 (Nov. 9): **Introduction to Deep Learning and Automatic Differentiation** (Prof. F. Rousseau)
+- Course #2 (Nov. 16): **Deep Learning and Optimization** (Prof. L. Drumetz)
+- Course #3 (Nov. 23): **Generative models** (Prof. P. Gallinari) **NB: this course will be held from 2.30pm and the morning session will be dedicated to the project**
+- Course #4 (Nov. 30): **Deep Learning and Dynamical Systems** (Dr. S. Ouala)
+- Course #5 (Dec. 7): **Deep Learning and Inverse Problems** (Prof. R. Fablet)
 
 The introductory project session on November 9 will also include a short introduction to pytorch and Pytorch Lightning which will be the reference deep learning framework of the course. Examples of projects of interest for geophysical dynamics (more to come):
 - Space-time interpolation of sea surface dynamics
