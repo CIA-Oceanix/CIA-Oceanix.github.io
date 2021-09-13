@@ -47,8 +47,8 @@ It will also be possible to joint us online through a zoom link which will be po
 
 ### Session on data-driven simulation and emulation
 This session will 
-- Session Chairs: TBD
-- Hugo Frezat. **End-to-end learning of subgrid scale parameterizations**. (TBC)
+- Session Chairs: R. Fablet
+- Hugo Frezat. **End-to-end learning of subgrid scale parameterizations**. 
 - Said Ouala. **Approximating Koopman operator using trainable linear aungmented dynamics**.
 - Duong Nguyen. **TrAISformer: a generative transformer for AIS trajectory prediction**.
 - Amédée Roy. **GANs for the simulation of seabird foraging trajectories**.
