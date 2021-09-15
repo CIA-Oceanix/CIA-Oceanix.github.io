@@ -23,7 +23,7 @@ The course will take place on **tuesdays five consecutive weeks from November 9 
 
 The provisional program for the different morning session is the following:
 - Course #1 (Nov. 9): **Introduction to Deep Learning and Automatic Differentiation** (Prof. F. Rousseau)
-- Course #2 (Nov. 16): **Deep Learning and Optimization** (Prof. L. Drumetz)
+- Course #2 (Nov. 16): **Deep Learning and Optimization** (Prof. L. Drumetz and Prof. Serge Gratton)
 - Course #3 (Nov. 23): **Generative models** (Prof. P. Gallinari) **NB: this course will be held from 2.30pm and the morning session will be dedicated to the project**
 - Course #4 (Nov. 30): **Deep Learning and Dynamical Systems** (Dr. S. Ouala)
 - Course #5 (Dec. 7): **Deep Learning and Inverse Problems** (Prof. R. Fablet)
