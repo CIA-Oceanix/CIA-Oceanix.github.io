@@ -28,6 +28,16 @@
   highlight: 1
   news2:
 
+- title: "Unsupervised Reconstruction of Sea Surface Currents from AIS Maritime Traffic Data Using Trainable Variational Models"
+  image: figAISCurrent.jpg
+  description:  The estimation of ocean dynamics is a key challenge for applications ranging from climate modeling to ship routing. State-of-the-art methods relying on satellite-derived altimetry data can hardly resolve spatial scales below ∼100 km. In this work we investigate the relevance of AIS data streams as a new mean for the estimation of the surface current velocities. Using a physics-informed observation model, we propose to solve the associated the ill-posed inverse problem using a trainable variational formulation.  Numerical experiments on a real AIS dataset off South Africa support the relevance of the proposed learning-based AIS-driven approach to significantly improve the reconstruction of sea surface currents compared with state-of-the-art methods, including altimetry-based ones.
+  authors: S. Benaïchouche, C. Legoff, Y. Guichoux, F. Rousseau, R. Fablet
+  link:
+    url: https://www.mdpi.com/2072-4292/13/16/3162
+    display:  link
+  highlight: 1
+  news2:
+
 - title: "Deep Learning and Trajectory Representation for the Prediction of Seabird Diving Behaviour"
   image: figSeabirdDive.jpg
   description:  We propose a novel deep learning model for seabird trajectory data. It combines the computational efficiency of CNNs to distance-matrix-based representations of trajectory data. Our model considerably increases the ability of deep networks to infer seabird behaviours, as well as their stability to different data inputs. 
