@@ -38,6 +38,6 @@ The introductory project session on November 9 will also include a short introdu
 
 **Organization**: The course will be organized in person in Brest at the "Pôle Numérique Brest Iroise". It will also be possible to attend to the courses remotely. We expect to accomodate up to 50 participants for the course. 
 
-**Registration and visiting scholarships**: there is no regstration fee but the registration is mandatory. We can offer visiting scholarships to young scientists (e.g., MSc. and PhD students, postdoctoral scientists) who would like to register for the course and would be interested by a short stay in our group covering the period of the course. Please fill in the following to apply for the course and a scholarship if interested [link](https://forms.gle/nt3469TKLdw7Fog99). Given the limit in the number of participants, we may not accept all applications. 
+<!--**Registration and visiting scholarships**: there is no regstration fee but the registration is mandatory. We can offer visiting scholarships to young scientists (e.g., MSc. and PhD students, postdoctoral scientists) who would like to register for the course and would be interested by a short stay in our group covering the period of the course. Please fill in the following to apply for the course and a scholarship if interested [link](https://forms.gle/nt3469TKLdw7Fog99). Given the limit in the number of participants, we may not accept all applications. -->
 
-**Registration deadline**: September 27, 2021
+**Registration deadline**: Deadline passed (contact ronan.fablet AT imt-atlantique.fr for additional information)
