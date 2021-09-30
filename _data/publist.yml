@@ -1,6 +1,6 @@
 - title: "Learning Variational Data Assimilation Models and Solvers"
   image: fig4dVarNN_Sketch.jpg
-  description:  This paper introduces 4DVarNet, an end-to-end learning approach for variational data assimilation models and solvers.
+  description:  This paper introduces 4DVarNet, an end-to-end learning approach for variational data assimilation models and solvers. Reported results may question the design of operational data assimilation systems.
   authors: R Fablet, B. Chapron, L. Drumetz, E. Memin, O. Pannekoucke, F. Rousseau
   link:
     url: https://arxiv.org/abs/2007.12941
@@ -20,7 +20,7 @@
 
 - title: "Learning Runge-Kutta Integration Schemes for ODE Simulation and Identification"
   image: figADRK.jpg
-  description:  In this paper, we propose a novel framework to learn integration schemes that minimize an integration-related cost function. We demonstrate the relevance of the proposed learning-based approach for non-linear equations and include a quantitative analysis w.r.t. classical state-of-the-art integration techniques, especially where the latter may not apply.
+  description:  In this paper, we propose a novel framework to learn integration schemes that minimize an integration-related cost function. Especially, we demonstrate the relevance of the proposed learning-based approach for non-linear equations -of-the-art integration techniques.
   authors: S. Ouala, L. Debreu, A. Pascual, B. Chapron, F. Collard, L. Gaultier, R. Fablet
   link:
     url: https://arxiv.org/abs/2105.04999
@@ -40,7 +40,7 @@
 
 - title: "Joint Interpolation and Representation Learning for Irregularly Sampled Satellite-Derived Geophysical Fields"
   image: figFAMSrfablet2021.jpg
-  description:  This paper introduces an end-to-end architecture for the joint interpolation and representation learning for irregularly-sampled observation data. As application case-studies, we consider ocean remote sensing datasets.
+  description:  This paper introduces an end-to-end architecture for the joint interpolation and representation learning for irregularly-sampled observation data. As application case-studies, we consider ocean remote sensing datasets, which involve very large missing data rates.
   authors: R Fablet, L. Drumetz, M. Beauchamp, F. Rousseau
   link:
     url: https://doi.org/10.3389/fams.2021.655224
