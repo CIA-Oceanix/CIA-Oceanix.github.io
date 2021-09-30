@@ -1,3 +1,13 @@
+- title: "Learning Variational Data Assimilation Models and Solvers"
+  image: fig4dVarNN_Sketch.jpg
+  description:  This paper introduces 4DVarNet, an end-to-end learning approach for variational data assimilation models and solvers.
+  authors: R Fablet, B. Chapron, L. Drumetz, E. Memin, O. Pannekoucke, F. Rousseau
+  link:
+    url: https://arxiv.org/abs/2007.12941
+    display:  JAMES (arXiv version)
+  highlight: 1
+  news2:
+
 - title: "Generative Adversarial Networks (GAN) for the simulation of central-place foraging trajectories"
   image: figSeabirdGAN.jpg
   description: In this work, we investigate  Generative Adversarial Networks (GAN) - for the simulation of animal trajectories. We demonstrate the outstanding ability of GANs to simulate 'realistic' seabirds foraging trajectories. GANs offer a relevant alternative to existing approaches to modeling animal movement since it is calibrated to reproduce multiple scales at the same time, thus freeing ecologists from the assumption of first-order markovianity. GAN also provide an ultra-flexible and robust framework that could further take environmental conditions, social interactions or even bio-energetics models into account and tackle a wide range of key challenges in movement ecology.  
@@ -56,16 +66,6 @@
   link:
     url: https://www.researchgate.net/publication/350592046_END-TO-END_PHYSICS-INFORMED_REPRESENTATION_LEARNING_FOR_SATELLITE_OCEAN_REMOTE_SENSING_DATA_APPLICATIONS_TO_SATELLITE_ALTIMETRY_AND_SEA_SURFACE_CURRENTS?_sg=kbSTkoLI1MYBFu7fmZWQzIaelSYMxFXfHnqqbRSJF1sUW9eIV7-1Rd_5xZmCppJGrNWuwzP8M0yO1mifXNF2RWgHw4j9Ii45eDI6uDOt.3y0ZjPo7_3rR7SjVJ_lkpGAoW9-zlpui9yel_3lzGOdXsUUVBa1OD7i38xchuKrtOFIGDyGtjd96Z9TL8SHlLA
     display:  Proc. ISPRS Congress 2021
-  highlight: 1
-  news2:
-
-- title: "Learning Variational Data Assimilation Models and Solvers"
-  image: fig4dVarNN_Sketch.jpg
-  description:  This paper introduces 4DVarNet, an end-to-end learning approach for variational data assimilation models and solvers.
-  authors: R Fablet, B. Chapron, L. Drumetz, E. Memin, O. Pannekoucke, F. Rousseau
-  link:
-    url: https://arxiv.org/abs/2007.12941
-    display:  arXiv preprint
   highlight: 1
   news2:
 
