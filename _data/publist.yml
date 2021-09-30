@@ -50,7 +50,7 @@
 
 - title: "Unsupervised Reconstruction of Sea Surface Currents from AIS Maritime Traffic Data Using Trainable Variational Models"
   image: figAISCurrent.jpg
-  description: In this work we investigate the relevance of AIS data streams for the estimation of the surface current velocities. Using a physics-informed observation model, we propose to a trainable variational formulation. Numerical experiments on a real AIS dataset off South Africa support the relevance of the proposed approach to improve the reconstruction of sea surface currents compared, including w.r.t. altimetry-based ones.
+  description: In this work we investigate the relevance of AIS data streams for the estimation of the surface current velocities. Using a physics-informed observation model, we propose to a trainable variational formulation. Numerical experiments on a real AIS dataset off South Africa support the relevance of the proposed approach to improve the reconstruction of sea surface current, including w.r.t. altimetry-based ones.
   authors: S. Benaïchouche, C. Legoff, Y. Guichoux, F. Rousseau, R. Fablet
   link:
     url: https://www.mdpi.com/2072-4292/13/16/3162
