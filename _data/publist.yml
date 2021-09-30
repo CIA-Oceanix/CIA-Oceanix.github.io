@@ -38,6 +38,16 @@
   highlight: 1
   news2:
 
+- title: "Joint Interpolation and Representation Learning for Irregularly Sampled Satellite-Derived Geophysical Fields"
+  image: figFAMSrfablet2021.jpg
+  description:  This paper introduces an end-to-end architecture for the joint interpolation and representation learning for irregularly-sampled observation data. As application case-studies, we consider ocean remote sensing datasets.
+  authors: R Fablet, L. Drumetz, M. Beauchamp, F. Rousseau
+  link:
+    url: https://doi.org/10.3389/fams.2021.655224
+    display:  Front. in Applied Math and Statistics 
+    highlight: 1
+  news2:
+
 - title: "Unsupervised Reconstruction of Sea Surface Currents from AIS Maritime Traffic Data Using Trainable Variational Models"
   image: figAISCurrent.jpg
   description:  The estimation of ocean dynamics is a key challenge for applications ranging from climate modeling to ship routing. State-of-the-art methods relying on satellite-derived altimetry data can hardly resolve spatial scales below ∼100 km. In this work we investigate the relevance of AIS data streams as a new mean for the estimation of the surface current velocities. Using a physics-informed observation model, we propose to solve the associated the ill-posed inverse problem using a trainable variational formulation.  Numerical experiments on a real AIS dataset off South Africa support the relevance of the proposed learning-based AIS-driven approach to significantly improve the reconstruction of sea surface currents compared with state-of-the-art methods, including altimetry-based ones.
