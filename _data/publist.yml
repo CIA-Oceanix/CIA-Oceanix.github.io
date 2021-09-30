@@ -20,7 +20,7 @@
 
 - title: "Learning Runge-Kutta Integration Schemes for ODE Simulation and Identification"
   image: figADRK.jpg
-  description:  In this paper, we propose a novel framework to learn integration schemes that minimize an integration-related cost function. Especially, we demonstrate the relevance of the proposed learning-based approach for non-linear equations -of-the-art integration techniques.
+  description:  In this paper, we propose a novel framework to learn integration schemes that minimize an integration-related cost function. Especially, we demonstrate the relevance of the proposed learning-based approach for non-linear equations.
   authors: S. Ouala, L. Debreu, A. Pascual, B. Chapron, F. Collard, L. Gaultier, R. Fablet
   link:
     url: https://arxiv.org/abs/2105.04999
