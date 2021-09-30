@@ -60,7 +60,7 @@
 
 - title: "Deep Learning and Trajectory Representation for the Prediction of Seabird Diving Behaviour"
   image: figSeabirdDive.jpg
-  description:  We propose a novel deep learning model for seabird trajectory data. It combines the computational efficiency of CNNs to distance-matrix-based representations of trajectory data. Our model considerably increases the ability of deep networks to infer seabird behaviours, as well as their stability to different data inputs. 
+  description:  We propose a novel deep learning model for seabird trajectory data. Our CNN model considerably increases the ability of deep networks to infer seabird behaviours, as well as their stability to different data inputs. 
   authors: A. Roy, S. Lanco-Bertrand, R Fablet
   link:
     url: https://www.biorxiv.org/content/10.1101/2021.04.19.438554v1
@@ -91,7 +91,7 @@
 
 - title: "Physical invariance in neural networks for subgrid-scale scalar flux modeling"
   image: figArXiv_HFrezat2020.jpg
-  description: Transformation invariances coming from physical and mathematical identities are shown to improve performance and generalization of NN models in the context of subgrid-scale turbulent modeling.
+  description: Transformation invariances are shown to improve performance and generalization of NN models in the context of subgrid-scale turbulent modeling.
   authors: H Frezat, G Balarac, J Le Sommer, R Fablet, R Lguensat
   link:
     url: https://arxiv.org/abs/2010.04663
