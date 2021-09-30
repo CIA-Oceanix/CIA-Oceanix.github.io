@@ -30,7 +30,7 @@
 
 - title: "TrAISformer. A generative transformer for AIS trajectory prediction"
   image: figTrAISformer.jpg
-  description:  This paper presents TrAISformer-a generative transformer for AIS trajectory prediction.
+  description:  This paper presents TrAISformer-a generative transformer for AIS trajectory prediction. It shows a great capacity to forecast maritime traffic trajectories few hours ahead in complex maritime traffic areas.
   authors: D. Nguyen, R Fablet
   link:
     url: https://arxiv.org/abs/2109.03958
