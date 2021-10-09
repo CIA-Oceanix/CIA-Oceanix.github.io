@@ -16,8 +16,7 @@ You will have the chance to work on grand challenges at the interface between AI
 
 We will open new PhD, postdoc and internship positions.
 You find the current job openings here:
-- PhD scholarship on **Learning Optimal Measurement and Sampling Strategies for Multi-platform Ocean Monitoring Surveillance** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_EnstaBr2021.pdf)
-- PhD scholarship on **Deep Learning Representations for Lagrangian Dynamics at sea surface** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_MOi2021.pdf)
+- Postdoctoral fellowship on **physics-informed deep emulators for ocean simulation and forecasting** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_OceaniX_2021.pdf)
 <!--
  You find the current job openings here:
 ([Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
@@ -25,6 +24,8 @@ You find the current job openings here:
 -->
 
 ### Example of positions which have recently been close
+- PhD scholarship on **Learning Optimal Measurement and Sampling Strategies for Multi-platform Ocean Monitoring Surveillance** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_EnstaBr2021.pdf)
+- PhD scholarship on **Deep Learning Representations for Lagrangian Dynamics at sea surface** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_MOi2021.pdf)
 - PhD scholarship on **Tropical Cyclone classification and prediction using multimodal physics- informed artificial intelligence methods** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_Ifremer2021.pdf)
 - PhD scholarship on **Data-driven MOdeling and sampling to MOnitor PARticle origins in deep sediment traps** [here]({{ site.url }}{{ site.baseurl }}/downloads/phd_OceaniX_BGC2021.pdf)
 - Internship on **Adversarial learning of variational models for inverse problems** [here]({{ site.url }}{{ site.baseurl }}/downloads/internship_GAN_VarNN2021.pdf)
