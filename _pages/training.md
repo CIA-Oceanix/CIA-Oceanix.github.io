@@ -36,6 +36,13 @@ The introductory project session on November 9 will also include a short introdu
 
 **Pre-requisite**: Participants shall have some basic knowledge in applied math. and/or machine learning and some practice in Python programming. Previous knowledge in deep learning and pytorch is not a pre-requisite. We will provide some links prior to the course to online tutorials for Pytorch, so that all participants could gain at a first basic practice before the course. 
 
+**Online resources to prepare the course**
+For those who have no or very little knowledge on deep learning and pytorch, below some resources:
+- Introductory course from Stanford Univ. on deep learning [video](https://www.youtube.com/watch?v=AwQHqWyHRpU&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- Reference book on deep learning [link](https://www.deeplearningbook.org/contents/mlp.html)
+- Introduction to pytorch framework [link](https://pytorch.org/tutorials/beginner/basics/intro.html)
+- 60-minute blitz for pytorch [link](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
 **Organization**: The course will be organized in person in Brest at the "Pôle Numérique Brest Iroise". It will also be possible to attend to the courses remotely. We expect to accomodate up to 50 participants for the course. 
 
 <!--**Registration and visiting scholarships**: there is no regstration fee but the registration is mandatory. We can offer visiting scholarships to young scientists (e.g., MSc. and PhD students, postdoctoral scientists) who would like to register for the course and would be interested by a short stay in our group covering the period of the course. Please fill in the following to apply for the course and a scholarship if interested [link](https://forms.gle/nt3469TKLdw7Fog99). Given the limit in the number of participants, we may not accept all applications. -->
