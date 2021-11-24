@@ -3,8 +3,8 @@
   description:  This paper introduces 4DVarNet, an end-to-end learning approach for variational data assimilation models and solvers. Reported results may question the design of operational data assimilation systems.
   authors: R Fablet, B. Chapron, L. Drumetz, E. Memin, O. Pannekoucke, F. Rousseau
   link:
-    url: https://arxiv.org/abs/2007.12941
-    display:  JAMES (arXiv version)
+    url: https://doi.org/10.1029/2021MS002572
+    display:  JAMES
   highlight: 1
   news2:
 
