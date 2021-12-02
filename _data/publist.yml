@@ -18,6 +18,16 @@
   highlight: 1
   news2:
 
+- title: "A posteriori learning of quasi-geostrophic turbulence parametrization: an experiment on integration steps"
+  image: figAPosterioriClosure.jpg
+  description: Modeling the subgrid-scale dynamics of reduced models is a long standing open problem that finds application in ocean, atmosphere and climate predictions where direct numerical simulation (DNS) is impossible. While neural networks (NNs) have already been applied to a range of three-dimensional flows with success, two dimensional flows are more challenging because of the backscatter of energy from small to large scales. We show that learning a model jointly with the dynamical solver and a meaningful a-posteriori-based loss function lead to stable and realistic simulations when applied to quasi-geostrophic turbulence.   
+  authors: Frezat, H., Sommer, J. L., Fablet, R., Balarac, G., Lguensat, R.
+  link:
+    url: https://arxiv.org/abs/2111.06841
+    display:  arXiv
+  highlight: 1
+  news2:
+
 - title: "Learning Runge-Kutta Integration Schemes for ODE Simulation and Identification"
   image: figADRK.jpg
   description:  In this paper, we propose a novel framework to learn integration schemes that minimize an integration-related cost function. Especially, we demonstrate the relevance of the proposed learning-based approach for non-linear equations.
