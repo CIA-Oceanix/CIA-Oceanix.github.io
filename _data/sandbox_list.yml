@@ -1,3 +1,51 @@
+- title: "Manipulation of GAN images using optimal transport"
+  image: default.jpg
+  description: TBD.
+  date: 2022/01/14
+  authors: Anthony Frion
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: "Predicting Significant Wave Height From SAR Image Spectra using Attention-based Deep Learning architectures and Data Augmentation"
+  image: default.jpg
+  description: TBD.
+  date: 2022/01/28
+  authors: Zhengyang Lang
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: "2D structure functions to characterise convective rolls from Sentinel-1 SAR images over the ocean"
+  image: default.jpg
+  description: TBD.
+  date: 2022/02/25
+  authors: Carlos Grannero Belinchon
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
 - title: "Oceanix-Melody-IA-OAC Sandbox on Deep Learning, Stochastic Dynamics and Geophysical Extremes"
   image: default.jpg
   description: This session (10am-12.30pm) will review and discuss ongoing works within Melody/OceaniX on learning-based approaches for stochastic dynamics and geophysical extremes. Binary classifiers for extremes (P. Naveau), Latent representations for geophysical extremes (N. Lafon), 4DVarNets with trainable norms and stochastic components (R. Fablet/M. Beauchamp).
@@ -10,7 +58,7 @@
     url2: 
     display2: 
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 
@@ -26,7 +74,7 @@
     url2: 
     display2: 
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 
