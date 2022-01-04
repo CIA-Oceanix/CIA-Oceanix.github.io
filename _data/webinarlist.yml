@@ -185,7 +185,7 @@
   highlight: 1
   codetype: 1
   
-  - title: "Integrating Deep Learning and Physics for Modeling Dynamical Systems"
+- title: "Integrating Deep Learning and Physics for Modeling Dynamical Systems"
   image: default.jpg
   description: The talk will present a short introduction to a recent topic concerning the use of Neural Networks and their integration with physics for modeling dynamical systems. The classical modeling tools for modeling dynamics in physics rely on differential equations. They are used for simulating complex phenomena in domains as diverse as climate, graphics, or aeronautics. The increasing availability of data makes it possible to consider hybridizing numerical differential equation solvers encoding prior physics knowledge and machine learning extracting complementary knowledge from the data. This is currently motivating a large amount of exploratory work from different communities. We will introduce some ideas and challenges underlying these new ideas.
   date: 2021/12/11 
@@ -201,3 +201,134 @@
   highlight: 1
   codetype: 1
   
+- title: "Integrating Deep Learning and Physics for Modeling Dynamical Systems"
+  image: gallinari.jpg
+  description: The talk will present a short introduction to a recent topic concerning the use of Neural Networks and their integration with physics for modeling dynamical systems. The classical modeling tools for modeling dynamics in physics rely on differential equations. They are used for simulating complex phenomena in domains as diverse as climate, graphics, or aeronautics. The increasing availability of data makes it possible to consider hybridizing numerical differential equation solvers encoding prior physics knowledge and machine learning extracting complementary knowledge from the data. This is currently motivating a large amount of exploratory work from different communities. We will introduce some ideas and challenges underlying these new ideas.
+  date: 2021/12/11
+  authors: Patrick Gallinari
+  link:
+    url: https://youtu.be/XbwsncWy9q4
+    display: video
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 1
+
+- title: ""
+  image: lermussiaux.jpg
+  description:
+  date: 2022/01/19
+  authors: Pierre Lermussiaux (MIT)
+  link:
+    url: 
+    display: 
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
+- title: ""
+  image: courty.jpg
+  description:
+  date: 2022/02/16
+  authors: Nicolas Courty (Irisa)
+  link:
+    url: 
+    display: 
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
+- title: ""
+  image: dueben.jpg
+  description:
+  date: 2022/03/16
+  authors: Peter Dueben (ECMWF)
+  link:
+    url: 
+    display: 
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
+- title: ""
+  image: thome.jpg
+  description:
+  date: 2022/04/20
+  authors: Nicolas Thome (CNAM)
+  link:
+    url: 
+    display: 
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
+- title: ""
+  image: lessig.png
+  description:
+  date: 2022/05/18
+  authors: Christian Lessig (Otto von Guericke Universitat Magdeburg)
+  link:
+    url: 
+    display: 
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
+- title: ""
+  image: claustre.jpg
+  description:
+  date: 2022/06/15
+  authors: Hervé Claustre (Laboratoire d'Océanographie de Villefranche) 
+  link:
+    url: 
+    display: 
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
+- title: ""
+  image: dobigeon.jpg
+  description:
+  date: 2022/09/21
+  authors: Nicolas Dobigeon (INP-ENSEEIHT)
+  link:
+    url: 
+    display: 
+  zoomlink:
+    url:
+    display:
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
+
+
+
