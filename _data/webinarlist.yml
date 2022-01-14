@@ -201,14 +201,14 @@
   highlight: 1
   codetype: 1
 
-- title: ""
+- title: "Bayesian Learning of High-Dimensional Dynamical Models"
   image: lermussiaux.jpg
-  description:
+  description: We review the results of our MSEAS group on the joint Bayesian and generative learning of state variables, parameters, parameterizations, constitutive relations, and differential equations of high-dimensional dynamical models. Using sparse observations, our rigorous PDE-based Bayesian learning framework combines dynamically orthogonal (DO) evolution equations for reduced dimension probabilistic evolution with the Gaussian mixture model DO filtering and smoothing for nonlinear reduced-dimension Bayesian inference. The Bayesian learning machines can discover new model functions or identify the correct and active parameterizations, while estimating the parameter values and state variable fields at the same time. Deep a learning schemes that leverage our knowledge of dynamical constraints are also developed. Results are showcased for several ocean non-hydrostatic physical, biogeochemical, and ecosystem dynamics. This work is in collaboration with our MSEAS group at MIT.
   date: 2022/01/19
   authors: Pierre Lermussiaux (MIT)
   link:
-    url: 
-    display: 
+    url: https://doi.org/10.1016/j.physd.2021.133003
+    display: https://doi.org/10.1016/j.physd.2021.133003
   zoomlink:
     url:
     display:
