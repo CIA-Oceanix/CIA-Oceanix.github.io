@@ -10,6 +10,8 @@ permalink: /webinar
 
 In the context of AI Chair Oceanix and AI4OAC project, we organize a webinar every third Wednesday of the month, starting in October 2020. When possible, additional links with a video record of the webinar will be provided.
 
+**Zoom link for Pierre Lermussiaux's webinar, Jan. 19th, 1.30pm**: https://imt-atlantique.zoom.us/j/5513937378?pwd=L3pRYlFiODZOeG9paWMvZXE5Z2pZQT09
+
 ## List of coming Webinars
 
 {% assign number_printed = 0 %}
