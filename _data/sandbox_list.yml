@@ -1,6 +1,22 @@
-- title: "Manipulation of GAN images using optimal transport"
+- title: "2D structure functions to characterise convective rolls from Sentinel-1 SAR images over the ocean"
   image: default.jpg
   description: TBD.
+  date: 2022/02/25
+  authors: Carlos Grannero Belinchon
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: "Manipulation of GAN images using optimal transport"
+  image: default.jpg
+  description: 
   date: 2022/01/14
   authors: Anthony Frion
   link: 
@@ -16,25 +32,9 @@
 
 - title: "Predicting Significant Wave Height From SAR Image Spectra using Attention-based Deep Learning architectures and Data Augmentation"
   image: default.jpg
-  description: TBD.
+  description: 
   date: 2022/01/28
   authors: Zhengyang Lang
-  link: 
-  slideslink:
-    url1: 
-    display1: 
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2:
-
-- title: "2D structure functions to characterise convective rolls from Sentinel-1 SAR images over the ocean"
-  image: default.jpg
-  description: TBD.
-  date: 2022/02/25
-  authors: Carlos Grannero Belinchon
   link: 
   slideslink:
     url1: 
