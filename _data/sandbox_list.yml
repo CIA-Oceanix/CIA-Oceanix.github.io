@@ -17,7 +17,7 @@
 - title: "Multiple Timescales and regular perturbation for efficient iterative algorithms in Machine Learning"
   image: default.jpg
   description: 
-  date: 2022/03/11
+  date: 2022/03/25
   authors: Alexandre Reiffers-Masson
   link: 
   slideslink:
@@ -30,7 +30,37 @@
   news1:
   news2:
 
+- title: "Segmentation of SAR observations (especially wind speed and rainfall)"
+  image: default.jpg
+  description: 
+  date: 2022/04/08
+  authors: Aurélien Colin
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
 
+- title: "Joint calibration and mapping of satellite altimetry data"
+  image: default.jpg
+  description: 
+  date: 2022/04/29
+  authors: Quentin Febvre
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
 
 - title: "Manipulation of GAN images using optimal transport"
   image: default.jpg
