@@ -1,38 +1,6 @@
-- title: "Manipulation of GAN images using optimal transport"
-  image: default.jpg
-  description: TBD.
-  date: 2022/01/14
-  authors: Anthony Frion
-  link: 
-  slideslink:
-    url1: 
-    display1: 
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2:
-
-- title: "Predicting Significant Wave Height From SAR Image Spectra using Attention-based Deep Learning architectures and Data Augmentation"
-  image: default.jpg
-  description: TBD.
-  date: 2022/01/28
-  authors: Zhengyang Lang
-  link: 
-  slideslink:
-    url1: 
-    display1: 
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2:
-
-- title: "2D structure functions to characterise convective rolls from Sentinel-1 SAR images over the ocean"
-  image: default.jpg
-  description: TBD.
+- title: "On the interest of high order statistics when characterizing non-linear systems."
+  image: cgranero_sandbox.jpg
+  description: Too often the statistical characterization of non-linear systems is reduced to two-point statistics such as power spectrum or correlation. However,  these statistics introduce a very strong linear (Gaussian) assumption which is not suitable. Thus, the characterization of a non-Gaussian distribution needs to take into account more than its mean and variance. In this talk we first differentiate between high-order, or multi-point statistics which are able to catch nonlinearities, and second-order, or two-point statistics. Second, we illustrate the importance of high-order statistics through the study of two non-linear systems, three dimensional isotropic turbulence, and convective rolls in the marine atmosphere boundary layer.
   date: 2022/02/25
   authors: Carlos Grannero Belinchon
   link: 
@@ -43,6 +11,86 @@
     display2: 
   highlight: 1
   codetype: 2
+  news1:
+  news2:
+
+- title: "Multiple Timescales and regular perturbation for efficient iterative algorithms in Machine Learning"
+  image: default.jpg
+  description: 
+  date: 2022/03/25
+  authors: Alexandre Reiffers-Masson
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: "Segmentation of SAR observations (especially wind speed and rainfall)"
+  image: default.jpg
+  description: 
+  date: 2022/04/08
+  authors: Aurélien Colin
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: "Joint calibration and mapping of satellite altimetry data"
+  image: default.jpg
+  description: 
+  date: 2022/04/29
+  authors: Quentin Febvre
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+
+- title: "Manipulation of GAN images using optimal transport"
+  image: default.jpg
+  description: 
+  date: 2022/01/14
+  authors: Anthony Frion
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+
+- title: "Predicting Significant Wave Height From SAR Image Spectra using Attention-based Deep Learning architectures and Data Augmentation"
+  image: default.jpg
+  description: 
+  date: 2022/01/28
+  authors: Zhengyang Lang
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 1
   news1:
   news2:
 
