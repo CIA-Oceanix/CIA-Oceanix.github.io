@@ -217,9 +217,9 @@
   highlight: 1
   codetype: 1
 
-- title: "Graph analysis based on optimal transport"
+- title: "Optimal Transport for Graph processing"
   image: courty.jpg
-  description:
+  description: In this talk I will discuss how a variant of the classical optimal transport problem, known as the Gromov-Wasserstein distance, can help in designing learning tasks over graphs, and allow to transpose classical signal processing or data analysis tools such as dictionary learning or online change detection, for learning over those types of structured objects. Both theoretical and practical aspects will be discussed.
   date: 2022/02/16
   authors: Nicolas Courty (Irisa)
   link:
