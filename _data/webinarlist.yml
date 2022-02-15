@@ -215,19 +215,19 @@
     ID:
     Passcode:
   highlight: 1
-  codetype: 2
+  codetype: 1
 
-- title: ""
+- title: "Graph analysis based on optimal transport"
   image: courty.jpg
   description:
   date: 2022/02/16
   authors: Nicolas Courty (Irisa)
   link:
-    url: 
-    display: 
+    url: https://arxiv.org/abs/2110.02753
+    display: arxiv
   zoomlink:
-    url:
-    display:
+    url: https://imt-atlantique.zoom.us/j/5513937378?pwd=L3pRYlFiODZOeG9paWMvZXE5Z2pZQT09
+    display: Zoom meeting link
     ID:
     Passcode:
   highlight: 1
