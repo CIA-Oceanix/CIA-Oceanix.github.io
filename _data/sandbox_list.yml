@@ -30,9 +30,9 @@
   news1:
   news2:
   
-- title: "Multiple Timescales and regular perturbation for efficient iterative algorithms in Machine Learning"
-  image: default.jpg
-  description: 
+- title: "Backpropagation and Reinforcement Learning for Distributed Resource Allocation: an introduction to two-timescale stochastic approximations"
+  image: areiffers_sandbox.jpg
+  description: Two-timescale stochastic approximations are widely used in machine learning, especially in Reinforcement Learning, min-max optimization, and bilevel programming. In this talk, I will start by introducing stochastic approximations and the O.D.E method to analyze such schemes. I will also describe the different theoretical results already available in the literature. In the second part of my talk, I will focus on showing recipes to design efficient algorithms using such approaches with a special focus on application related to resource allocation and possibly to machine learning. 
   date: 2022/03/25
   authors: Alexandre Reiffers-Masson
   link: 
