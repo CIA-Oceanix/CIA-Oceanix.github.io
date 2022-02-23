@@ -47,7 +47,7 @@
   news2:
 
 - title: "Segmentation of SAR observations (especially wind speed and rainfall)"
-  image: default.jpg
+  image: acolin_sandbox.jpg
   description: Synthetic Aperture Radar (SAR) is a prolific provider of information on the ocean surface. This kind of imagery system is sensible to the ocean surface rugosity and can therefore detect several oceanic and atmospheric processes such as atmospheric fronts, biological slicks, sea ice or convective cells. In particular, SAR images can be used to obtain information about the rainfall and the wind speed. As both have a similar impact on the surface rugosity, it is difficult to estimate the wind speed under heavy rainfall and alternatively, the rainfall under extreme winds. By building a dataset skewed to specific rain/wind combinations, we show that it is possible to train a CNN to estimate either parameter while reducing the impact of the second.
   date: 2022/04/08
   authors: Aurélien Colin
