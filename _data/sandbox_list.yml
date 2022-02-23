@@ -14,6 +14,22 @@
   news1:
   news2:
 
+- title: "Temperature, salinity and mixed layer depth in the Gulf Stream, reconstructed from remote sensing and in situ observations with neural networks."
+  image: epauthenet_sandbox.jpg
+  description: We introduce OSnet (Ocean Stratification network), a new ocean reconstruction system aimed at providing a physically consistent analysis of the upper ocean stratification. The proposed scheme is a bootstrapped multilayer perceptron trained to predict simultaneously temperature and salinity (T-S) profiles down to 1000m and the Mixed Layer Depth (MLD) from satellite data covering 1993 to 2019. The prediction is generalized on a 1/4 degree daily grid, producing four-dimensional fields of temperature and salinity, with their associated confidence interval issued from the bootstrap. While OSnet delivers an accurate interpolation of the ocean's stratification, it is also a tool to study how the interior of the ocean's behaviour reflects on the surface data. We can compute the relative importance of each input for each T-S prediction and analyse how the network learns which surface feature influences most which property and at which depth. Our results are promising and demonstrate the power of machine learning methods to improve the predictions of ocean interior properties from observations of the ocean surface.
+  date: 2022/03/11
+  authors: Etienne Parthenet
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+  news2:
+  
 - title: "Multiple Timescales and regular perturbation for efficient iterative algorithms in Machine Learning"
   image: default.jpg
   description: 
