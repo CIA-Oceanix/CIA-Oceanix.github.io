@@ -231,11 +231,11 @@
     ID:
     Passcode:
   highlight: 1
-  codetype: 2
+  codetype: 1
 
-- title: ""
+- title: "Machine Learning for Weather and Predictions"
   image: dueben.jpg
-  description:
+  description: This talk provides an overview on the machine learning efforts at the European Centre for Medium-Range Weather Forecasts (ECMWF), and outlines how machine learning, and in particular deep learning, could help to improve weather predictions in the coming years. The talk will name challenges for the use of machine learning and suggest developments (research/software/hardware) that should enable the community of Earth system modelling to make quick progress.
   date: 2022/03/16
   authors: Peter Dueben (ECMWF)
   link:
