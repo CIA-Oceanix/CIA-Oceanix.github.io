@@ -1,35 +1,3 @@
-- title: "On the interest of high order statistics when characterizing non-linear systems."
-  image: cgranero_sandbox.jpg
-  description: Too often the statistical characterization of non-linear systems is reduced to two-point statistics such as power spectrum or correlation. However,  these statistics introduce a very strong linear (Gaussian) assumption which is not suitable. Thus, the characterization of a non-Gaussian distribution needs to take into account more than its mean and variance. In this talk we first differentiate between high-order, or multi-point statistics which are able to catch nonlinearities, and second-order, or two-point statistics. Second, we illustrate the importance of high-order statistics through the study of two non-linear systems, three dimensional isotropic turbulence, and convective rolls in the marine atmosphere boundary layer.
-  date: 2022/02/25
-  authors: Carlos Grannero Belinchon
-  link: 
-  slideslink:
-    url1: 
-    display1: 
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2:
-
-- title: "Temperature, salinity and mixed layer depth in the Gulf Stream, reconstructed from remote sensing and in situ observations with neural networks."
-  image: epauthenet_sandbox.jpg
-  description: We introduce OSnet (Ocean Stratification network), a new ocean reconstruction system aimed at providing a physically consistent analysis of the upper ocean stratification. The proposed scheme is a bootstrapped multilayer perceptron trained to predict simultaneously temperature and salinity (T-S) profiles down to 1000m and the Mixed Layer Depth (MLD) from satellite data covering 1993 to 2019. The prediction is generalized on a 1/4 degree daily grid, producing four-dimensional fields of temperature and salinity, with their associated confidence interval issued from the bootstrap. While OSnet delivers an accurate interpolation of the ocean's stratification, it is also a tool to study how the interior of the ocean's behaviour reflects on the surface data. We can compute the relative importance of each input for each T-S prediction and analyse how the network learns which surface feature influences most which property and at which depth. Our results are promising and demonstrate the power of machine learning methods to improve the predictions of ocean interior properties from observations of the ocean surface.
-  date: 2022/03/11
-  authors: Etienne Parthenet
-  link: 
-  slideslink:
-    url1: 
-    display1: 
-    url2: 
-    display2: 
-  highlight: 1
-  codetype: 2
-  news1:
-  news2:
-  
 - title: "Backpropagation and Reinforcement Learning for Distributed Resource Allocation: an introduction to two-timescale stochastic approximations"
   image: areiffers_sandbox.jpg
   description: Two-timescale stochastic approximations are widely used in machine learning, especially in Reinforcement Learning, min-max optimization, and bilevel programming. In this talk, I will start by introducing stochastic approximations and the O.D.E method to analyze such schemes. I will also describe the different theoretical results already available in the literature. In the second part of my talk, I will focus on showing recipes to design efficient algorithms using such approaches with a special focus on application related to resource allocation and possibly to machine learning. 
@@ -75,6 +43,38 @@
     display2: 
   highlight: 1
   codetype: 2
+  news1:
+  news2:
+
+- title: "On the interest of high order statistics when characterizing non-linear systems."
+  image: cgranero_sandbox.jpg
+  description: Too often the statistical characterization of non-linear systems is reduced to two-point statistics such as power spectrum or correlation. However,  these statistics introduce a very strong linear (Gaussian) assumption which is not suitable. Thus, the characterization of a non-Gaussian distribution needs to take into account more than its mean and variance. In this talk we first differentiate between high-order, or multi-point statistics which are able to catch nonlinearities, and second-order, or two-point statistics. Second, we illustrate the importance of high-order statistics through the study of two non-linear systems, three dimensional isotropic turbulence, and convective rolls in the marine atmosphere boundary layer.
+  date: 2022/02/25
+  authors: Carlos Grannero Belinchon
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 1
+  news1:
+  news2:
+
+- title: "Temperature, salinity and mixed layer depth in the Gulf Stream, reconstructed from remote sensing and in situ observations with neural networks."
+  image: epauthenet_sandbox.jpg
+  description: We introduce OSnet (Ocean Stratification network), a new ocean reconstruction system aimed at providing a physically consistent analysis of the upper ocean stratification. The proposed scheme is a bootstrapped multilayer perceptron trained to predict simultaneously temperature and salinity (T-S) profiles down to 1000m and the Mixed Layer Depth (MLD) from satellite data covering 1993 to 2019. The prediction is generalized on a 1/4 degree daily grid, producing four-dimensional fields of temperature and salinity, with their associated confidence interval issued from the bootstrap. While OSnet delivers an accurate interpolation of the ocean's stratification, it is also a tool to study how the interior of the ocean's behaviour reflects on the surface data. We can compute the relative importance of each input for each T-S prediction and analyse how the network learns which surface feature influences most which property and at which depth. Our results are promising and demonstrate the power of machine learning methods to improve the predictions of ocean interior properties from observations of the ocean surface.
+  date: 2022/03/11
+  authors: Etienne Parthenet
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 1
   news1:
   news2:
 
