@@ -4,8 +4,14 @@
 - date: 16. March 2022
   headline: " <b> OceaniX Webinar by Peter Dueben. </b> on Machine Learning for Weather and Predictions." 
 
+- date: 15. March 2022
+  headline: " <b> Two new papers on DL and Seabird movement ecology </b> (<a href='https://doi.org/10.1101/2021.09.27.461940'> MEE </a> and <a href='https://doi.org/10.1371/journal.pcbi.1009890'> PLOS Comp. Biol. </a>))." 
+
 - date: 11. March 2022
   headline: " <b> OceaniX sandbox by E. Pauthenet. </b> on Temperature, salinity and mixed layer depth in the Gulf Stream, reconstructed from remote sensing and in situ observations with neural networks." 
+
+- date: 1. March 2022
+  headline: " <b> Two new papers on DL for the segmentation of metocean patterns in SAR images.</b> (<a href='https://www.mdpi.com/2072-4292/14/4/851'> RS </a>." 
 
 - date: 25. February 2022
   headline: " <b> OceaniX sandbox by C. Granero Belinchon. </b> on the interest of high order statistics when characterizing non-linear systems." 
