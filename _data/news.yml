@@ -1,12 +1,27 @@
+- date: 25. March 2022
+  headline: " <b> OceaniX sandbox by A. Reiffers-Masson. </b> on two-scale stochastic approximations." 
+
 - date: 16. March 2022
   headline: " <b> OceaniX Webinar by Peter Dueben. </b> on Machine Learning for Weather and Predictions." 
+
+- date: 11. March 2022
+  headline: " <b> OceaniX sandbox by E. Pauthenet. </b> on Temperature, salinity and mixed layer depth in the Gulf Stream, reconstructed from remote sensing and in situ observations with neural networks." 
+
+- date: 25. February 2022
+  headline: " <b> OceaniX sandbox by C. Granero Belinchon. </b> on the interest of high order statistics when characterizing non-linear systems." 
 
 - date: 16. February 2022
   headline: " <b> OceaniX Webinar by Nicolas Courty. </b> on Optimal Transport for Graph processing." 
 
+- date: 28. January 2022
+  headline: " <b> OceaniX sandbox by Z. Lang. </b> on Neural inversion of Significant Wave Height from SAR image spectra."
+
 - date: 19. January 2022
   headline: " <b> OceaniX Webinar by Pierre Lermussiaux. </b> on Bayesian Learning of High-Dimensional Dynamical Models." 
 
+- date: 14. January 2022
+  headline: " <b> OceaniX sandbox by A. Frion. </b> on the Manipulation of GAN images using optimal transport." 
+ 
 - date: 10. December 2021
   headline: " <b> New ANR project funded in ANR AI-Biodiv Challenge. </b> (<a href='https://dataanalyticspost.com/projet-fish-predict/'> link </a>)." 
 
