@@ -13,7 +13,7 @@ Link to OceaniX calendar with all scheduled events and meetings: [here](https://
 
 You can find here all the informations and presentations of interest from Friday morning OceaniX team meetings.
 
-**Zoom conference for session on February 25th, 11am**: [link](https://imt-atlantique.zoom.us/j/8973141539?pwd=U3BZODNZOCtJUmhITkZ1MTVRVVN3QT09)
+**Zoom conference for session on April 29th, 11am**: [link](https://imt-atlantique.zoom.us/j/8973141539?pwd=U3BZODNZOCtJUmhITkZ1MTVRVVN3QT09)
 
 ## Upcoming sessions
 
