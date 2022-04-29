@@ -263,11 +263,11 @@
     ID:
     Passcode:
   highlight: 1
-  codetype: 2
+  codetype: 1
 
 - title: "Representation learning for atmospheric data"
   image: lessig.png
-  description:
+  description: Representation learning, which has the objective to obtain a domain specific but task independent neural network model, has so far received little attention in scientific machine learning and in the Earth system sciences. In the talk, I will explain why spatio-temporal representation learning provides a promising direction for data-driven modeling of dynamical systems, in particular highly complex ones such as the atmosphere or the oceans. I will also discuss why transformers are a natural choice as the underlying neural network model. Results are presented for representation learning of ideal hyperbolic systems and fluid flows. For real atmospheric data, I will present how representation learning can lead to data-driven loss functions that improve the training for applications such as machine learned downscaling.
   date: 2022/05/18
   authors: Christian Lessig (Otto von Guericke Universitat Magdeburg)
   link:
