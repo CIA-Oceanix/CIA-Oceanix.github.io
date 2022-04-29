@@ -1,3 +1,33 @@
+- title: "Learning mulitmodal inversion models with 4DVarNet: insights from SST-SSH synergies"
+  image: 4DVarNetMM_sandbox.jpg
+  description: This talk addresses the inversion of space-time dynamics from multi-source data. We discuss how 4DVarNet schemes provide new means to learn inversion models from multi-modal observation data when the relationship between the different observation data and the state dynamics of interest may not be explicit. Illustrations on SST-SSH synergies will support the methodological discussion.
+  date: 2022/05/13
+  authors: Ronan Fablet
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+
+- title: "In situ wind speed monitoring from underwater acoustics using deep learning"
+  image: mzambra_sandbox.jpg
+  description: This talk addresses wind speed retrieval at sea surface from underwater acoustics data. We investigate trainable variational schemes, namely 4DVarNet schemes, to deal with this inverse problem. We demonstrate relevant reconstruction performance w.r.t. state-of-the-art approaches, including the ability to exploit multi-source data, here ECMWF winds and underwater acoustics data.
+  date: 2022/06/03
+  authors: Matteo Zambra
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+
 - title: "Joint calibration and mapping of satellite altimetry data"
   image: qfebvre_sandbox.jpg
   description: Satellite radar altimeters are a key source of observation of ocean surface dynamics. However, current sensor technology and mapping techniques do not yet allow to systematically resolve scales smaller than 100km. With their new sensors, upcoming wide-swath altimeter missions such as SWOT should help resolve finer scales. Current mapping techniques rely on the quality of the input data, which is why the raw data go through multiple preprocessing stages before being used. Those calibration stages are improved and refined over many years and represent a challenge when a new type of sensor start acquiring data. Here we show how a data-driven variational data assimilation framework could be used to jointly learn a calibration operator and an interpolator from non-calibrated data. 
@@ -10,7 +40,7 @@
     url2: 
     display2: 
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
   news2:
 
