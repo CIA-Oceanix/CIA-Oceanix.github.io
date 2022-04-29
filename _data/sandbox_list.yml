@@ -15,7 +15,7 @@
 
 - title: "In situ wind speed monitoring from underwater acoustics using deep learning"
   image: mzambra_sandbox.jpg
-  description: This talk addresses wind speed retrieval at sea surface from underwater acoustics data. We investigate trainable variational schemes (4DVarNet) schemes to deal with this inverse problem. We demonstrate relevant reconstruction performance w.r.t. state-of-the-art approaches, including the ability to exploit multi-source data, here ECMWF winds and underwater acoustics data.
+  description: This talk addresses wind speed retrieval at sea surface from underwater acoustics data. We investigate trainable variational schemes, namely 4DVarNet schemes, to deal with this inverse problem. We demonstrate relevant reconstruction performance w.r.t. state-of-the-art approaches, including the ability to exploit multi-source data, here ECMWF winds and underwater acoustics data.
   date: 2022/06/03
   authors: Matteo Zambra
   link: 
