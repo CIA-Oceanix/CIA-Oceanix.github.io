@@ -1,7 +1,7 @@
 - title: "Joint calibration and mapping of satellite altimetry data"
   image: qfebvre_sandbox.jpg
   description: Satellite radar altimeters are a key source of observation of ocean surface dynamics. However, current sensor technology and mapping techniques do not yet allow to systematically resolve scales smaller than 100km. With their new sensors, upcoming wide-swath altimeter missions such as SWOT should help resolve finer scales. Current mapping techniques rely on the quality of the input data, which is why the raw data go through multiple preprocessing stages before being used. Those calibration stages are improved and refined over many years and represent a challenge when a new type of sensor start acquiring data. Here we show how a data-driven variational data assimilation framework could be used to jointly learn a calibration operator and an interpolator from non-calibrated data. 
-  date: 2022/04/29
+  date: 2022/04/30
   authors: Quentin Febvre
   link: 
   slideslink:
