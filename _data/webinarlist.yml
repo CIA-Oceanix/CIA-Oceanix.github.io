@@ -251,7 +251,7 @@
 
 - title: "Hybrid Dynamical Systems: Augmenting Physics with Machine Learning"
   image: thome.png
-  description: 
+  description: This talk addresses the problem of combining Machine Learning and Model-Based approaches for complex dynamic forecasting. We especially tackle the situation where a prior physical knowledge formalized through ODE-PDE is available, but is incomplete in the sense that it cannot fully describe the observed dynamics.
   date: 2022/04/20
   authors: Nicolas Thome (CNAM)
   link:
