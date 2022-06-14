@@ -10,7 +10,7 @@ permalink: /webinar
 
 In the context of AI Chair Oceanix and AI4OAC project, we organize a webinar every third Wednesday of the month, starting in October 2020. When possible, additional links with a video record of the webinar will be provided.
 
-**Zoom link for Nicolas Thome's webinar, April 20, 1.30pm**: [link](https://imt-atlantique.zoom.us/j/5513937378?pwd=L3pRYlFiODZOeG9paWMvZXE5Z2pZQT09)
+**Zoom link for Herve Claustre's webinar, June 15, 2pm**: [link](https://imt-atlantique.zoom.us/j/5513937378?pwd=L3pRYlFiODZOeG9paWMvZXE5Z2pZQT09)
 
 ## List of coming Webinars
 
