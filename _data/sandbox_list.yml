@@ -1,3 +1,18 @@
+- title: "Koopman eigenfunctions estimation from reproducing kernel Hilbert space manifold, and ensemble data assimilation"
+  image: 4DVarNetMM_sandbox.jpg
+  description: This study aims at proposing a new framework to perform ensemble-based estimations of dynamical trajectories of a geophysical fluid flow system. To perform efficient estimations, the ensemble members are embedded in a set of evolving reproducing kernel Hilbert spaces (RKHS) defining a manifold of spaces, we nicknamed Wonderland, due to its analytical properties. The method proposed here is designed to deal with very large scale systems such as oceanic or meteorological flows, where it is out of the question to explore the whole attractor, neither to run very long time simulations. Instead, we propose to learn the system locally, in phase space, from an ensemble of trajectories.
+  date: 2022/06/24
+  authors: Gilles Tissot
+  link: 
+  slideslink:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  highlight: 1
+  codetype: 2
+  news1:
+
 - title: "Learning mulitmodal inversion models with 4DVarNet: insights from SST-SSH synergies"
   image: 4DVarNetMM_sandbox.jpg
   description: This talk addresses the inversion of space-time dynamics from multi-source data. We discuss how 4DVarNet schemes provide new means to learn inversion models from multi-modal observation data when the relationship between the different observation data and the state dynamics of interest may not be explicit. Illustrations on SST-SSH synergies will support the methodological discussion.
@@ -10,7 +25,7 @@
     url2: 
     display2: 
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
 
 - title: "In situ wind speed monitoring from underwater acoustics using deep learning"
@@ -25,7 +40,7 @@
     url2: 
     display2: 
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1:
 
 - title: "Joint calibration and mapping of satellite altimetry data"
