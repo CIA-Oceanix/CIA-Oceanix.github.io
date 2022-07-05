@@ -56,16 +56,8 @@
   date: 2020/10/21
   authors: F. Bouchet, ENS de Lyon and CNRS
   link:
-    url: https://doi.org/10.1073/pnas.1712645115
-    display: doi.org/10.1073/pnas.1712645115
-  recordlink:
     url: https://youtu.be/s7AtApwGkcQ
     display: Webinar video
-  slideslink:
-    url1: https://mycore.cnrs.fr/index.php/s/KACnigKeTW67zG2
-    display1: Slides (Part1)
-    url2: https://mycore.cnrs.fr/index.php/s/QJnV0R9nesnCIhy
-    display2: Slides (Part2)
   highlight: 1
   codetype: 1
   news1:
@@ -77,8 +69,8 @@
   date: 2021/03/24 (1:30 PM, Paris Time)
   authors: Ameya Jagtap (Brown University)
   link:
-    url: https://global-sci.org/intro/article_detail/cicp/18403.html
-    display: global-sci.org
+    url:  https://youtu.be/sToHauqIzcA 
+    display: Webinar video
   zoomlink:
     url: https://imt-atlantique.zoom.us/j/94068146325?pwd=aEVCWVRaVWxsWklEVkJZM242dldDZz09
     display: Zoom meeting link
@@ -95,8 +87,8 @@
   date: 2021/04/21 (1:30 PM, Paris Time)
   authors: Themistoklis Sapsis (MIT)
   link:
-    url: https://www.annualreviews.org/doi/10.1146/annurev-fluid-030420-032810
-    display: Annual Review of Fluid Mechanics
+    url: https://youtu.be/sPmJ2oq5NIA 
+    display: Webinar video
   zoomlink:
     url: https://imt-atlantique.zoom.us/j/96513044915?pwd=M1VKVVpvUVZrZ2IzSWY0eW1NWVpidz09
     display: Zoom meeting link
@@ -113,8 +105,8 @@
   date: 2021/05/19 (1:30 PM, Paris Time)
   authors: Gustau Camps-Valls (València University)
   link:
-    url: https://arxiv.org/pdf/2010.09031.pdf
-    display: arxiv
+    url:  https://youtu.be/PLuT0Yznvhg 
+    display: Webinar video
   zoomlink:
     url: https://imt-atlantique.zoom.us/j/8973141539?pwd=U3BZODNZOCtJUmhITkZ1MTVRVVN3QT09
     display: Zoom meeting link
