@@ -176,7 +176,7 @@
   authors: Patrick Gallinari
   link:
     url: https://youtu.be/XbwsncWy9q4
-    display: video
+    display: Webinar video
   zoomlink:
     url:
     display:
@@ -279,7 +279,7 @@
     ID:
     Passcode:
   highlight: 1
-  codetype: 2
+  codetype: 1
 
 - title: ""
   image: dobigeon.jpg
