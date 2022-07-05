@@ -25,16 +25,8 @@
   date: 2020/12/16 (1:30 PM, Paris Time)
   authors: J. Brajard (Nansen Environmental and Remote Sensing Center)
   link:
-    url: https://arxiv.org/abs/2009.04318
-    display: arxiv.org/abs/2009.04318
-  recordlink:
-    url: https://s3.eu-central-1.wasabisys.com/webinars-oceanix/Webinar-Brajard_2020-12-16/Webinar_Brajard_20201216.mkv
+    url: https://youtu.be/sTuebOWKLn8 
     display: Webinar video
-  slideslink:
-    url1: https://s3.eu-central-1.wasabisys.com/webinars-oceanix/Webinar-Brajard_2020-12-16/Webinar_Brajard_20201216.pdf
-    display1: Slides
-    url2:
-    display2:
   highlight: 1
   codetype: 1
   news1:
@@ -175,8 +167,8 @@
   date: 2021/10/20 (1:30 PM, Paris Time)
   authors: Jakob Runge (German Aerospace Center)
   link:
-    url: https://www.nature.com/articles/s41467-019-10105-3
-    display: nature_communications
+    url: https://youtu.be/41VyonsDVx4 
+    display: Webinar video
   zoomlink:
     url: https://imt-atlantique.zoom.us/j/95964165171?pwd=UzFMUFdVSVdyclk5R3RycDltLzA4QT09
     display: Zoom meeting link
@@ -223,8 +215,8 @@
   date: 2022/02/16
   authors: Nicolas Courty (Irisa)
   link:
-    url: https://arxiv.org/abs/2110.02753
-    display: arxiv
+    url: https://youtu.be/V2HLiNJp2-Y
+    display: Webinar video
   zoomlink:
     url: https://imt-atlantique.zoom.us/j/5513937378?pwd=L3pRYlFiODZOeG9paWMvZXE5Z2pZQT09
     display: Zoom meeting link
@@ -271,8 +263,8 @@
   date: 2022/05/18
   authors: Christian Lessig (Otto von Guericke Universitat Magdeburg)
   link:
-    url: 
-    display: 
+    url: https://youtu.be/6YgfT7hPnRo 
+    display: Webinar video 
   zoomlink:
     url:
     display:
@@ -287,8 +279,8 @@
   date: 2022/06/15
   authors: Hervé Claustre (Laboratoire d'Océanographie de Villefranche) 
   link:
-    url: 
-    display: 
+    url: https://youtu.be/Ht30hlD_KzU 
+    display: Webinar video
   zoomlink:
     url: https://imt-atlantique.zoom.us/j/5513937378?pwd=L3pRYlFiODZOeG9paWMvZXE5Z2pZQT09
     display: Zoom meeting link
