@@ -8,6 +8,16 @@
   highlight: 1
   news2:
 
+- title: "End-to-End Neural Interpolation of Satellite-Derived Sea Surface Suspended Sediment Concentrations"
+  image: fig_jmvient2022.jpg
+  description: This paper addresses end-to-end neural interpolation of satellite-derived sea surface suspended sediment concentrations in coastal areas. It supports the applicability of 4DVarNet schemes to real satellite-derived datasets to outperform current interpolation schemes.
+  authors: J.M. Vient, R. Fablet, F. Jourdin, C. Delacourt
+  link:
+    url: https://doi.org/10.3390/rs14164024
+    display:  Remote Sensing, 2022.
+  highlight: 1
+  news2:
+
 - title: "Learning-based estimation of in-situ wind speed from underwater acoustics"
   image: fig_arXiv_mzambra.jpg
   description: Wind speed retrieval at sea surface is of primary importance for scientific and operational applications. Here, we introduce a deep learning approach for the retrieval of wind speed time series from underwater acoustics possibly complemented by other data sources such as weather model reanalyses. Our approach bridges data assimilation and learning-based frameworks to benefit both from prior physical knowledge and computational efficiency. Numerical experiments on real data demonstrate that we outperform the state-of-the-art data-driven methods.
