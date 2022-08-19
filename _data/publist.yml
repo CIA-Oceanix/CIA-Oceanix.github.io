@@ -1,19 +1,19 @@
 - title: "Multimodal 4DVarNets for the reconstruction of sea surface dynamics from SST-SSH synergies"
   image: fig_SST-SSH4DVarNet.jpg
-  description: Wind speed retrieval at sea surface is of primary importance for scientific and operational applications. Besides weather models, in-situ measurements and remote sensing technologies, especially satellite sensors, provide complementary means to monitor wind speed. As sea surface winds produce sounds that propagate underwater, underwater acoustics recordings can also deliver fine-grained wind-related information. Whereas model-driven schemes, especially data assimilation approaches, are the state-of-the-art schemes to address inverse problems in geoscience, machine learning techniques become more and more appealing to fully exploit the potential of observation datasets. Here, we introduce a deep learning approach for the retrieval of wind speed time series from underwater acoustics possibly complemented by other data sources such as weather model reanalyses. Our approach bridges data assimilation and learning-based frameworks to benefit both from prior physical knowledge and computational efficiency. Numerical experiments on real data demonstrate that we outperform the state-of-the-art data-driven methods.
-  authors: M. Zambra, D. Cazau, N. Farrugia, Alexandre Gensse, S. Pensieri, R. Bozzano, R. Fablet
+  description: Due to the irregular space-time sampling of sea surface observations, the reconstruction of sea surface dynamics is a challenging inverse problem. While satellite altimetry provides a direct observation of the sea surface height (SSH), which relates to the divergence-free component of sea surface currents, the associated sampling pattern prevents from retrieving fine-scale sea surface dynamics, typically below a 10-day time scale. By contrast, other satellite sensors provide higher-resolution observations of sea surface tracers such as sea surface temperature (SST). Multimodal inversion schemes then arise as an appealing strategy. We introduce multimodal 4DVarNets and demonstrate their relevance for a Gulf Stream OSSE case-study.  
+  authors: R. Fablet, Q. Febvre, B. Chapron
   link:
-    url: https://arxiv.org/abs/2208.08912
+    url: https://arxiv.org/abs/2207.01372
     display:  arXiv, 2022.
   highlight: 1
   news2:
 
 - title: "Learning-based estimation of in-situ wind speed from underwater acoustics"
-  image: fig_SST-SSH4DVarNet.jpg
-  description: Due to the irregular space-time sampling of sea surface observations, the reconstruction of sea surface dynamics is a challenging inverse problem. While satellite altimetry provides a direct observation of the sea surface height (SSH), which relates to the divergence-free component of sea surface currents, the associated sampling pattern prevents from retrieving fine-scale sea surface dynamics, typically below a 10-day time scale. By contrast, other satellite sensors provide higher-resolution observations of sea surface tracers such as sea surface temperature (SST). Multimodal inversion schemes then arise as an appealing strategy. We introduce multimodal 4DVarNets and demonstrate their relevance for a Gulf Stream OSSE case-study.  
-  authors: R. Fablet, Q. Febvre, B. Chapron
+  image: fig_arXiv_mzambra.jpg
+  description: Wind speed retrieval at sea surface is of primary importance for scientific and operational applications. Besides weather models, in-situ measurements and remote sensing technologies, especially satellite sensors, provide complementary means to monitor wind speed. As sea surface winds produce sounds that propagate underwater, underwater acoustics recordings can also deliver fine-grained wind-related information. Whereas model-driven schemes, especially data assimilation approaches, are the state-of-the-art schemes to address inverse problems in geoscience, machine learning techniques become more and more appealing to fully exploit the potential of observation datasets. Here, we introduce a deep learning approach for the retrieval of wind speed time series from underwater acoustics possibly complemented by other data sources such as weather model reanalyses. Our approach bridges data assimilation and learning-based frameworks to benefit both from prior physical knowledge and computational efficiency. Numerical experiments on real data demonstrate that we outperform the state-of-the-art data-driven methods.
+  authors: M. Zambra, D. Cazau, N. Farrugia, Alexandre Gensse, S. Pensieri, R. Bozzano, R. Fablet
   link:
-    url: https://arxiv.org/abs/2207.01372
+    url: https://arxiv.org/abs/2208.08912
     display:  arXiv, 2022.
   highlight: 1
   news2:
