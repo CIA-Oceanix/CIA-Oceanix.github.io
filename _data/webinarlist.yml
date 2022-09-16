@@ -281,9 +281,9 @@
   highlight: 1
   codetype: 1
 
-- title: ""
+- title: "Multi-band optical imaging: from fusion to change detection"
   image: dobigeon.jpg
-  description:
+  description: Fusing two multi-band images of complementary spatial and spectral resolutions acquired at the same time instant aims at recovering an image of high spatial and high spectral resolutions. In a first part of this talk, we will formulate this task as an inverse problem which turns out to admit a closed-form solution under some generic assumptions. Then in the second part of this talk, we will address the problem of detecting changes between multi-band images of different resolutions acquired at different time instants. We will show that this challenging task can be generically and efficiently tackled from a fusion perspective.
   date: 2022/09/21
   authors: Nicolas Dobigeon (INP-ENSEEIHT)
   link:
