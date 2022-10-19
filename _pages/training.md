@@ -39,5 +39,4 @@ For those who have no or very little knowledge on deep learning and pytorch, bel
 
 **Organization**: The lectures will be given in-person in Brest at IMT Atlantique on Nov.15 and at the "Pôle Numérique Brest Iroise" for the other dates. It will also be possible to attend to the lectures and co-working sessions remotely (zoom conference).
 
-**Registration deadline**: There are no registration fees. For organizational aspects, we request the interested people to register through the following link: 
-[registration form](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+**Registration deadline**: November 8, 2022. There are no registration fees. For organizational aspects, we request the interested people to register through the following link: [registration form](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
