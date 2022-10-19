@@ -19,20 +19,14 @@ We plan to organize next session in Brest in January 2022. Do not hesitate to co
 ## Advanced Course on Deep Learning and Geophysical Dynamics
 Next october we will organize the first edition of an advanced course on Deep Learning and Geophysical Dynamics co-organized by AI chairs  OceaniX, DL4CLIM, ANITI-DAML and AI4Child (Prof. R. Fablet, P. Gallinari, S. Gratton and F. Rousseau). The general objective of the course will be to cover theoretical aspects of deep learning and its application to geophysical dynamics, especially regarding the exploitation of physical priors. Besides these theoretical aspects, the course will also aim to apply state-of-the-art deep leearning approaches to specific case-studies using pytorch.
 
-The course will take place on **tuesdays five consecutive weeks from November 9 to December 7**. All morning sessions (typically, 9.30am-12.30pm, Paris time) will be dedicated to a course covering theoretical aspects combined with some pytorch practice, while all afternoon sessions will be dedicated to an advanced practice through a specific team project.
+The course will take place on **tuesdays four consecutive weeks from November 15 to December 6** with the following four different lectures:
+- Lecture #1 (Nov. 15): **Deep Learning and Optimization** (Prof. L. Drumetz) (9.30am-12.30pm) [webpage](https://www.researchgate.net/profile/Lucas-Drumetz)
+- Lecture #2 (Nov. 22): **Deep differentiable emulators** (Prof. D. Greenberg) (9.30am-12.30pm) [webpage](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/model_driven_machine_learning/team/098795/index.php.en)
+- Lecture #4 (Nov. 29): **Learning and Optimal Transport** (Prof. N. courty) (9.30am-12.30pm) [webpage](https://people.irisa.fr/Nicolas.Courty/)
+- Course #5 (Dec. 7): **Deep Learning, Optimal Interpolation and Data Assimilation** (Prof. R. Fablet) (9.30am-12.30pm) [webpage](https://rfablet.github.io/)
 
-The provisional program for the different morning session is the following:
-- Course #1 (Nov. 9): **Introduction to Deep Learning and Automatic Differentiation** (Prof. F. Rousseau)
-- Course #2 (Nov. 16): **Deep Learning and Optimization** (Prof. L. Drumetz and Prof. Serge Gratton)
-- Course #3 (Nov. 23): **Generative models** (Prof. P. Gallinari) **NB: this course will be held from 2.30pm and the morning session will be dedicated to the project**
-- Course #4 (Nov. 30): **Deep Learning and Dynamical Systems** (Dr. S. Ouala)
-- Course #5 (Dec. 7): **Deep Learning and Inverse Problems** (Prof. R. Fablet)
 
-The introductory project session on November 9 will also include a short introduction to pytorch and Pytorch Lightning which will be the reference deep learning framework of the course. Examples of projects of interest for geophysical dynamics (more to come):
-- Space-time interpolation of sea surface dynamics
-- Forecasting of El Niño index
-- Learning numerical schemes for ODEs and PDEs
-- Data-driven system identfication and forecasting
+**Co-working sessions**: In addition to the lectures, co-working sessions will be organized in the afternoons to have the additional opportunity to meet and discuss with the lecturers and oceanix chair members as well as to share experience on deep learning packages (e.g., lightning, hydra,...). Interested attendees will have the opportunity to present ongoing research topics for discussion. 
 
 **Pre-requisite**: Participants shall have some basic knowledge in applied math. and/or machine learning and some practice in Python programming. Previous knowledge in deep learning and pytorch is not a pre-requisite. We will provide some links prior to the course to online tutorials for Pytorch, so that all participants could gain at a first basic practice before the course. 
 
@@ -43,8 +37,7 @@ For those who have no or very little knowledge on deep learning and pytorch, bel
 - Introduction to pytorch framework [link](https://pytorch.org/tutorials/beginner/basics/intro.html)
 - 60-minute blitz for pytorch [link](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
-**Organization**: The course will be organized in person in Brest at the "Pôle Numérique Brest Iroise". It will also be possible to attend to the courses remotely. We expect to accomodate up to 50 participants for the course. 
+**Organization**: The lectures will be given in-person in Brest at IMT Atlantique on Nov.15 and at the "Pôle Numérique Brest Iroise" for the other dates. It will also be possible to attend to the lectures and co-working sessions remotely (zoom conference).
 
-<!--**Registration and visiting scholarships**: there is no regstration fee but the registration is mandatory. We can offer visiting scholarships to young scientists (e.g., MSc. and PhD students, postdoctoral scientists) who would like to register for the course and would be interested by a short stay in our group covering the period of the course. Please fill in the following to apply for the course and a scholarship if interested [link](https://forms.gle/nt3469TKLdw7Fog99). Given the limit in the number of participants, we may not accept all applications. -->
-
-**Registration deadline**: Deadline passed (contact ronan.fablet AT imt-atlantique.fr for additional information)
+**Registration deadline**: There are no registration fees. For organizational aspects, we request the interested people to register through the following link: 
+[registration form](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
