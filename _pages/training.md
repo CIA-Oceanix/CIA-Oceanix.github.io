@@ -21,7 +21,7 @@ We will organize this year the second edition of the advanced course on Deep Lea
 
 The course will take place on **tuesdays four consecutive weeks from November 15 to December 6** with the following four different lectures:
 - Lecture #1 (Nov. 15): **Deep Learning and Optimization** (Prof. L. Drumetz) (9.30am-12.30pm) [webpage](https://www.researchgate.net/profile/Lucas-Drumetz)
-- Lecture #2 (Nov. 22): **Deep differentiable emulators** (Prof. D. Greenberg) (9.30am-12.30pm) [webpage](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/model_driven_machine_learning/team/098795/index.php.en)
+- Lecture #2 (Nov. 22): **Deep differentiable emulators** (Dr. D. Greenberg) (9.30am-12.30pm) [webpage](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/model_driven_machine_learning/team/098795/index.php.en)
 - Lecture #4 (Nov. 29): **Learning and Optimal Transport** (Prof. N. courty) (9.30am-12.30pm) [webpage](https://people.irisa.fr/Nicolas.Courty/)
 - Course #5 (Dec. 7): **Deep Learning, Optimal Interpolation and Data Assimilation** (Prof. R. Fablet) (9.30am-12.30pm) [webpage](https://rfablet.github.io/)
 
