@@ -38,5 +38,8 @@ For those who have no or very little knowledge on deep learning and pytorch, bel
 - 60-minute blitz for pytorch [link](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 **Organization**: The lectures will be given in-person in Brest at IMT Atlantique on Nov.15 and at the "Pôle Numérique Brest Iroise" for the other dates. It will also be possible to attend to the lectures and co-working sessions remotely (zoom conference).
+- **Session on Nov.15**: IMT Atlantique, Brest campus, room B1-010
+- **Session on Nov.22, 29 and Dec.6**: PNBI, Technopôle Brest Iroise, room "TD Iroise" (1st floor)
+
 
 **Registration deadline**: November 8, 2022. There are no registration fees. For organizational aspects, we request the interested people to register through the following link: [registration form](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
