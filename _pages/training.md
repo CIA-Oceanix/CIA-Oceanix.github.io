@@ -20,10 +20,10 @@ We plan to organize next session in Brest in January 2022. Do not hesitate to co
 We will organize this year the second edition of the advanced course on Deep Learning and Geophysical Dynamics. The general objective of the course will be to cover theoretical aspects of deep learning and its application to geophysical dynamics, especially regarding the exploitation of physical priors. 
 
 The course will take place on **tuesdays four consecutive weeks from November 15 to December 6** with the following four different lectures:
-- Lecture #1 (Nov. 15): **Deep Learning and Optimization** (Prof. L. Drumetz) (9.30am-12.30pm) [webpage](https://www.researchgate.net/profile/Lucas-Drumetz)
-- Lecture #2 (Nov. 22): **Deep differentiable emulators** (Dr. D. Greenberg) (9.30am-12.30pm) [webpage](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/model_driven_machine_learning/team/098795/index.php.en)
-- Lecture #4 (Nov. 29): **Learning and Optimal Transport** (Prof. N. courty) (9.30am-12.30pm) [webpage](https://people.irisa.fr/Nicolas.Courty/)
-- Course #5 (Dec. 6): **Deep Learning, Optimal Interpolation and Data Assimilation** (Prof. R. Fablet) (9.30am-12.30pm) [webpage](https://rfablet.github.io/)
+- Lecture #1 (Nov. 15): **Deep Learning and Optimization** (Prof. L. Drumetz) (9.30am-12.30pm) [webpage](https://www.researchgate.net/profile/Lucas-Drumetz)/[zoom link](https://cnrs.zoom.us/j/93638732901?pwd=cG1QdlhJUjNTTW1nd1hka2krcVJMZz09)
+- Lecture #2 (Nov. 22): **Deep differentiable emulators** (Dr. D. Greenberg) (9.30am-12.30pm) [webpage](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/model_driven_machine_learning/team/098795/index.php.en)/[zoom link](https://cnrs.zoom.us/j/95507484012?pwd=TFB2NXcvSnVvODFDYVQ5ck00MzRKZz09)
+- Lecture #4 (Nov. 29): **Learning and Optimal Transport** (Prof. N. courty) (9.30am-12.30pm) [webpage](https://people.irisa.fr/Nicolas.Courty/)/[zoom link](https://cnrs.zoom.us/j/93683997886?pwd=NFE0NjdSTkhUeFBJbC9rR0U2M0FQdz09)
+- Course #5 (Dec. 6): **Deep Learning, Optimal Interpolation and Data Assimilation** (Prof. R. Fablet) (9.30am-12.30pm) [webpage](https://rfablet.github.io/)/[zoom link](https://cnrs.zoom.us/j/97461908412?pwd=d0ZGbWtvTlpSc2kzMTVtQ1JVcUg5QT09)
 
 
 **Co-working sessions**: In addition to the lectures, co-working sessions will be organized in the afternoons to have the additional opportunity to meet and discuss with the lecturers and oceanix chair members as well as to share experience on deep learning packages (e.g., lightning, hydra,...). Interested attendees will have the opportunity to present ongoing research topics for discussion. 
