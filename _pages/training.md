@@ -8,7 +8,8 @@ permalink: /training
 
 **Advanced course on Deep Learning for Geophysical Dynamics, Session 1, Nov. 15:**
 - **Location:** IMT Atlantique, Brest, room B1-010
-- **Zoom link:** [[zoom link](https://cnrs.zoom.us/j/93638732901?pwd=cG1QdlhJUjNTTW1nd1hka2krcVJMZz09)](https://cnrs.zoom.us/j/93638732901?pwd=cG1QdlhJUjNTTW1nd1hka2krcVJMZz09)
+- **Zoom link:** [zoom link](https://cnrs.zoom.us/j/93638732901?pwd=cG1QdlhJUjNTTW1nd1hka2krcVJMZz09)
+- **Git repo for all resources:** [link](https://github.com/CIA-Oceanix/DLGD2022)
 
 OceaniX members organize different courses and training sessions on deep learning, data science, ocean remote sensing. We provide below more information on the following courses:
 - Doctoral course on Data Science for Geosience [link](#doctoral-course-on-data-science-for-geoscience)
