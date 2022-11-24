@@ -20,7 +20,7 @@ You find the current job openings here:
 - Postdoctoral fellowship on **Learning-Based Reconstruction of Upper Ocean Dynamics from Underwater Acoustics Data** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_OceaniXShom2022.pdf)
 - Postdoctoral fellowship on **Deep emulators of marine plankton dynamics** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offer_anr_dream2022.pdf)
 - Postdoctoral fellowship on **Deep learning and data assimilation for ocean forecasting and reanalysis** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offer_edito_model_lab2022.pdf)
-- <!-- Postdoctoral fellowship on **deep learning, satellite imaging and marine biodiversity** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offerFishPredict202201.pdf)-->
+<!-- Postdoctoral fellowship on **deep learning, satellite imaging and marine biodiversity** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offerFishPredict202201.pdf)-->
 <!-- Postdoctoral fellowship on **physics-informed deep emulators for ocean simulation and forecasting** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_OceaniX_2021.pdf)-->
 <!--
  You find the current job openings here:
