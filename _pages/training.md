@@ -27,7 +27,7 @@ We will organize this year the second edition of the advanced course on Deep Lea
 The course will take place on **tuesdays four consecutive weeks from November 15 to December 6** with the following four different lectures:
 - Lecture #1 (Nov. 15): **Deep Learning and Optimization** (Prof. L. Drumetz) (9.30am-12.30pm) [webpage](https://www.researchgate.net/profile/Lucas-Drumetz)/[zoom link](https://cnrs.zoom.us/j/93638732901?pwd=cG1QdlhJUjNTTW1nd1hka2krcVJMZz09)/[Recorded videp](https://youtu.be/AfAeGBLEF7Q)
 - Lecture #2 (Nov. 22): **Deep differentiable emulators** (Dr. D. Greenberg) (9.30am-12.30pm) [webpage](https://www.hereon.de/institutes/coastal_systems_analysis_modeling/model_driven_machine_learning/team/098795/index.php.en)/[zoom link](https://cnrs.zoom.us/j/95507484012?pwd=TFB2NXcvSnVvODFDYVQ5ck00MzRKZz09)/[Recorded video](https://youtu.be/xuGKxTwZ_7s)
-- Lecture #4 (Nov. 29): **Learning and Optimal Transport** (Prof. N. courty) (9.30am-12.30pm) [webpage](https://people.irisa.fr/Nicolas.Courty/)/[zoom link](https://cnrs.zoom.us/j/93683997886?pwd=NFE0NjdSTkhUeFBJbC9rR0U2M0FQdz09)
+- Lecture #4 (Nov. 29): **Learning and Optimal Transport** (Prof. N. courty) (9.30am-12.30pm) [webpage](https://people.irisa.fr/Nicolas.Courty/)/[zoom link](https://cnrs.zoom.us/j/93683997886?pwd=NFE0NjdSTkhUeFBJbC9rR0U2M0FQdz09)/[Recorded video](https://youtu.be/OS3K393w8fk)
 - Course #5 (Dec. 6): **Deep Learning, Optimal Interpolation and Data Assimilation** (Prof. R. Fablet) (9.30am-12.30pm) [webpage](https://rfablet.github.io/)/[zoom link](https://cnrs.zoom.us/j/97461908412?pwd=d0ZGbWtvTlpSc2kzMTVtQ1JVcUg5QT09)
 
 
