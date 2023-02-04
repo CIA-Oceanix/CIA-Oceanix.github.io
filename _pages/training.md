@@ -6,13 +6,13 @@ sitemap: false
 permalink: /training
 ---
 
-**Advanced course on Deep Learning for Geophysical Dynamics, Session 1, Nov. 15:**
+<-- **Advanced course on Deep Learning for Geophysical Dynamics, Session 1, Nov. 15:**
 - **Location:** IMT Atlantique, Brest, room B1-010
 - **Zoom link:** [zoom link](https://cnrs.zoom.us/j/93683997886?pwd=NFE0NjdSTkhUeFBJbC9rR0U2M0FQdz09)
-- **Git repo for all resources:** [link](https://github.com/CIA-Oceanix/DLGD2022)
+- **Git repo for all resources:** [link](https://github.com/CIA-Oceanix/DLGD2022)!-->
 
 OceaniX members organize different courses and training sessions on deep learning, data science, ocean remote sensing. We provide below more information on the following courses:
-- Doctoral course on Data Science for Geosience [link](#doctoral-course-on-data-science-for-geoscience)
+- Doctoral course on Deep Learning for Ocean and Atmosphere Science [link](#doctoral-course-on-deep-learning-for-ocean-and-atmosphere-sciences)
 - Doctoral course on Deep Leearning and Geophysical Dynamics [link](#advanced-course-on-deep-learning-and-geophysical-dynamics)
 
 ## Doctoral course on Deep Learning for Ocean and Atmosphere Sciences 
@@ -21,6 +21,8 @@ This doctoral course co-organized between Grenoble (Pr. Emmanuel Cosme and Dr. B
 The course will be held in person both in Brest and Grenoble on June 26-30 2023. More information coming soon regarding the description of the course. 
 The content of the course will follow a structure similar to the three previous editions of the doctoral course on data science for geoscience [link](https://dsg2020.wordpress.com/). 
 Do not hesitate to contact us for any additional information.
+
+**Pre-requisite**: Participants shall have some basic knowledge in applied math. and/or machine learning and some practice in Python programming. Previous knowledge in deep learning and pytorch is not a pre-requisite.  
 
 **Contact person:** ronan.fablet AT imt-atlantique.fr
 **Registration deadline**: May 15, 2023
