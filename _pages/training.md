@@ -15,11 +15,12 @@ OceaniX members organize different courses and training sessions on deep learnin
 - Doctoral course on Data Science for Geosience [link](#doctoral-course-on-data-science-for-geoscience)
 - Doctoral course on Deep Leearning and Geophysical Dynamics [link](#advanced-course-on-deep-learning-and-geophysical-dynamics)
 
-## Doctoral course on Data Science for Geoscience
-This doctoral course co-organized between Grenoble, Toulouse and Brest is an introductory course to data science for geoscientists. It covers generic theoretical concepts in data science and machine learning as well as various approaches and problems. Besides labsession using python, it also involves a group project to apply these concepts to a specific issue from the formulation of the problem to the interpretation of numerical experiments.
+## Doctoral course on Deep Learning for Ocean and Atmosphere Sciences 
+This doctoral course co-organized between Grenoble and Brest is an introductory course to deep learning for ocean, atmosphere and climate scientists. It will cover generic theoretical concepts in data science and machine learning as well as various approaches and problems. Besides labsession using python, it also involves a group project to apply these concepts to a specific issue from the formulation of the problem to the interpretation of numerical experiments.
 
-More information can be found from the website of last session held in Januatry 2020 [link](https://dsg2020.wordpress.com/). 
-We plan to organize next session in Brest in January 2022. Do not hesitate to contact us for any additional information.
+The course will be held in person both in Brest and Grenoble on June 26-30 2023. More information to come soon regarding the description of the course. 
+#More information can be found from the website of previous session on the course on data scienece for geoscience in 2020 [link](https://dsg2020.wordpress.com/). 
+Do not hesitate to contact us for any additional information.
 
 ## Advanced Course on Deep Learning and Geophysical Dynamics
 We will organize this year the second edition of the advanced course on Deep Learning and Geophysical Dynamics. The general objective of the course will be to cover theoretical aspects of deep learning and its application to geophysical dynamics, especially regarding the exploitation of physical priors. 
