@@ -6,10 +6,10 @@ sitemap: false
 permalink: /training
 ---
 
-<-- **Advanced course on Deep Learning for Geophysical Dynamics, Session 1, Nov. 15:**
+<!--- **Advanced course on Deep Learning for Geophysical Dynamics, Session 1, Nov. 15:**
 - **Location:** IMT Atlantique, Brest, room B1-010
 - **Zoom link:** [zoom link](https://cnrs.zoom.us/j/93683997886?pwd=NFE0NjdSTkhUeFBJbC9rR0U2M0FQdz09)
-- **Git repo for all resources:** [link](https://github.com/CIA-Oceanix/DLGD2022)!-->
+- **Git repo for all resources:** [link](https://github.com/CIA-Oceanix/DLGD2022)--->
 
 OceaniX members organize different courses and training sessions on deep learning, data science, ocean remote sensing. We provide below more information on the following courses:
 - Doctoral course on Deep Learning for Ocean and Atmosphere Science [link](#doctoral-course-on-deep-learning-for-ocean-and-atmosphere-sciences)
@@ -25,7 +25,9 @@ Do not hesitate to contact us for any additional information.
 **Pre-requisite**: Participants shall have some basic knowledge in applied math. and/or machine learning and some practice in Python programming. Previous knowledge in deep learning and pytorch is not a pre-requisite.  
 
 **Contact person:** ronan.fablet AT imt-atlantique.fr
+
 **Registration deadline**: May 15, 2023
+
 **Registration form**: [link](https://forms.gle/AfhLp4UvExdiVmfbA)
 
 
