@@ -295,6 +295,23 @@
     ID:
     Passcode:
   highlight: 1
+  codetype: 1
+
+- title: "Robust and Explainable Classification using Optimal Transport and 1-Lipschitz Neural Networks"
+  image: serurrier.jpg
+  description: The lack of robustness and explainability in neural networks is clearly related to the Lipschitz constant of deep models, whic can be arbitrarily high. It has been demonstrated that constraining the Lipschitz constant can improve these properties, but can make it more difficult to learn with classical loss functions. In this presentation, we will explain how to control this constant and show that learning these networks requires defining specific loss functions. We propose a loss function based on optimal transport, which provides certification of robustness and can turn adversarial functions into provable counterfactual examples.
+  date: 2023/03/15
+  authors: Mathieu Serrurier (IRIT)
+  link:
+    url: https://arxiv.org/abs/2006.06520
+    display: arXiv
+  zoomlink:
+    url: 
+    display: 
+    ID:
+    Passcode:
+  highlight: 1
   codetype: 2
+
 
 
