@@ -11,10 +11,16 @@
   headline: " <b> OceaniX webinar by Pro. M. Serrurier</b> More information from <a href='https://cia-oceanix.github.io/webinar'> </a>." 
 
 - date: 12. March 2022
-  headline: " <b> New review paper accepted in IEEE/CAA on Deep Learning, Data Assimilation and Uncertainty Quantification</b> More information soon</a>." 
+  headline: " <b> New review paper accepted in IEEE/CAA on Deep Learning, Data Assimilation and Uncertainty Quantification</b> More information soon." 
 
 - date: 10. March 2022
   headline: " <b> New paper in GMD on 4DVarNets for SSH mapping</b> More information from <a href='https://doi.org/10.5194/gmd-2022-241'> doi</a>." 
+
+- date: 1. March 2022
+  headline: " <b> New preprint on learning-based Koopman decompositions </b> More information soon." 
+
+- date: 1. March 2022
+  headline: " <b> New preprint on VAEs for extremes </b> More information <a href='https://hal.science/hal-04013214'> here</a>." 
 
 - date: 10. January 2022
   headline: " <b> New paper in Physica D on bounded non-linear forecasts with deep learning</b> More information <a href='https://doi.org/10.1016/j.physd.2022.133630'> doi</a>." 
