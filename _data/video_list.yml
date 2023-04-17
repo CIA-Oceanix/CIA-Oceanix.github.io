@@ -1,5 +1,43 @@
+- title: "AI4OAC2023 Tutorial by Prof. F. Rousseau on Diffusion Models."
+  date: 2023/04/12
+  link: https://youtu.be/wkhSPt3JjKs
+  display : video
+
+- title: "AI4OAC2023 Tutorial by Dr. J.E. Jonhson on Neural Fields."
+  date: 2023/04/13
+  link: https://youtu.be/wkhSPt3JjKs
+  display : video
+
+- title: "AI4OAC2023 Keynote by Prof. P. Hassanzadeh on Learning Data-driven Subgrid-scale Parameterizations: Stability, Extrapolation,
+and Interpretation."
+  date: 2023/04/13
+  link: https://youtu.be/wkhSPt3JjKs
+  display : video
+
+- title: "AI4OAC2023 Keynote by Prof. T. Beucler on Physically and Causally-Informed Machine Learning for Atmospheric Convection."
+  date: 2023/04/13
+  link: https://youtu.be/wkhSPt3JjKs
+  display : video
+
+- title: "AI4OAC2023 Keynote by Prof. M. Demangeot on Insight into spatial extremes and Geostatistics."
+  date: 2023/04/12
+  link: https://youtu.be/wkhSPt3JjKs
+  display : video
+
+- title: "AI4OAC2023 Keynote by Dr. K. Haynes on Addressing the calibration bottleneck using machine learning: application to the
+CNRM-CM6-1 climate model."
+  date: 2023/04/11
+  link: https://youtu.be/wkhSPt3JjKs
+  display : video
+
+- title: "AI4OAC2023 Keynote by Dr. R. Roehrig on Addressing the calibration bottleneck using machine learning: application to the
+CNRM-CM6-1 climate model."
+  date: 2023/04/11
+  link: https://youtu.be/jq0ZbIokvg8
+  display : video
+
 - title: "Webinar by Prof. M. Serrurier on Robust and Explainable Classification using Optimal Transport and 1-Lipschitz Neural Networks."
-  date: 2022/03/15
+  date: 2023/03/15
   link: https://youtu.be/RNP5aYGW9O8
   display : video
 
