@@ -12,13 +12,13 @@ permalink: /training
 - **Git repo for all resources:** [link](https://github.com/CIA-Oceanix/DLGD2022)--->
 
 OceaniX members organize different courses and training sessions on deep learning, data science, ocean remote sensing. We provide below more information on the following courses:
-- Doctoral course on Deep Learning for Ocean and Atmosphere Science [link](#doctoral-course-on-deep-learning-for-ocean-and-atmosphere-sciences)
+- Introductory course on Deep Learning for Ocean and Atmosphere Science [link](#doctoral-course-on-deep-learning-for-ocean-and-atmosphere-sciences)
 - Doctoral course on Deep Leearning and Geophysical Dynamics [link](#advanced-course-on-deep-learning-and-geophysical-dynamics)
 
 ## Doctoral course on Deep Learning for Ocean and Atmosphere Sciences 
 This doctoral course co-organized between Grenoble (Pr. Emmanuel Cosme and Dr. Bruno Deremble) and Brest (Pr. Ronan Fablet, Pr. Carlos Granero Belincho, Pr. Lucas Drumetz and Pr. Pierre Tandeo) is an introductory course to deep learning for ocean, atmosphere and climate scientists. Supported by LEFE/MANU action, it will cover generic theoretical concepts in data science and machine learning as well as various approaches and problems. Besides labsession using python, it also involves a group project to apply these concepts to a specific issue from the formulation of the problem to the interpretation of numerical experiments. 
 
-The course will be held in person both in Brest and Grenoble on June 26-30 2023 (up to 20 attendees in each location). The remote attendance will be possible for the lecture sessions (morning sessions). The detailed program of the course is available [here](https://cia-oceanix.github.io/downloads/program_introDLGD2023.pdf).
+The course will be held in person both in Brest and Grenoble on June 26-30 2023 (up to 20 attendees in each location). The remote attendance will be possible for the lecture sessions (morning sessions). The **detailed program** of the course is available [here](https://cia-oceanix.github.io/downloads/program_introDLGD2023.pdf).
 
 <!--- More information coming soon regarding the description of the course. 
 The content of the course will follow a structure similar to the three previous editions of the doctoral course on data science for geoscience [link](https://dsg2020.wordpress.com/). Do not hesitate to contact us for any additional information. --->
@@ -30,8 +30,6 @@ The content of the course will follow a structure similar to the three previous 
 **Registration deadline**: June 2, 2023
 
 **Registration form**: [link](https://forms.gle/AfhLp4UvExdiVmfbA)
-
-**Detailed program**: 
 
 ## Advanced Course on Deep Learning and Geophysical Dynamics
 We will organize this year the second edition of the advanced course on Deep Learning and Geophysical Dynamics. The general objective of the course will be to cover theoretical aspects of deep learning and its application to geophysical dynamics, especially regarding the exploitation of physical priors. 
