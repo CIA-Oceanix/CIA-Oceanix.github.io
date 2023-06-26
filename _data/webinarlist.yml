@@ -311,7 +311,56 @@
     ID:
     Passcode:
   highlight: 1
+  codetype: 1
+
+- title: ""
+  image: eveillard.jpg
+  description: 
+  date: 2023/10/18
+  authors: Damien Eveillard (Nantes University, LS2N)
+  link:
+    url: 
+    display: arXiv
+  zoomlink:
+    url: 
+    display: Zoom link
+    ID:
+    Passcode:
+  highlight: 1
   codetype: 2
+
+- title: ""
+  image: bonnel.jpg
+  description: 
+  date: 2023/11/15
+  authors: Julien Bonnel (WHOI)
+  link:
+    url: 
+    display: arXiv
+  zoomlink:
+    url: 
+    display: Zoom link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
+- title: ""
+  image: bocquet.jpg
+  description: 
+  date: 2023/12/20
+  authors: Marc Bocquet (ENPC)
+  link:
+    url: 
+    display: arXiv
+  zoomlink:
+    url: 
+    display: Zoom link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
+
 
 
 
