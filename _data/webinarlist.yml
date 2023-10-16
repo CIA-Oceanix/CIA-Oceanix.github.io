@@ -313,16 +313,16 @@
   highlight: 1
   codetype: 1
 
-- title: ""
+- title: "Incorporating Omics Knowledge Into Earth System Modeling"
   image: eveillard.jpg
-  description: 
+  description: Over the last two decades, Earth System science has faced the challenge of incorporating organisms and their metabolisms into a global biogeochemical context. Bridging this gap would open up new ways to integrate the enormous wealth of -omics data to address links between biodiversity, microbial activity, and ecosystem functions, e.g., related to interactions between biological processes and the climate system. However, the complexity of solving several hundred equations at each grid point on Earth has so far precluded significant advances. Thus, Earth System Models (ESMs) highly simplify their representation of biological processes, leading to major uncertainty in climate change impacts and how changing phytoplankton physiology affects the production of key metabolites. Here we embed a genome-scale model within a state-of-the-art ESM to deliver an integrated understanding of how gradients in resource stress modulate metabolic reactions and molecular physiology. In particular, we show how the production of two carbon storage compounds (lipids and glycogen) in the prevalent marine cyanobacteria Prochlorococcus is associated with different acclimation strategies in conditions of different substrate availability. Accounting for all metabolic capacities, this allows explicitly predicting where carbon storage is used or zones producing around 50 critical metabolites for carbon cycle (i.e., DMSP). It allows us to decipher « hot spots » for the carbon cycle associated with emblematic planktons. More generally, this new framework will stimulate the future development of a new generation of trait-based models that can comfortably incorporate the complexities of cellular physiology.
   date: 2023/10/18
   authors: Damien Eveillard (Nantes University, LS2N)
   link:
     url: 
     display: arXiv
   zoomlink:
-    url: 
+    url: https://cnrs.zoom.us/j/99594638268?pwd=WlNrZW1KbUdBS0M1bWlabVRrOFIwdz09
     display: Zoom link
     ID:
     Passcode:
