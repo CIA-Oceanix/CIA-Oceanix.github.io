@@ -1,3 +1,9 @@
+- date: 5. December 2023
+  headline: " <b> PhD defense of Q. Febvre. </b>." 
+
+- date: 10-12. October 2023
+  headline: " <b> Invited talk on end-to-end neural data assimilation for ocean reanalyses at the CMEMS workshop on Ocean Reanalyses.</b>. Link <a href='https://marine.copernicus.eu/events/ocean-reanalyses-workshop-copernicus-marine-service'> here</a>." 
+
 - date: 22. September 2023
   headline: " <b> New NeurIPS paper</b>. OceanBench <a href='https://arxiv.org/abs/2309.15599'> here</a>." 
 
@@ -20,7 +26,10 @@
   headline: " <b> Talks by M. Beauchamp and S. Ouala at ICCS'2023 </b> Link <a href='https://www.iccs-meeting.org/iccs2023/'> here</a>." 
 
 - date: 30. June 2023
-  headline: " <b> New paper in Env. Data Science</b> PDF <a href='https://www.cambridge.org/core/journals/environmental-data-science/article/ensemblebased-4dvarnet-uncertacinty-quantification-for-the-reconstruction-of-sea-surface-height-dynamics/AA7AA723E1846D9BF2EFD13847BCEFBF'> here</a>." 
+  headline: " <b> New paper in IEEE JSTARS on learning-based SAR-based wind retrieval.</b> PDF <a href='https://doi.org/10.1109/JSTARS.2023.3291236'> here</a>." 
+
+- date: 30. June 2023
+  headline: " <b> New paper in Env. Data Science on ensemble-based 4DVarNet schemes for UQ.</b> PDF <a href='https://www.cambridge.org/core/journals/environmental-data-science/article/ensemblebased-4dvarnet-uncertacinty-quantification-for-the-reconstruction-of-sea-surface-height-dynamics/AA7AA723E1846D9BF2EFD13847BCEFBF'> here</a>." 
 
 - date: 26-30 June 2023
   headline: " <b> Doctoral course on Deep Learning for Ocean and Atmosphere Sciences </b> Paper <a href='https://cia-oceanix.github.io/training'> here</a>." 
