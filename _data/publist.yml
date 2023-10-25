@@ -1,3 +1,13 @@
+- title: "Uncertainty quantification when learning dynamical models and solvers with variational methods"
+  image: fig_4dvarnet-UQ-lafon-2023.jpg
+  description: This study proposes an end-to-end Neural Network (NN) scheme based on a Variational Bayes (VB) inference formulation. It combines an ELBO (Evidence Lower BOund) variational cost to a trainable gradient-based solver to infer the state posterior pdf given observation data. The inference of the posterior and the trainable solver are learnt jointly. We demonstrate the relevance of the proposed scheme for a Gaussian parameterization of the posterior and different case-study experiments.
+  authors: N. Lafon, R. Fablet, P. Naveau
+  link:
+    url: https://hal.science/hal-04013195/
+    display:  JAMES, 2023.
+  highlight: 1
+  news2:
+
 - title: "Multimodal 4DVarNets for the reconstruction of sea surface dynamics from SST-SSH synergies"
   image: fig_SST-SSH4DVarNet.jpg
   description: Due to the irregular space-time sampling of sea surface observations, the reconstruction of sea surface dynamics is a challenging inverse problem. While satellite altimetry provides a direct observation of the sea surface height (SSH), which relates to the divergence-free component of sea surface currents, the associated sampling pattern prevents from retrieving fine-scale sea surface dynamics, typically below a 10-day time scale. By contrast, other satellite sensors provide higher-resolution observations of sea surface tracers such as sea surface temperature (SST). Multimodal inversion schemes then arise as an appealing strategy. We introduce multimodal 4DVarNets and demonstrate their relevance for a Gulf Stream OSSE case-study.  
