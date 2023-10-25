@@ -1,3 +1,15 @@
+- title: "OceanBench: The Sea Surface Height Edition"
+  image: fig_oceanbench-2023.jpg
+  description: This study proposes an end-to-end Neural Network (NN) scheme based on a Variational Bayes (VB) inference formulation. It combines an ELBO (Evidence Lower BOund) variational cost to a trainable gradient-based solver to infer the state posterior pdf given observation data. The inference of the posterior and the trainable solver are learnt jointly. We demonstrate the relevance of the proposed scheme for a Gaussian parameterization of the posterior and different case-study experiments.
+  authors: J.E. Johnson, Q. Febvre, A. Gorbunova, S. Metref, M. Ballarotta, J. Le Sommer, R. Fablet.
+  link:
+    url: https://hal.science/hal-04013195/
+    display:  NeurIPS, 2023.
+  highlight: 1
+  news2:
+
+ (2023). OceanBench: The Sea Surface Height Edition. arXiv preprint arXiv:2309.15599.
+
 - title: "Uncertainty quantification when learning dynamical models and solvers with variational methods"
   image: fig_4dvarnet-UQ-lafon-2023.jpg
   description: This study proposes an end-to-end Neural Network (NN) scheme based on a Variational Bayes (VB) inference formulation. It combines an ELBO (Evidence Lower BOund) variational cost to a trainable gradient-based solver to infer the state posterior pdf given observation data. The inference of the posterior and the trainable solver are learnt jointly. We demonstrate the relevance of the proposed scheme for a Gaussian parameterization of the posterior and different case-study experiments.
