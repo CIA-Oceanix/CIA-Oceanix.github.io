@@ -1,6 +1,6 @@
 - title: "OceanBench: The Sea Surface Height Edition"
   image: fig_oceanbench-2023.jpg
-  description: This study proposes an end-to-end Neural Network (NN) scheme based on a Variational Bayes (VB) inference formulation. It combines an ELBO (Evidence Lower BOund) variational cost to a trainable gradient-based solver to infer the state posterior pdf given observation data. The inference of the posterior and the trainable solver are learnt jointly. We demonstrate the relevance of the proposed scheme for a Gaussian parameterization of the posterior and different case-study experiments.
+  description: OceanBench is a unifying framework that provides standardized processing steps that comply with domain expert standards for the development and evaluation of deep learning schemes for physical oceanography. It is designed with a flexible and pedagogical abstraction. it provides plug-and-play data and pre-configured pipelines for ML researchers to benchmark their models w.r.t. ML and domain-related baselines and delivers a transparent and configurable framework for researchers to customize and extend the pipeline for their tasks.
   authors: J.E. Johnson, Q. Febvre, A. Gorbunova, S. Metref, M. Ballarotta, J. Le Sommer, R. Fablet.
   link:
     url: https://hal.science/hal-04013195/
@@ -8,7 +8,6 @@
   highlight: 1
   news2:
 
- (2023). OceanBench: The Sea Surface Height Edition. arXiv preprint arXiv:2309.15599.
 
 - title: "Uncertainty quantification when learning dynamical models and solvers with variational methods"
   image: fig_4dvarnet-UQ-lafon-2023.jpg
@@ -16,6 +15,16 @@
   authors: N. Lafon, R. Fablet, P. Naveau
   link:
     url: https://hal.science/hal-04013195/
+    display:  JAMES, 2023.
+  highlight: 1
+  news2:
+
+- title: "A posteriori learning for quasi‐geostrophic turbulence parametrization"
+  image: fig_frezat_james_2023.jpg
+  description: In this paper, we focus on the representation of energy backscatter in two-dimensional quasi-geostrophic turbulence and compare parametrizations obtained with different learning strategies at fixed computational complexity. We show that strategies based on a priori criteria yield parametrizations that tend to be unstable in direct simulations and describe how subgrid parametrizations can alternatively be trained end-to-end in order to meet a posteriori criteria. We illustrate that end-to-end learning strategies yield parametrizations that outperform known empirical and data-driven schemes in terms of performance, stability, and ability to apply to different flow configurations.
+  authors: H. Frezat, J. Le Sommer, R. Fablet, G. Balarac, R. Lguensat.
+  link:
+    url: https://doi.org/10.1029/2022MS003124
     display:  JAMES, 2023.
   highlight: 1
   news2:
