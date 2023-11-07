@@ -313,25 +313,9 @@
   highlight: 1
   codetype: 1
 
-- title: "Incorporating Omics Knowledge Into Earth System Modeling"
-  image: eveillard.jpg
-  description: Over the last two decades, Earth System science has faced the challenge of incorporating organisms and their metabolisms into a global biogeochemical context. Bridging this gap would open up new ways to integrate the enormous wealth of -omics data to address links between biodiversity, microbial activity, and ecosystem functions, e.g., related to interactions between biological processes and the climate system. However, the complexity of solving several hundred equations at each grid point on Earth has so far precluded significant advances. Thus, Earth System Models (ESMs) highly simplify their representation of biological processes, leading to major uncertainty in climate change impacts and how changing phytoplankton physiology affects the production of key metabolites. Here we embed a genome-scale model within a state-of-the-art ESM to deliver an integrated understanding of how gradients in resource stress modulate metabolic reactions and molecular physiology. In particular, we show how the production of two carbon storage compounds (lipids and glycogen) in the prevalent marine cyanobacteria Prochlorococcus is associated with different acclimation strategies in conditions of different substrate availability. Accounting for all metabolic capacities, this allows explicitly predicting where carbon storage is used or zones producing around 50 critical metabolites for carbon cycle (i.e., DMSP). It allows us to decipher « hot spots » for the carbon cycle associated with emblematic planktons. More generally, this new framework will stimulate the future development of a new generation of trait-based models that can comfortably incorporate the complexities of cellular physiology.
-  date: 2023/10/18
-  authors: Damien Eveillard (Nantes University, LS2N)
-  link:
-    url: 
-    display: arXiv
-  zoomlink:
-    url: https://cnrs.zoom.us/j/99594638268?pwd=WlNrZW1KbUdBS0M1bWlabVRrOFIwdz09
-    display: Zoom link
-    ID:
-    Passcode:
-  highlight: 1
-  codetype: 2
-
-- title: ""
+- title: "Machine learning for acoustical oceanography: automatic source localization and environmental inversion using a single hydrophone"
   image: bonnel.jpg
-  description: 
+  description: Machine learning (ML), and more recently deep learning, have revolutionized computer science. However, the impact of ML on acoustical oceanography (AO) stays limited. This is largely due to two factors inherent to the ocean acoustics context: large datasets with reliable annotations are usually not available, and the signal degradation due to propagation and noise is more severe than for other classical ML applications. In this talk, we will show how traditional AO problems can be revisited using ML. The presentation will cover both the forward problem (simulating the underwater sound propagation) and the inverse problem (source localization and environmental characterization). A common point between those test-cases is that they are solved using neural networks relying on training datasets that include both simulated and experimental marine data. The presentation will demonstrate how this enable to automate and accelerate their resolution. This enables processing big AO datasets, which opens the door for new oceanographic discoveries. Two practical examples on marine data will be presented: North Atlantic right whale monitoring in Cape Cod Bay, and characterization of the spatial variability of the seafloor of the New England mud patch. 
   date: 2023/11/15
   authors: Julien Bonnel (WHOI)
   link:
@@ -361,6 +345,21 @@
   highlight: 1
   codetype: 2
 
+- title: "Incorporating Omics Knowledge Into Earth System Modeling"
+  image: eveillard.jpg
+  description: Over the last two decades, Earth System science has faced the challenge of incorporating organisms and their metabolisms into a global biogeochemical context. Bridging this gap would open up new ways to integrate the enormous wealth of -omics data to address links between biodiversity, microbial activity, and ecosystem functions, e.g., related to interactions between biological processes and the climate system. However, the complexity of solving several hundred equations at each grid point on Earth has so far precluded significant advances. Thus, Earth System Models (ESMs) highly simplify their representation of biological processes, leading to major uncertainty in climate change impacts and how changing phytoplankton physiology affects the production of key metabolites. Here we embed a genome-scale model within a state-of-the-art ESM to deliver an integrated understanding of how gradients in resource stress modulate metabolic reactions and molecular physiology. In particular, we show how the production of two carbon storage compounds (lipids and glycogen) in the prevalent marine cyanobacteria Prochlorococcus is associated with different acclimation strategies in conditions of different substrate availability. Accounting for all metabolic capacities, this allows explicitly predicting where carbon storage is used or zones producing around 50 critical metabolites for carbon cycle (i.e., DMSP). It allows us to decipher « hot spots » for the carbon cycle associated with emblematic planktons. More generally, this new framework will stimulate the future development of a new generation of trait-based models that can comfortably incorporate the complexities of cellular physiology.
+  date: 2024/01/17
+  authors: Damien Eveillard (Nantes University, LS2N)
+  link:
+    url:
+    display: arXiv
+  zoomlink:
+    url: https://cnrs.zoom.us/j/99594638268?pwd=WlNrZW1KbUdBS0M1bWlabVRrOFIwdz09
+    display: Zoom link
+    ID:
+    Passcode:
+  highlight: 1
+  codetype: 2
 
 
 
