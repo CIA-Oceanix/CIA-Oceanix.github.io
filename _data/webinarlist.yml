@@ -322,10 +322,10 @@
     url: 
     display: arXiv
   zoomlink:
-    url: 
+    url: https://cnrs.zoom.us/j/93807747257?pwd=MDVybFZCNW5PWWNBckRXQlpVU0FJdz09
     display: Zoom link
-    ID:
-    Passcode:
+    ID: 938 0774 7257
+    Passcode: 6aiqJz
   highlight: 1
   codetype: 2
 
