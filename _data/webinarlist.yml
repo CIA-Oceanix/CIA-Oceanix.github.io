@@ -319,15 +319,15 @@
   date: 2023/11/15
   authors: Julien Bonnel (WHOI)
   link:
-    url: 
-    display: arXiv
+    url: https://youtu.be/XHtDp4q99Cg
+    display: Webinar video
   zoomlink:
     url: https://cnrs.zoom.us/j/93807747257?pwd=MDVybFZCNW5PWWNBckRXQlpVU0FJdz09
     display: Zoom link
-    ID: 938 0774 7257
-    Passcode: 6aiqJz
+    ID:
+    Passcode:
   highlight: 1
-  codetype: 2
+  codetype: 1
 
 - title: ""
   image: bocquet.jpg
