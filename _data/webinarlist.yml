@@ -335,15 +335,15 @@
   date: 2024/01/17
   authors: Damien Eveillard (Nantes University, LS2N)
   link:
-    url:
-    display: arXiv
+    url: https://youtu.be/stSajFjxG_0 
+    display: Webinar video
   zoomlink:
     url: https://imt-atlantique.webex.com/meet/maxime.beauchamp
     display: Webex link
     ID:
     Passcode:
   highlight: 1
-  codetype: 2
+  codetype: 1
 
 - title: "Bridging Classical Data Assimilation and Optimal Transport"
   image: bocquet.jpg
