@@ -338,8 +338,8 @@
     url:
     display: arXiv
   zoomlink:
-    url: 
-    display: Zoom link
+    url: https://imt-atlantique.webex.com/meet/maxime.beauchamp
+    display: Webex link
     ID:
     Passcode:
   highlight: 1
