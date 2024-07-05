@@ -16,10 +16,10 @@ You will have the chance to work on grand challenges at the interface between AI
 
 We will open new PhD, postdoc and internship positions.
 You find the current job openings here:
-- PhD scholarship on **Learning Reduced-Order Ocean Forecasting Models** [here]({{ site.url }}{{ site.baseurl }}/downloads/phD_OceaniXShom2022.pdf)
-- Postdoctoral fellowship on **Learning-Based Reconstruction of Upper Ocean Dynamics from Underwater Acoustics Data** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_OceaniXShom2022.pdf)
-- Postdoctoral fellowship on **Deep emulators of marine plankton dynamics** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offer_anr_dream2022.pdf)
-- Postdoctoral fellowship on **Deep learning and data assimilation for ocean forecasting and reanalysis** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offer_edito_model_lab2022.pdf)
+- PhD scholarship on **Deep learning and Oceanography** [here]({{ site.url }}{{ site.baseurl }}/downloads/position_phd_OceaniX2024.pdf)
+- Engineer and Resarch position on **Deep learning and Oceanography** [here]({{ site.url }}{{ site.baseurl }}/downloads/position_OceaniX2024.pdf)
+<!-- - Postdoctoral fellowship on **Deep emulators of marine plankton dynamics** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offer_anr_dream2022.pdf)
+- Postdoctoral fellowship on **Deep learning and data assimilation for ocean forecasting and reanalysis** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offer_edito_model_lab2022.pdf)-->
 <!-- Postdoctoral fellowship on **deep learning, satellite imaging and marine biodiversity** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_offerFishPredict202201.pdf)-->
 <!-- Postdoctoral fellowship on **physics-informed deep emulators for ocean simulation and forecasting** [here]({{ site.url }}{{ site.baseurl }}/downloads/postdoc_OceaniX_2021.pdf)-->
 <!--
