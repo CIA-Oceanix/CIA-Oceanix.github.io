@@ -8,6 +8,27 @@
   highlight: 1
   news2:
 
+- title: "Training Neural Mapping Schemes for Satellite Altimetry With Simulation Data"
+  image: fig_febvre_james-2024.jpg
+  description: In this study, we conducted a series of numerical Lagrangian experiments in the Porcupine Abyssal Plain region of the North Atlantic and developed a machine learning approach to predict the surface origin of particles trapped in a deep-ocean sediment trap. Our numerical experiments support the predictive performance of the machine learning approach, and surface conditions appear to provide valuable information for accurately predicting the source area, suggesting a potential application with satellite data. We also identify factors that potentially affect prediction efficiency, and we show that the best predictions are associated with low kinetic energy and the presence of mesoscale eddies above the trap. 
+  authors: Febvre et al.
+  link:
+    url: https://os.copernicus.org/articles/20/1149/2024/
+    display:  Ocean Science, 2024.
+  highlight: 1
+  news2:
+
+- title: "Predicting particle catchment areas of deep-ocean sediment traps using machine learning"
+  image: fig_picard_os-2024.jpg
+  description: In this study, we conducted a series of numerical Lagrangian experiments in the Porcupine Abyssal Plain region of the North Atlantic and developed a machine learning approach to predict the surface origin of particles trapped in a deep-ocean sediment trap. Our numerical experiments support the predictive performance of the machine learning approach, and surface conditions appear to provide valuable information for accurately predicting the source area, suggesting a potential application with satellite data. We also identify factors that potentially affect prediction efficiency, and we show that the best predictions are associated with low kinetic energy and the presence of mesoscale eddies above the trap. 
+  authors: Febvre et al.
+  link:
+    url: https://os.copernicus.org/articles/20/1149/2024/
+    display:  Ocean Science, 2024.
+  highlight: 1
+  news2:
+
+
 - title: "Inversion of Sea Surface Currents From Satellite-Derived SST-SSH Synergies With 4DVarNets"
   image: fig_james_uv_ssh_sst-2024.jpg
   description:  Satellite altimetry provides a unique means for direct observation of sea surface currents, but it is confined to the geostrophic component, limiting the recovery of a substantial portion of mesoscale sea surface currents in operational products. To address this limitation, we present a novel deep learning framework, rooted in a variational data assimilation paradigm, that unlocks new avenues for leveraging the synergistic relationships between satellite-derived sea surface observations, namely sea surface height and sea surface temperature. This innovative scheme demonstrates its remarkable potential to enhance sea surface current reconstruction and recover a substantial portion of the elusive ageostrophic dynamics. 
