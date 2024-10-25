@@ -1,3 +1,22 @@
+- title: "Online Calibration of Deep Learning Sub-Models for Hybrid Numerical Modeling Systems"
+  image: fig_ega-2024.jpg
+  description:  Online learning methodologies thus require the numerical model to be differentiable, which is not the case for most modeling systems. To overcome this difficulty and bypass the differentiability challenge of physical models, we present an efficient and practical online learning approach for hybrid systems. The method, called EGA for Euler Gradient Approximation, assumes an additive neural correction to the physical model, and an explicit Euler approximation of the gradients. We demonstrate that the EGA converges to the exact gradients in the limit of infinitely small time steps. Numerical experiments are performed on various case studies, including prototypical ocean-atmosphere dynamics.
+  authors: S. Ouala, B. Chapron, F. Collard, L. Gaultier, R. Fablet.
+  link:
+    url: https://arxiv.org/abs/2311.10665
+    display:  Communications Physics, 2024.
+  highlight: 1
+  news2:
+
+- title: "Inversion of Sea Surface Currents From Satellite-Derived SST-SSH Synergies With 4DVarNets"
+  image: fig_james_uv_ssh_sst-2024.jpg
+  description:  Satellite altimetry provides a unique means for direct observation of sea surface currents, but it is confined to the geostrophic component, limiting the recovery of a substantial portion of mesoscale sea surface currents in operational products. To address this limitation, we present a novel deep learning framework, rooted in a variational data assimilation paradigm, that unlocks new avenues for leveraging the synergistic relationships between satellite-derived sea surface observations, namely sea surface height and sea surface temperature. This innovative scheme demonstrates its remarkable potential to enhance sea surface current reconstruction and recover a substantial portion of the elusive ageostrophic dynamics. 
+  link:
+    url: https://doi.org/10.1029/2023MS003609
+    display:  JAMES, 2024.
+  highlight: 1
+  news2:
+
 - title: "OceanBench: The Sea Surface Height Edition"
   image: fig_oceanbench-2023.jpg
   description: OceanBench is a unifying framework that provides standardized processing steps that comply with domain expert standards for the development and evaluation of deep learning schemes for physical oceanography. It is designed with a flexible and pedagogical abstraction. it provides plug-and-play data and pre-configured pipelines for ML researchers to benchmark their models w.r.t. ML and domain-related baselines and delivers a transparent and configurable framework for researchers to customize and extend the pipeline for their tasks.
@@ -7,7 +26,6 @@
     display:  NeurIPS, 2023.
   highlight: 1
   news2:
-
 
 - title: "Uncertainty quantification when learning dynamical models and solvers with variational methods"
   image: fig_4dvarnet-UQ-lafon-2023.jpg
