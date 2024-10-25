@@ -1,3 +1,6 @@
+https://doi.org/10.1029/2024GL108916
+
+
 - date: 30. September 2024
   headline: " <b> 4-day workshop on Deep Differentiable Emulators in EDITO Model Lab project, Grenoble. </b>." 
 
@@ -7,11 +10,23 @@
 - date: 23. September 2024
   headline: " <b> Talk by R. Fablet at CAS Institute of Oceanology, Qingdao. </b>." 
 
+- date: 19. September 2024
+  headline: " <b> New paper of T. Picard in Ocean Science on the neural prediction of particle catchment areas of deep-ocean sediment traps. </b> Link <a href='https://os.copernicus.org/articles/20/1149/2024/'> here</a>." 
+
 - date: 4. September 2024
   headline: " <b> PhD defense of R. Marcille on short-term neural metocean forecasting for offshore wind farms. </b>." 
 
+- date: 29. August 2024
+  headline: " <b> New paper on vessel trajectory forecasting by G. Spadon published in Ocean Engineering. </b>." 
+
+- date: 28. July 2024
+  headline: " <b> New paper on trends in satellite Chl products by E. Pauthenet published in GRL. </b> Link <a href='https://doi.org/10.1029/2024GL108916'> here</a>." 
+
 - date: 7-12. July 2024
   headline: " <b> Presentation of our work on neural mapping of sea surface turbidity at IEEE IGARSS, Athens. </b>." 
+
+- date: July 2024
+  headline: " <b> OceanBench-STOF project funded by CMEMS Service Evolution program. </b>." 
 
 - date: June 2024
   headline: " <b> Poster presentation of E. Cutolo at the SWOT science team meeting. </b>." 
@@ -27,6 +42,9 @@
 
 - date: 18. April 2024
   headline: " <b> Talk on AI for Ocean Science during the annual event for Christian le Provost prize. </b>." 
+
+- date: 16. April 2024
+  headline: " <b> New paper on the neural processing of balanced motion in SWOT observations by Z. Gao published in GRL. </b> Link <a href='https://doi.org/10.1029/2023GL106623'> here</a>." 
 
 - date: 15-19. April 2024
   headline: " <b> Posters at ICASSP in Seoul presented by P. Tripathi and P. Bauchot. </b>." 
