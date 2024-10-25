@@ -18,6 +18,27 @@
   highlight: 1
   news2:
 
+- title: "Convolutional Encoding and Normalizing Flows: A Deep Learning Approach for Offshore Wind Speed Probabilistic Forecasting in the Mediterranean Sea"
+  image: fig_marcille_aies-2024.jpg
+  description: We simulate Lagrangian drift on the sea surface and investigate deep learning approaches to address the shortcomings of current model-based and Markovian approaches, particularly concerning error propagation and computational complexity. We present a novel deep learning framework, referred to as DriftNet, inspired by the Eulerian Fokker-Planck representation of Lagrangian dynamics. Through numerical experiments for simulated and real drift trajectories on the sea surface, we illustrate the effectiveness of DriftNet compared to existing state-of-the-art schemes. We also delve into the influence of diverse geophysical fields, whether derived from models or observations, used as inputs by DriftNet on drift simulation. 
+  authors: Marcille et al.
+  link:
+    url: https://doi.org/10.1175/AIES-D-23-0112.1
+    display:  AIES, 2024.
+  highlight: 1
+  news2:
+
+
+- title: "Neural prediction of Lagrangian drift trajectories on the sea surface"
+  image: fig_driftnet-2024.jpg
+  description: We simulate Lagrangian drift on the sea surface and investigate deep learning approaches to address the shortcomings of current model-based and Markovian approaches, particularly concerning error propagation and computational complexity. We present a novel deep learning framework, referred to as DriftNet, inspired by the Eulerian Fokker-Planck representation of Lagrangian dynamics. Through numerical experiments for simulated and real drift trajectories on the sea surface, we illustrate the effectiveness of DriftNet compared to existing state-of-the-art schemes. We also delve into the influence of diverse geophysical fields, whether derived from models or observations, used as inputs by DriftNet on drift simulation. 
+  authors: Botvinko et al.
+  link:
+    url: https://hal.science/hal-04569385v2
+    display:  Submitted to AIES.
+  highlight: 1
+  news2:
+
 - title: "Predicting particle catchment areas of deep-ocean sediment traps using machine learning"
   image: fig_picard_os-2024.jpg
   description: In this study, we conducted a series of numerical Lagrangian experiments in the Porcupine Abyssal Plain region of the North Atlantic and developed a machine learning approach to predict the surface origin of particles trapped in a deep-ocean sediment trap. Our numerical experiments support the predictive performance of the machine learning approach, and surface conditions appear to provide valuable information for accurately predicting the source area, suggesting a potential application with satellite data. We also identify factors that potentially affect prediction efficiency, and we show that the best predictions are associated with low kinetic energy and the presence of mesoscale eddies above the trap. 
