@@ -10,6 +10,18 @@
   education4: 
   education5: 
 
+- name: Shashank K. Roy 
+  photo: shashank.jpg
+  info: Postdoc, IMT Atlantique, Lab-STICC
+  email: shashank.roy@imt-atlantique.fr
+  webpage: https://shashankkroy.github.io/
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4: 
+  education5: 
+
 - name: Mohamed Amar 
   photo: rock.jpg
   info: Research engineer, IMT Atlantique, Lab-STICC
