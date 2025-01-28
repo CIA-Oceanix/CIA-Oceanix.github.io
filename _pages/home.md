@@ -62,6 +62,7 @@ Our general objective is to bridge model-driven paradigms underlying physical sc
 
 **Contact:** Prof. Ronan Fablet (OceaniX PI, [webpage](https://rfablet.github.io/))
 
+**Instutional and industrial support and partnershops of AI chair OceaniX**:
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_OceanixSupport.jpg" style="width: 600px">
   <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ISBLUE.png" style="width: 50px">
