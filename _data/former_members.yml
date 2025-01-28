@@ -1,0 +1,85 @@
+
+- name: Duong Nguyen
+  photo: rock.jpg
+  info: PhD'2020
+  position: currently, R&D scientist, Paris, FR
+  number_educ: 0
+  education1:
+
+- name: Said Ouala
+  photo: rock.jpg
+  info: PhD'2020
+  position: currently, Ass. Professor, IMT Atlantique 
+  email: said.ouala@imt-atlantique.fr
+  number_educ: 0
+  education1:
+
+- name: Simon Bennaïchouche
+  photo: rock.jpg
+  info: PhD'2023
+  position: postdoc at INIRA Rennes
+  number_educ: 0
+  education1:
+
+- name: Aurélien Colin
+  photo: rock.jpg
+  info: PhD'2023
+  position: R&D engineer, France
+  number_educ: 0
+  education1:
+
+- name: Hugo Frezat
+  photo: rock.jpg
+  phd: PhD'2022
+  position: postdoc at IGE/INRIA GRA (Grenoble, FR)
+  number_educ: 0
+  education1:
+
+- name: Joana Roussillon
+  photo: rock.jpg
+  info: PhD'2022
+  position: research engineer at LEGOS (Toulouse, FR)
+  email: Joana.Roussillon@etudiant.univ-brest.fr
+  number_educ: 0
+  education1:
+
+- name: Amédée Roy
+  photo: rock.jpg
+  info: PhD'2022
+  position: research scientist at FEM (Brest, FR)
+  number_educ: 0
+  education1:
+
+- name: Jean-Marie Vient
+  photo: rock.jpg
+  info: PhD'2022
+  position: research scientist at SHOM (Brest, FR)
+  email: simon.benaichouche@imt-atlantique.fr
+  number_educ: 0
+  education1:
+
+- name: Quentin Febvre
+  photo: rock.jpg
+  info: PhD'2023
+  position: research scientist at Ifremer (Brest, FR)
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Nicolas Lafon
+  photo: rock.jpg
+  info: PhD'2024
+  position: postdoc, Polytechnique Montreal (Quebec, Canada)
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Matteo Zambra
+  photo: rock.jpg
+  info: PhD'2023
+  position: R&D engineer (Italy)
+  email: 
+  number_educ: 0
+  education1:
+
+ 
