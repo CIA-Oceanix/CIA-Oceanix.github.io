@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collaborators), [administrative support](#administrative-support).
+Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collaborators), [Former members](#former-members), [administrative support](#administrative-support).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -110,9 +110,11 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 </div>
 {% endif %}
 
-## Former members
+
+
+## Collaborators
 {% assign number_printed = 0 %}
-{% for member in site.data.former_members %}
+{% for member in site.data.collaborators %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -121,10 +123,12 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />-->
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}>
-  <br>Current position: {{ member.position }}</i>
-  <!--<br>webpage: <{{ member.webpage }}></i>-->
+  <i>{{ member.info }}
+  <!--<br>email: <{{ member.email }}><br>PhD topic: {{ member.phd }}
+  <br>webpage: <{{ member.webpage }}></i>-->
+  <br>webpage: <a href="{{ member.webpage }}"> link</a></i>
   <ul style="overflow: hidden">
 
 
@@ -144,9 +148,9 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 </div>
 {% endif %}
 
-## Collaborators
+## Former members
 {% assign number_printed = 0 %}
-{% for member in site.data.collaborators %}
+{% for member in site.data.former_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -155,12 +159,10 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />-->
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}
-  <!--<br>email: <{{ member.email }}><br>PhD topic: {{ member.phd }}
-  <br>webpage: <{{ member.webpage }}></i>-->
-  <br>webpage: <a href="{{ member.webpage }}"> link</a></i>
+  <i>{{ member.info }}<br>email: <{{ member.email }}>
+  <br>Current position: {{ member.position }}</i>
+  <!--<br>webpage: <{{ member.webpage }}></i>-->
   <ul style="overflow: hidden">
 
 
