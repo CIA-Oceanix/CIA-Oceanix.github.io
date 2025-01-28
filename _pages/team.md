@@ -110,6 +110,40 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 </div>
 {% endif %}
 
+## Former members
+{% assign number_printed = 0 %}
+{% for member in site.data.former_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}>
+  <br>Current position: {{ member.position }}</i>
+  <!--<br>webpage: <{{ member.webpage }}></i>-->
+  <ul style="overflow: hidden">
+
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 ## Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborators %}
