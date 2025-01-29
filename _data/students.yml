@@ -8,110 +8,75 @@
 #  education3:
 #  education4:
 
-- name: Duong Nguyen (2017-)
+- name: Pierre Haslée (2025-)
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
-  phd: Variational deep learning, dynamical systems and applications to maritime surveillance
-  supervisors: R. Fablet, R. Garello
-  email: van.nguyen1@imt-atlantique.fr
+  phd: Conditional generative models, variational data assimilation, ocean forecasting
+  supervisors: R. Fablet, L. Drumetz
+  email: pierre.haslee@imt-atlantique.fr
   number_educ: 0
   education1:
 
-- name: Said Ouala (2017-)
+- name: Oscar Gauvrit (2024-)
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
-  phd: Physics-informed deep learning and partially-observed (ocean) dynamics
-  supervisors: R. Fablet, A. Pascual, F. Collard, L. Gaultier (OceanDataLab)
-  email: said.ouala@imt-atlantique.fr
+  phd: Underwater acoustics, ocean data compression, deep learning
+  supervisors: R. Fablet, Y. Stéphan
+  email: oscar.gauvrit@imt-atlantique.fr
   number_educ: 0
   education1:
 
-- name: Simon Bennaïchouche (2019-)
+- name: Daniel Zhu (2024-)
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
-  phd: Deep learning and Sea state reconstruction from AIS data streams
-  supervisors: F. Rousseau, R. Fablet, C. Le Goff (Eodyn)
-  email: simon.benaichouche@imt-atlantique.fr
+  phd: satellite altimetry, neural mapping
+  supervisors: R. Fablet, J. Le Sommer, F. Rousseau
+  email: daniel.zhu@imt-atlantique.fr
   number_educ: 0
   education1:
 
-- name: Aurélien Colin (2019-)
+- name: Parth Tripathi (2022-)
   photo: rock.jpg
   info: PhD student at IMT Atlantique (Brest, FR)
-  phd: Deep learning and semantic segmentation of ocean SAR observations
-  supervisors: R. Husson, C. Peureux (CLS), R. Fablet, P. Tandeo
-  email: aurelien.colin@imt-atlantique.fr
+  phd: SAR imaging, wave spectrum, deep learning
+  supervisors: R. Fablet, F. Collard, B. Chapron
+  email: parth.tripathi@imt-atlantique.fr
   number_educ: 0
   education1:
 
-- name: Hugo Frezat (2019-)
+- name: Alice Laloue (2024-)
   photo: rock.jpg
-  phd: Deep learning for Data-Driven LES subgrid-scale flow modelling
-  info: PhD student at UGA (Grenoble, FR)
-  supervisors: G. Balarac (UGA/LEGI), J. Le Sommer (UGA/IGE), R. Fablet
-  email: hugo.frezat@univ-grenoble-alpes.fr
+  info: PhD student at LEGOS (Toulouse, FR)
+  phd: satellite altimetry, neural mapping
+  supervisors: L. Renaud, R. Fablet, I. Pujol
+  email: alice.laloue@groupcls.com
   number_educ: 0
   education1:
 
-- name: Joana Roussillon (2020-)
+- name: Jean Littaye (2022-)
   photo: rock.jpg
-  phd: Deep learning models for the reconstruction and understanding of decadal plankton dynamics
+  info: PhD student at LEMAR (Brest, FR)
+  phd: ocean biogeochemistry, model calibration, deep learning
+  supervisors: L. Mémery, R. Fablet
+  email: jean.littaye@imt-atlantique.fr
+  number_educ: 0
+  education1:
+
+- name: Perrine Bauchot (2021-)
+  photo: rock.jpg
+  info: PhD student at ENSTA Bretagne (Brest, FR)
+  phd: ocean reconstruction, observing system, deep learning
+  supervisors: A. Dremeau, F. Sévellec, R. Fablet
+  email: perrine.bauchot@imt-atlantique.fr
+  number_educ: 0
+  education1:
+
+- name: Tom Protin (2023-)
+  photo: rock.jpg
   info: PhD student at LOPS (Brest, FR)
-  supervisors: E. Martinez, T. Gorgues (IRD/LOPS), L. Drumetz, R. Fablet
-  email: Joana.Roussillon@etudiant.univ-brest.fr
-  number_educ: 0
-  education1:
-
-- name: Amédée Roy (2019-)
-  photo: rock.jpg
-  phd: Predicting Marine Birds Behaviour with Artificial Intelligence
-  info: PhD student at Marbec (Sète, FR)
-  supervisors: S. Bertrand (IRD/Marbec), R. Fablet
-  email: amedee.roy@protonmail.com
-  number_educ: 0
-  education1:
-
-- name: Jean-Marie Vient (2019-)
-  photo: rock.jpg
-  info: PhD student at Univ. of Brest, LGO (Brest, FR)
-  phd: Data-driven methods for the reconstruction of turbid ocean dynamics
-  supervisors: C. Delacourt (Univ. Brest), F. Jourdin (SHOM), R. Fablet
-  email: simon.benaichouche@imt-atlantique.fr
-  number_educ: 0
-  education1:
-
-- name: Quentin Febvre (2020-)
-  photo: rock.jpg
-  phd: End-to-end deep learning and satellite-derived sea surface dynamics
-  info: PhD student at IMT Atlantique (Brest, FR)
-  supervisors: R. Fablet, J. Le Sommer (IGE)
-  email: 
-  number_educ: 0
-  education1:
-
-- name: Tarun Singh (starting late 2020)
-  photo: rock.jpg
-  phd: Learning for turbulent flow control
-  info: PhD student at PPrime (Poitiers, FR)
-  supervisors: L. Cordier (CNRS/PPRIME), L. Mathelin (CNRS/LIMSI),  R. Fablet
-  email: 
-  education1:
-
-- name: Nicolas Lafon (starting early 2021)
-  photo: rock.jpg
-  phd: Deep learning and geophysical extremes
-  info: PhD student at LSCE (Paris, FR)
-  supervisors: P. Naveau (CNRS/LSCE), A. Sabourin (IPP/LTCI), R. Fablet
-  email: 
-  number_educ: 0
-  education1:
-
-- name: Matteo Zambra (2020-)
-  photo: rock.jpg
-  phd: Multimodal learning for ocean monitoring and surveillance
-  info: PhD student at IMT Atlantique (Brest, FR)
-  supervisors: D. Cazau, N. Farrugia, R. Fablet, A. Gensse (NavalGroup)
-  email: 
+  phd: wave modeling, lagrangian approaches
+  supervisors: V. resseguier, B. CHapron, R. Fablet
+  email: tomp.protin@ifrmeer.fr
   number_educ: 0
   education1:
 
