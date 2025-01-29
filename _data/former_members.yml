@@ -1,3 +1,32 @@
+- name: Maxime Beauchamp 
+  photo: rock.jpg
+  info: Postdoc 2020-2024
+  psoition: Research scientist at DMI, Denmark
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Mahima Lakra 
+  photo: rock.jpg
+  info: Postdoc 2023-2024
+  psoition: Ass. Professor, NITK Surathkal, India
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Hao Du
+  photo: rock.jpg
+  info: Visiting PhD student in 2024
+  position: currently, PhD student, CSIC, Spain
+  number_educ: 0
+  education1:
+
+- name: Z. Gao
+  photo: rock.jpg
+  info: Visiting PhD student in 2024
+  position: currently, PhD student, Ocean China University, Qingdao, China
+  number_educ: 0
+  education1:
 
 - name: Duong Nguyen
   photo: rock.jpg
@@ -82,4 +111,19 @@
   number_educ: 0
   education1:
 
+- name: Mohamed Amar 
+  photo: rock.jpg
+  info: Research engineer in 2021
+  position: R&D engineer (Italy)
+  number_educ: 0
+  education1: 
+
+- name: Noura Dridi 
+  photo: rock.jpg
+  info: Postdoc 2020-2022
+  position: Ass. Professor, ENS2M, Besnçon, FR
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
  
