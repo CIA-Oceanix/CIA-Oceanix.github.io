@@ -160,7 +160,7 @@ Jump to [staff](#staff), [PhD students](#PhD-students), [Collaborators](#collabo
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}>-->
   <br>Current position: {{ member.position }}</i>
   <!--<br>webpage: <{{ member.webpage }}></i>-->
   <ul style="overflow: hidden">
