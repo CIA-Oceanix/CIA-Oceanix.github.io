@@ -22,6 +22,66 @@
   education4: 
   education5: 
 
+- name: Nga Nguyen 
+  photo: rock.jpg
+  info: Postdoc, IMT Atlantique, Lab-STICC
+  email: nga.nguyen@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4: 
+  education5: 
+
+- name: Theo Picard 
+  photo: rock.jpg
+  info: Postdoc, IMT Atlantique, Lab-STICC
+  email: theo.picard@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4: 
+  education5: 
+
+- name: Kamel Ait Mohand 
+  photo: rock.jpg
+  info: research engineer, IMT Atlantique, Lab-STICC
+  email: kamel.ait-mohand@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4: 
+  education5: 
+
+- name: Oscar Chapron 
+  photo: rock.jpg
+  info: postdoc, IMT Atlantique, Lab-STICC
+  email: oscar.chapron@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4: 
+  education5: 
+
+- name: Guillermo Cossio 
+  photo: rock.jpg
+  info: research engineer, IMT Atlantique, Lab-STICC
+  email: guillermo.cossio@imt-atlantique.fr
+  webpage: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4: 
+  education5: 
+
 - name: Xavier Carton
   photo: rock.jpg
   info: Professor, UBO, LOPS
