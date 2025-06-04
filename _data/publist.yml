@@ -1,3 +1,13 @@
+- title: "Simulation-informed deep learning for enhanced SWOT observations of fine-scale ocean dynamics"
+  image: fig_ega-2024.jpg
+  description: We introduce SIMPGEN, Simulation-Informed Metric and Prior for Generative Ensemble Networks, an unsupervised adversarial learning framework combining real SWOT observations with simulated reference data. SIMPGEN leverages wavelet-informed neural metrics to distinguish noisy from clean fields, guiding realistic SSH reconstructions. Applied to SWOT data, SIMPGEN effectively removes noise, preserving fine-scale features better than existing neural methods. This robust, unsupervised approach not only improves SWOT SSH data interpretation but also demonstrates strong potential for broader oceanographic applications, including data assimilation and super-resolution. 
+  authors: S. Ouala, B. Chapron, F. Collard, L. Gaultier, R. Fablet.
+  link:
+    url: https://arxiv.org/abs/2503.21303
+    display:  arXiv, 2025.
+  highlight: 1
+  news2:
+
 - title: "Online Calibration of Deep Learning Sub-Models for Hybrid Numerical Modeling Systems"
   image: fig_ega-2024.jpg
   description:  Online learning methodologies thus require the numerical model to be differentiable, which is not the case for most modeling systems. To overcome this difficulty and bypass the differentiability challenge of physical models, we present an efficient and practical online learning approach for hybrid systems. The method, called EGA for Euler Gradient Approximation, assumes an additive neural correction to the physical model, and an explicit Euler approximation of the gradients. We demonstrate that the EGA converges to the exact gradients in the limit of infinitely small time steps. Numerical experiments are performed on various case studies, including prototypical ocean-atmosphere dynamics.
@@ -14,7 +24,7 @@
   authors: Febvre et al.
   link:
     url: https://os.copernicus.org/articles/20/1149/2024/
-    display:  Ocean Science, 2024.
+    display:  JAMES, 2024.
   highlight: 1
   news2:
 
