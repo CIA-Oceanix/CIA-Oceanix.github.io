@@ -1,7 +1,7 @@
 - title: "Simulation-informed deep learning for enhanced SWOT observations of fine-scale ocean dynamics"
-  image: fig_ega-2024.jpg
+  image: fig_simpgen-2025.jpg
   description: We introduce SIMPGEN, Simulation-Informed Metric and Prior for Generative Ensemble Networks, an unsupervised adversarial learning framework combining real SWOT observations with simulated reference data. SIMPGEN leverages wavelet-informed neural metrics to distinguish noisy from clean fields, guiding realistic SSH reconstructions. Applied to SWOT data, SIMPGEN effectively removes noise, preserving fine-scale features better than existing neural methods. This robust, unsupervised approach not only improves SWOT SSH data interpretation but also demonstrates strong potential for broader oceanographic applications, including data assimilation and super-resolution. 
-  authors: S. Ouala, B. Chapron, F. Collard, L. Gaultier, R. Fablet.
+  authors: E. Cutolo, C. Granero-Belinchon, P. Thiraux, J. Wang, R. Fablet.
   link:
     url: https://arxiv.org/abs/2503.21303
     display:  arXiv, 2025.
